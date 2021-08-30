@@ -1,0 +1,14 @@
+baseURL = 'http://trente.gelovenleren.net/'
+languageCode = 'nl-nl'
+title = 'Catechismus van het Concilie van Trente'
+theme = 'hugo-book'
+
+[menu]
+  # [before] []
+[[menu.after]]
+  name = "Geloven Leren"
+  url = "https://gelovenleren.net"
+  weight = 10
+
+[params]
+  BookSearch = true
