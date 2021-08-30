@@ -51,34 +51,34 @@ ISBN 906257016X
 
 ## Aanbeveling van Zijne Eminentie Kardinaal van Roey, Aartsbisschop van Mechelen bij de heruitgave in 1935
 
-Met innige voldoening begroeten wij deze nieuwe Nederlandsche vertaling van den *Catechismus Concilis Tridentini*, Wij danken én vertolker én uitgever voor hun zeer verdienstelijke onderneming, en wij wenschen dat het vermaarde boek, dank zij deze wel verzorgde uitgave, in ruime mate onder de geestelijkheid verspreid moge worden.
+Met innige voldoening begroeten wij deze nieuwe Nederlandsche vertaling van de *Catechismus Concilis Tridentini*, Wij danken én vertolker én uitgever voor hun zeer verdienstelijke onderneming, en wij wenschen dat het vermaarde boek, dank zij deze wel verzorgde uitgave, in ruime mate onder de geestelijkheid verspreid moge worden.
 
-De waarde immers, die den Catechismus van Trente moet toegekend worden, inzonderheid voor de zielezorg, zou moeilijk te overschatten zijn. Al wat het onderricht der christelijke leering betreft, is er beknopt en klaar in te vinden. ’t Is een volledige godgeleerdheid, in 't kort samengevat met het uitgesproken doel de priesters, voornamelijk de zielenherders, een praktisch werktuig ter hand te stellen om het volk te onderwijzen in de goddelijke waarheden. Geen boek bestaat er, dat meer gezag bezit op dat gebied. Uitgevaardigd door den Heiligen Paus Pius V, met aandrang aanbevolen door verscheidene zijner Opvolgers, zelfs opgelegd aan de pastoors door Paus Pius X in zijn Wereldbrief *Acerbo nimis*, verdient en behoort het te liggen op de werktafel van alle priesters.
+De waarde immers, die de Catechismus van Trente moet toegekend worden, inzonderheid voor de zielezorg, zou moeilijk te overschatten zijn. Al wat het onderricht der christelijke leering betreft, is er beknopt en klaar in te vinden. ’t Is een volledige godgeleerdheid, in 't kort samengevat met het uitgesproken doel de priesters, voornamelijk de zielenherders, een praktisch werktuig ter hand te stellen om het volk te onderwijzen in de goddelijke waarheden. Geen boek bestaat er, dat meer gezag bezit op dat gebied. Uitgevaardigd door de Heilige Paus Pius V, met aandrang aanbevolen door verscheidene zijner Opvolgers, zelfs opgelegd aan de pastoors door Paus Pius X in zijn Wereldbrief *Acerbo nimis*, verdient en behoort het te liggen op de werktafel van alle priesters.
 
 Bijzonder voor hen die in de Vlaamsche parochiën werkzaam zijn, zal deze goed bewerkte vertaling het gebruik ervan buitengewoon vergemakkelijken. Wij vertrouwen er dan ook op, dat zij die rijke mijn niet onbenuttigd zullen laten, maar dat zij er voortdurend zullen uit putten om hun onderrichtingen en sermonen grondig en leerzaam te maken.
 
-Gegeven te Mechelen, op den feestdag van OnzeLieve-Vrouw-Boodschap, 25 Maart 1935.
+Gegeven te Mechelen, op de feestdag van OnzeLieve-Vrouw-Boodschap, 25 Maart 1935.
 
 \+ J. E. KARD. VAN ROEY,
 Aartsb. van Mechelen
 
-## Nota van den vertaler
+## Nota van de vertaler
 
 Voor deze vertaling werd de uitgave gevolgd, die, in 1930, te Rome en Turijn bij Marietti verscheen, De onderverdeeling van de hoofdstukken werd bewaard zooals ze in die uitgave voorkomt.
 
 De lezer gelieve er rekening mee te houden dat deze Catechismus in de zestiende eeuw uitgegeven werd; het is noodig hem aan te passen aan de gewijzigde toestanden, en vooral aan de nieuwe bepalingen van het Kerkelijk Wetboek.
 
-We halen hier enkele voorbeelden aan, waarin de tekst van den Catechismus niet overeenkomt met het Kerkelijk Wetboek.
+We halen hier enkele voorbeelden aan, waarin de tekst van de Catechismus niet overeenkomt met het Kerkelijk Wetboek.
 
 1. Op bl. 213 zegt de Catechismus:
 
-    Niet alleen wordt de dooper met den doopeling door geestelijk verwantschap verbonden, maar ook de peter met zijn petekind *en met diens ouders*.
+    Niet alleen wordt de dooper met de doopeling door geestelijk verwantschap verbonden, maar ook de peter met zijn petekind *en met diens ouders*.
 
     En Canon 768 zegt :
 
-    De dooper en de peter worden *alleen met den doopeling* door geestelijk verwantschap verbonden.
+    De dooper en de peter worden *alleen met de doopeling* door geestelijk verwantschap verbonden.
 
-2. bl. 252 : Tusschen den vormeling en den vormpeter ontstaat geestelijk verwantschap, dat *een beletsel is voor het huwelijk*.
+2. bl. 252 : Tusschen de vormeling en de vormpeter ontstaat geestelijk verwantschap, dat *een beletsel is voor het huwelijk*.
 
     Canon 1079 : *Alleen* het geestelijk verwantschap dat ontstaat uit het Doopsel is een beletsel voor het huwelijk.
 
@@ -93,11 +93,11 @@ hebben.
 
     3 : de zalving van de voeten *mag weggelaten worden* als er reden toe is (ex qualibet rationabili causa).
 
-5. bl. 441 : Zijn onbekwaam omeen wettig huwelijk aan te gaan : bloedverwanten *tot den vierden graad* van verwantschap ; een jongen die nog geen *veertien* jaar oud is, of een meisje vóór haar *twaalfde* jaar.
+5. bl. 441 : Zijn onbekwaam omeen wettig huwelijk aan te gaan : bloedverwanten *tot de vierde graad* van verwantschap ; een jongen die nog geen *veertien* jaar oud is, of een meisje vóór haar *twaalfde* jaar.
 
     Canon 1067, 1 : Een man kan het huwelijk niet aangaan vóór hij ten volle *zestien* jaar oud is, een vrouw, vóór zij ten volle *veertien* jaar oud is.
 
-    Canon 1076, 2 : In zijdelingsche lijn (in linea collateral) is het huwelijk ongeldig *tot den derden graad* inbegrepen.
+    Canon 1076, 2 : In zijdelingsche lijn (in linea collateral) is het huwelijk ongeldig *tot de derde graad* inbegrepen.
 
 Deze voorbeelden zullen volstaan om te bewijzen dat de aanpassing noodig is. Doch als de aanpassing gebeurt, kan dit boek ongetwijfeld nog onschatbare diensten bewijzen aan geestelijken en geloovigen.
 
