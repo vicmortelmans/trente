@@ -119,7 +119,7 @@ En Hij wordt ook Heer genoemd, omdat bij Hem in één Persoon de goddelijke en d
 
 [^46.2]: Matth. XXVIII, 18.
 
-## 12. De christenen moeten zich gans aan Christus geven, en de prins der duisternis met de voeten treden.
+## De christenen moeten zich gans aan Christus geven, en de prins der duisternis met de voeten treden.
 
 Verder zal de pastoor het gelovig volk voor ogen houden dat wij ons als slaven aan onze Heer en Verlosser voor eeuwig moeten geven en toewijden ; meer dan wie ook, moeten wij dit doen, wij die zijn naam dragen en christenen genoemd worden, wij die weten hoe grote weldaden Hij ons bewezen heeft en, dank aan zijn goedheid, dit alles kennen door het geloof.
 

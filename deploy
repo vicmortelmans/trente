@@ -1,0 +1,13 @@
+#!/bin/bash
+cd public
+if [ ! -f "404.html" ]; then
+  echo "This doesn't seem to be a valid public folder; exiting"
+  exit
+fi
+lftp -u $TRENTE_USER,$TRENTE_PASSWORD @$TRENTE_SERVER << EOF
+set ssl:check-hostname no
+set ftp:use-mdtm off
+mirror -R -n --use-cache --parallel=4 --ignore-time --verbose
+bye
+EOF
+
