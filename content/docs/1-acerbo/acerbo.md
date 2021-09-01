@@ -55,7 +55,7 @@ Alwie nadenkt, zal gemakkelijk die waarheid inzien.  De christelijke lering doet
 
 Van Christus leren we ook de wijsheid van de geest, die ons de wijsheid van het vlees doet mijden ; de rechtvaardigheid, waardoor we aan iedereen geven wat hem toekomt ; de sterkte, die ons vaardig maakt om met een grootmoedig hart alles te lijden, voor God en de eeuwige zaligheid ; eindelijk de matigheid, die ons de armoede doet liefhebben om wille van Gods rijk, ja zelfs ons doet roemen op het kruis en de verachting doet geringschatten.
 
-Zoo staat het vast dat de christelijke wijsheid niet alleen aan de geest het nodige licht geeft om de waarheid te bereiken, maar ook aan de wil de vurigheid schenkt die hem tot God verheft en met God verenigt door het beoefenen van de deugd.
+Zo staat het vast dat de christelijke wijsheid niet alleen aan de geest het nodige licht geeft om de waarheid te bereiken, maar ook aan de wil de vurigheid schenkt die hem tot God verheft en met God verenigt door het beoefenen van de deugd.
 
 Dat wil echter niet zeggen dat boosheid en verdorvenheid niet kunnen samengaan met de kennis van de godsdienst. Gave God dat de feiten niet zo overvloedig de mogelijkheid van dit samengaan bewezen !
 
@@ -85,7 +85,7 @@ Het is dan ook met een uiterste strengheid dat de Kerk de wetenschap eist van al
 
 Daarom zegt de bisschop, op de dag der wijding, aan de wijdelingen: “ Laat uw lering een geestelijk geneesmiddel zijn voor het volk van God... Zijt de vooruitziende medewerkers van onze Orde ; overweegt dag en nacht de Wet van God, zodat ge gelooft wat ge leest en voorhoudt wat ge gelooft „ [^xiv3].
 
-Zoo er geen enkel priester is op wie deze woorden niet toepasselijk zijn, wat dan denken van hen die de naam en de macht van pastoor ontvangen hebben, en daardoor, krachtens hun waardigheid en als door een overeenkomst die ze aangegaan hebben, gelast zijn met de leiding der zielen ?
+Zo er geen enkel priester is op wie deze woorden niet toepasselijk zijn, wat dan denken van hen die de naam en de macht van pastoor ontvangen hebben, en daardoor, krachtens hun waardigheid en als door een overeenkomst die ze aangegaan hebben, gelast zijn met de leiding der zielen ?
 
 Zij moeten, in zekeren zin, gerekend worden tussen de herders en de leraars die Christus gegeven heeft opdat de gelovigen niet meer als kinderen zouden zijn, als een vloed bewogen en omgedreven door elke wind der lering door de bedriegerij der mensen, maar dat ze de waarheid in liefde betrachten en opgroeien in Hem die het Hoofd is, In Christus [^xiv4].
 
@@ -131,13 +131,13 @@ Ze kennen de wet van Christus niet, die niet alleen de schandige daden verbiedt,
 
 Al die ondeugden, wij herhalen het, vindt men niet alleen op de buiten of bij de lagere volksklas, maar ook, en misschien nog meer, bij de hogere standen, ja zelfs bij diegenen die groot gaan op hun wetenschap, en die, steunend op hun ijdele geleerdheid, menen de godsdienst te mogen bespotten, en “ lasteren al wat ze niet kennen „ [^xviii1].
 
-Zoo men te vergeefs een oogst verwacht van een grond die niet bezaaid werd, hoe zou men dan goede zeden verwachten bij een geslacht dat, ten gepasten tijde, niet onderwezen werd in de christelijke lering ?  Terecht mogen we besluiten, vermits op onze dagen het geloof zozeer kwijnt dat het bij velen haast dood is, dat de plicht van het catechetisch onderwijs zonder zorg vervuld wordt, of gans verwaarloosd.
+Zo men te vergeefs een oogst verwacht van een grond die niet bezaaid werd, hoe zou men dan goede zeden verwachten bij een geslacht dat, ten gepasten tijde, niet onderwezen werd in de christelijke lering ?  Terecht mogen we besluiten, vermits op onze dagen het geloof zozeer kwijnt dat het bij velen haast dood is, dat de plicht van het catechetisch onderwijs zonder zorg vervuld wordt, of gans verwaarloosd.
 
 Het helpt niet, als verontschuldiging aan te brengen, dat: het geloof een gave is, die ons zonder enige verdienste geschonken wordt, en dat iedereen het ontvangt in het heilig Doopsel.
 
 [^xviii1]: Jud. 10.
 
-Zeker werd ons allen, die in Christus gedoopt zijn, het geloof ingestort ; doch dit goddelijk zaad kan niet “ opschieten en grote takken voortbrengen „ [^xix1] zo het aan zichzelf en aan zijn eigen kracht overgelaten is, De mens heeft, van af zijn geboorte, het vermogen om te begrijpen ; en toch heeft dat vermogen het woord van moeder nodig om opgewekt te worden en tot te daad over te gaan. Zoo gaat het ook met de christen mens, die, bij zijn wedergeboorte uit het water en de Heilige Geest, een kiem van geloof ontvangt : hij heeft ook de onderrichting van de Kerk nodig, opdat het geloof gevoed worde en groeie en vruchten drage. Daarom schreef de Apostel : “ Het geloof komt door de prediking, en de prediking door het woord van Christus „ [^xix2] ; en om de noodzakelijkheid van het onderwijs aan te tonen, voegt hij er bij : “ Hoe zouden zij horen, als niemand predikt? „ [^xix3]
+Zeker werd ons allen, die in Christus gedoopt zijn, het geloof ingestort ; doch dit goddelijk zaad kan niet “ opschieten en grote takken voortbrengen „ [^xix1] zo het aan zichzelf en aan zijn eigen kracht overgelaten is, De mens heeft, van af zijn geboorte, het vermogen om te begrijpen ; en toch heeft dat vermogen het woord van moeder nodig om opgewekt te worden en tot te daad over te gaan. Zo gaat het ook met de christen mens, die, bij zijn wedergeboorte uit het water en de Heilige Geest, een kiem van geloof ontvangt : hij heeft ook de onderrichting van de Kerk nodig, opdat het geloof gevoed worde en groeie en vruchten drage. Daarom schreef de Apostel : “ Het geloof komt door de prediking, en de prediking door het woord van Christus „ [^xix2] ; en om de noodzakelijkheid van het onderwijs aan te tonen, voegt hij er bij : “ Hoe zouden zij horen, als niemand predikt? „ [^xix3]
 
 Als de uitleg die voorgaat, het uiterste belang aantoont van de godsdienstige onderrichting van het volk; dan hebben wij met de grootste zorg te waken, dat het onderwijs van de christelijke lering — de instelling die, volgens het woord van onze voorganger Benedictus XIV, het meeste nut oplevert voor de glorie van God en het heil der zielen — altijd bloeie, en, waar het verwaarloosd werd, in ere hersteld worde.
 
@@ -176,7 +176,7 @@ Zij die rekenen op de onwetendheid en de traagheid van het volk, en daarom menen
 
 Integendeel, hoe meer de toehoorders bekrompen zijn van begrip, hoe meer ijver en zorg er nodig is om de allerhoogste waarheden, die ook boven het gewoon verstand zozeer verheven zijn, in het bereik te brengen van de onwetenden, voor wie die waarheden, evenzeer als voor de geleerden, nodig zijn om het eeuwig geluk te bekomen.
 
-Laat ons toe, Eerbiedwaardige Broeders, dezen brief te eindigen met u dit woord van Mozes toe te sturen : “ Zoo iemand van God is, dat hij zich met mij verenige „ [^xxii1]. We bidden en smeken u te willen nagaan hoeveel zielen verloren gaan, alleen door onwetendheid van de goddelijke zaken. Wellicht werden, in uw bisdommen, vele en lofwaardige werken ingericht voor het heil van de kudde die U toevertrouwd is ; gelieft nochtans vóór alles al uw ijver, al uw zorg, al uw gestadige bekommernis te gebruiken om de kennis van de christelijke lering mede te delen aan de zielen en ze er gans van te doordringen.  Met de Apostel Petrus zeggen wij: “ Naar de gave die ieder ontving, moet gij elkander daarmee dienen als goede rentmeesters van de veelvuldige genade van God „[^xxiii1].
+Laat ons toe, Eerbiedwaardige Broeders, dezen brief te eindigen met u dit woord van Mozes toe te sturen : “ Zo iemand van God is, dat hij zich met mij verenige „ [^xxii1]. We bidden en smeken u te willen nagaan hoeveel zielen verloren gaan, alleen door onwetendheid van de goddelijke zaken. Wellicht werden, in uw bisdommen, vele en lofwaardige werken ingericht voor het heil van de kudde die U toevertrouwd is ; gelieft nochtans vóór alles al uw ijver, al uw zorg, al uw gestadige bekommernis te gebruiken om de kennis van de christelijke lering mede te delen aan de zielen en ze er gans van te doordringen.  Met de Apostel Petrus zeggen wij: “ Naar de gave die ieder ontving, moet gij elkander daarmee dienen als goede rentmeesters van de veelvuldige genade van God „[^xxiii1].
 
 [^xxii1]: Exod. XXXII, 26.
 
