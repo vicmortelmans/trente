@@ -16,7 +16,7 @@ DRUKKER VAN Z. H. DEN PAUS, VAN DE HH. CONGREGATIEN DER RITUSSEN EN DER PROPAGAN
 
 IMPRIMATUR
 
-Mechlinie:, die 25 Martii 1935
+Mechlinie, die 25 Martii 1935
 
 \+ J E. CARD. VAN ROEY,  
 Archiep. Mechlinien.
