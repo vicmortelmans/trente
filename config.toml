@@ -1,5 +1,5 @@
 baseURL = 'http://trente.gelovenleren.net/'
-languageCode = 'nl-nl'
+languageCode = 'nl'
 title = 'Catechismus van het Concilie van Trente'
 theme = 'hugo-book'
 

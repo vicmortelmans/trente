@@ -94,7 +94,7 @@ De heilige Evangelist heeft uitvoerig de geschiedenis der geboorte van Christus 
 
 [^55.5]: Exod. III, 2.
 
-## Het volk moet doordrongen -worden van het geheim der menswording.
+## Het volk moet doordrongen worden van het geheim der menswording.
 
 De priester zal wel zorgen dat de geesten en de harten der gelovigen doordrongen zijn van deze geheimenissen, die tot onze onderrichting geschreven zijn, vooreerst opdat ze, bij het herdenken van zo 'n grote weldaad, dank zeggen aan God die ze ons schonk, en verder, opdat ze dit schitterende en uitstekende voorbeeld van nederigheid voor ogen houden ter navolging. Wat toch kan ons nuttiger zijn en beter geschikt om onze hoogmoed en zelfverheffing te bedwingen, dan dikwijls te overwegen dat God zich zo diep vernederd heeft om zijn glorie aan de mensen mede te delen en zelf krankheid en zwakheid op zich te nemen ; dat God mens geworden is, en dat de opperste en oneindige Majesteit, op wiens wenk de zuilen van de hemel sidderen en beven [^56.1] zich gewaardigd heeft de mens te dienen ; dat Hij dien de engelen in de hemel aanbidden, op aarde geboren wordt. Als God dit om onzentwille gedaan heeft, wat zullen wij dan moeten doen voor Hem ? Met wat vreugdig en gewillig gemoed moeten wij dan alle oefeningen van nederigheid beminnen, omhelzen en volbrengen ?
 

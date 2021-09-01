@@ -1,17 +1,35 @@
 ---
 weight: 10
-title: "Inleiding bij de uitgave (1984)"
+title: "Verantwoording"
 ---
 
-# Inleiding bij de uitgave
+# Verantwoording
+
+## Voorwoord bij de digitalisering in 2021
+
+Deze website presenteert de integrale digitalisering van de *Romeinse Catechismus* uit 1566. Als basis nam ik een publicatie in boekvorm uit 1984 van stichting De Boog. Die bevatte een facsimile van de (laatste) Nederlandse vertaling van deze catechismus, die dateert van 1935. 
+
+De vertaling van 1935 bevatte als inleiding een *Aanbeveling van mgr. van Roey*, een *Nota van de vertaler* en een Nederlandse vertaling van de encycliek *Acerbo Nimis* van paus Pius X uit 1905, die eveneens op deze website te vinden zijn.
+
+De heruitgave van 1984 voegde een eigen *Voorwoord* toe, hieronder eveneens overgenomen.
+
+In het licht van de geschiedenis is het interessant te beseffen dat de katholieke Kerk intussen een nieuwe catechismus heeft uitgevaardigd: de [*Catechismus van de Katholieke Kerk*](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1), die in 1992 door de heilige paus Johannes-Paulus II werd gepubliceerd en waaraan een commissie van 12 bisschoppen en kardinalen in 1986 in zijn opdracht begon te werken. Net zoals de *Romeinse Catechismus* als bedoeling had de inzichten van het Concilie van Trente (1563–1566) te verspreiden, heeft de *Catechismus van de Katholieke Kerk* dat met betrekking tot het Tweede Vaticaans Concilie (1962–1965). 
+
+In 1984, het jaar van de heruitgave van onderhavige catechismus en bijna twintig jaar na het Tweede Vaticaans Concilie, was die nieuwe catechismus bijgevolg nog niet beschikbaar, hoewel de paus toen—zoals hieronder te lezen valt—wel reeds de hoop uitdrukte dat die er zou komen. In dat licht moet dan ook het hiernavolgende *Voorwoord* gelezen worden!
+
+Het mag niet erg zinvol lijken om vandaag nog over te gaan tot de publicatie van een intussen voorbijgestreefde catechismus, maar ik ben ervan overtuigd dat de welwillende lezer, die niet slechts denkt in termen van 'links' en 'rechts', of 'modern' en 'ouderwets', er zijn spirituele gading in kan vinden! Een katholiek uit de zestiende eeuw verschilt in zijn geloofsvragen niet fundamenteel van één uit de eenentwintigste eeuw, of bij uitbreiding zelfs van één uit de eerste eeuwen van het christendom. Alles wat in deze catechismus wordt verwoord, belangt ons onveranderd aan. Lectuur van deze catechismus is des te leerrijker, wanneer we ons door inzichten laten confronteren waaraan vandaag geen belang meer wordt gehecht, zodat zij in ons begrip van het geloof iets werkelijks nieuws teweeg kunnen brengen. Wel moet de lezer zich realiseren dat sommige punten uit het canoniek recht intussen veranderd zijn, waarnaar de vertaler in zijn *Nota* verwijst.
+
+Als technische nota bij de digitalisering vermeld ik dat er geen tekstuele wijzigingen zijn aangebracht, behalve de modernisering van de spelling naar hedendaagse normen, wat niet uistluit dat het taalgebruik en de grammaticale constructies die van de vertaler uit 1935 zijn en dus ietwat stroef kunnen overkomen.
+
+[*Geloven Leren*](https://gelovenleren.net)
 
 ## Voorwoord bij de heruitgave in 1984
 
-De Catechismus van het Concilie van Trente is in wezen een catechismus voor volwassenen en in het bijzonder voor diegenen die zich met catechese bezighouden. Zijn waarde kan moeilijk overschat worden: nooit heef de Kerk zich zo plechtig uitgesproken over wat aan het Volk Gods onderwezen moet worden, en ook over wat aan het Volk Gods onderwezen moet worden, en ook over de praktische doeleinden van dit onderricht. Dit werk is door een pauselijke theologenicommissie samengesteld in de periode 1563-1566, als uitvoering van een voornaam besluit van het Concilie van Trente, en is voor het eerst in Rome gedrukt met de goedkeuring en de H.Paus Pius V.  Daarom staat deze catechismus ook bekend onder de namen Romeinse Catechismus en Catechismus van de H.Pius V.
+De *Catechismus van het Concilie van Trente* is in wezen een catechismus voor volwassenen en in het bijzonder voor diegenen die zich met catechese bezighouden. Zijn waarde kan moeilijk overschat worden: nooit heef de Kerk zich zo plechtig uitgesproken over wat aan het Volk Gods onderwezen moet worden, en ook over wat aan het Volk Gods onderwezen moet worden, en ook over de praktische doeleinden van dit onderricht. Dit werk is door een pauselijke theologenicommissie samengesteld in de periode 1563-1566, als uitvoering van een voornaam besluit van het Concilie van Trente, en is voor het eerst in Rome gedrukt met de goedkeuring en de H. Paus Pius V.  Daarom staat deze catechismus ook bekend onder de namen *Romeinse Catechismus* en *Catechismus van de H. Pius V*.
 
 De Pausen van de daarop volgende eeuwen hebben herhaaldelijk deze catechismus aanbevolen, Om ons tot de laatste honderd jaar te beperken: Leo XIII beval hem de Franse clerus aan als "een gouden boek". Aan het begin van deze eeuw drong weer de H.Pius X tot het gebruik ervan aan, onder meer om gevrijwaard te blijven tegen de dwalingen van het modernisme, Op 25 januari 1960 zei paus Johannes XXIII: "Geliefde Broeders en Zusters, wij zouden uw aandacht kunnen vragen voor uitgebreide theologische onderzoekingen of voor beschouwingen volgens een moderne of zeer moderne stijl, maar willen U dat liever besparen en aandacht schenken aan twee bronnen van hemelse genade, van bijbelse en kerkelijke leer, met name: de leer van St. Petrus en St. Paulus in hun brieven; en naast deze twee verheven bronnen, de besluiten van het Concilie van Trente, aangevuld en beschreven in een rijke schat: de Romeinse Catechismus of Catechismus van het Concilie van Trente, door de H.Pius V uitgevaardigd (...). Kardinaal Valerio, een vriend van de H.Carolus Borromeus; noemde deze catechismus ‘een goddelijk geschenk aan de Kerk', Graag nemen wij deze gelegenheid te baat om te herinneren aan de grote waarde die deze catechismus heeft voor de zondagsprediking en voor degenen die niet veel tijd hebben om zich aan diepe studie te wijden, En ook voor degenen die in hun studie verlangen naar helderheid in de formulering, wat betreft theologie, dogma en moraal". [^vw1]
 
-In 1979 schreef paus Johannes Paulus II het volgende: "Het dienstwerk van de catechese heeft uit de concilies altijd nieuwe krachten geput, Het Concilie van Trente is daarvan een opmerkelijk voorbeeld: in zijn constituties en decreten heeft het immers aan de catechese prioriteit gegeven; het heeft aan de oorsprong gestaan van de 'Romeinse Catechismus' die ook wel de naam van dat concilie draagt en die, als samenvatting van de christelijke leer en van de overgeleverde theologie, een eersteklaswerkstuk is ten gebruike van de priesters; het gaf in de Kerk de impuls tot een opmerkelijke organisatie van de catechese, en was voor de geestelijkheid een hele stimulans bij de vervulling van hun plicht tot catechetisch onderricht; en het heeft bovendien, dank zij de heilige theologen als St, Carolus Borromeus, St. Robertus Bellarminus en St. Petrus Canisius, geleid tot de publicatie van catechismussen die voor die tijd werkelijk model konden staan. Dat het Tweede Vaticaans Concilie in onze dagen een soortgelijk elan en werk mag doen ontstaans![^vw2] 
+In 1979 schreef paus Johannes Paulus II het volgende: "Het dienstwerk van de catechese heeft uit de concilies altijd nieuwe krachten geput, Het Concilie van Trente is daarvan een opmerkelijk voorbeeld: in zijn constituties en decreten heeft het immers aan de catechese prioriteit gegeven; het heeft aan de oorsprong gestaan van de 'Romeinse Catechismus' die ook wel de naam van dat concilie draagt en die, als samenvatting van de christelijke leer en van de overgeleverde theologie, een eersteklaswerkstuk is ten gebruike van de priesters; het gaf in de Kerk de impuls tot een opmerkelijke organisatie van de catechese, en was voor de geestelijkheid een hele stimulans bij de vervulling van hun plicht tot catechetisch onderricht; en het heeft bovendien, dank zij de heilige theologen als St. Carolus Borromeus, St. Robertus Bellarminus en St. Petrus Canisius, geleid tot de publicatie van catechismussen die voor die tijd werkelijk model konden staan. Dat het Tweede Vaticaans Concilie in onze dagen een soortgelijk elan en werk mag doen ontstaans![^vw2] 
 
 In januari 1983, op een belangrijke pastorale ontmoeting in Frankrijk over de overdracht van het geloof in deze tijd, haalde kardinaal J. Ratzinger, prefect van de Congregatie van de Geloofsleer in Rome, veelvuldig deze catechismus aan. Hij noemde hem 'de voornaamste katholieke catechismus' [^vw3], zocht steun in diens definitie van het woord 'geloven' en sprak met instemming over ontstaan en structuur van de klassieke catechese van de Kerk — o.m. door deze catechismus vertegenwoordigd — en benadrukte met klem dat ze steeds geldig en essentieel is, "De inwendige samenhang tussen het woord en het organisme dat het draagt, wijst de weg van de catechese aan.  Haar structuur komt tot uiting doorheen de voornaamste gebeurtenissen van het leven der Kerk, die aan de wezenlijke dimensies van het christelijk leven beantwoorden.  Zo ontstond vanaf het begin een catechetische structuur waarvan de kern teruggaat tot de oorsprong van de Kerk, Luther heeft deze structuur even vanzelfsprekend gebruikt als de auteurs van de Catechismus van Trente dat gedaan hebben, Dat was mogelijk omdat het niet ging om een kunstmatig systeem, maar eenvoudig om de synthese van het geheugenmateriaal dat noodzakelijk is voor de uitdrukking van het geloof, en dat tegelijkertijd de gegevens behelst die onontbeerlijk zijn voor het leven van de Kerk: het symbolum der Apostelen, de sacramenten, de tien geboden, het gebed des Heren, Deze vier klassieke bestanddelen van de catechese dienden eeuwenlang als stramien en inhoud van het catechetisch onderricht; zij hebben ook de toegang tot de Bijbel en tot het leven van de Kerk geopend. Wij zegden dat zij beantwoorden aan de dimensies van het christelijk bestaan, Dit wordt bevestigd door de Romeinse Catechismus waar hij zegt dat men daarin alles vindt wat de christen moet geloven (symbolum); hopen (Onze Vader), doen (tien geboden, en in welke levensruimte hij het moet volbrengen (sacramenten en Kerk) (art, 12). („..) Men ziet niet in waarom sommigen vandaag menen deze eenvoudige structuur, die zowel theologisch als pedagogisch juist is, te moeten prijsgeven."
 
@@ -39,15 +57,12 @@ Wij willen de lezer eraan herinneren, dat de structuur van de Catechismus van Tr
 
 [^vw6]: Vgl. Il catechismo romanocommentato, Ed, Ares, Milano 1983, laatste Italiaanse vertaling van de Catechismus van Trente, met uitvoerig pastoraal-theologisch commentaar door Mgr. Luigi Andrianopoli
 
-STICHTING DE BOOG
+*STICHTING DE BOOG*
 
-Herenstraat 41, 3512 KB Utrecht
+Herenstraat 41, 3512 KB Utrecht  
 Molièrelaan 325, 1060 Brussel
 
 april 1984
-
-ISBN 906257016X
-
 
 ## Aanbeveling van Zijne Eminentie Kardinaal van Roey, Aartsbisschop van Mechelen bij de heruitgave in 1935
 
@@ -55,7 +70,7 @@ Met innige voldoening begroeten wij deze nieuwe Nederlandsche vertaling van de *
 
 De waarde immers, die de Catechismus van Trente moet toegekend worden, inzonderheid voor de zielezorg, zou moeilijk te overschatten zijn. Al wat het onderricht der christelijke leering betreft, is er beknopt en klaar in te vinden. ’t Is een volledige godgeleerdheid, in 't kort samengevat met het uitgesproken doel de priesters, voornamelijk de zielenherders, een praktisch werktuig ter hand te stellen om het volk te onderwijzen in de goddelijke waarheden. Geen boek bestaat er, dat meer gezag bezit op dat gebied. Uitgevaardigd door de Heilige Paus Pius V, met aandrang aanbevolen door verscheidene zijner Opvolgers, zelfs opgelegd aan de pastoors door Paus Pius X in zijn Wereldbrief *Acerbo nimis*, verdient en behoort het te liggen op de werktafel van alle priesters.
 
-Bijzonder voor hen die in de Vlaamsche parochiën werkzaam zijn, zal deze goed bewerkte vertaling het gebruik ervan buitengewoon vergemakkelijken. Wij vertrouwen er dan ook op, dat zij die rijke mijn niet onbenuttigd zullen laten, maar dat zij er voortdurend zullen uit putten om hun onderrichtingen en sermonen grondig en leerzaam te maken.
+Bijzonder voor hen die in de Vlaamse parochiën werkzaam zijn, zal deze goed bewerkte vertaling het gebruik ervan buitengewoon vergemakkelijken. Wij vertrouwen er dan ook op, dat zij die rijke mijn niet onbenuttigd zullen laten, maar dat zij er voortdurend zullen uit putten om hun onderrichtingen en sermonen grondig en leerzaam te maken.
 
 Gegeven te Mechelen, op de feestdag van OnzeLieve-Vrouw-Boodschap, 25 Maart 1935.
 
