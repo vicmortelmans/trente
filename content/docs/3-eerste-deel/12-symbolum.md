@@ -53,9 +53,9 @@ Alhoewel het gemakkelijker is, volgens de heilige Augustinus, de ellenden op te 
 
 De ware gelukzaligheid, die men hoofdzakelijk kan noemen, bestaat in het beschouwen van God en in het genieten van zijn schoonheid, omdat Hij de bron en het beginsel is van alle goedheid en volmaaktheid.  “ Dit is het eeuwig leven, zo zegt Christus onze Heer, dat zij U kennen, de enige ware God, en Jezus Christus, dien Gij gezonden hebt „ [^162.1]. Die woorden schijnt de heilige Joannes uit te leggen, als hij zegt: “ Geliefden, nu zijn wij kinderen van God, en het is nog niet aan het licht gebracht wat wij zullen zijn.  Wij weten dat, wanneer Hij verschijnt, wij aan Hem gelijk zullen zijn, daar wij Hem zullen zien zoals Hij is „ [^162.2]. Daardoor geeft hij te kennen dat de gelukzaligheid tweevoudig is : we zullen God aanschouwen zoals Hij is in zijn wezen en zelfstandigheid, en we zullen zelf als goden worden. Want alhoewel zij, die God genieten, hun eigen wezen behouden, toch worden zij bekleed met een wonderbare en bijna goddelijke hoedanigheid, zodat zij eer goden dan mensen zullen schijnen.
 
-[^163.1]: Jo. XVII, 3.
+[^162.1]: Jo. XVII, 3.
 
-[^163.2]: I Jo. III, 2.
+[^162.2]: I Jo. III, 2.
 
 ## De gelukzaligen zullen in zekeren zin met de goddelijke natuur bekleed worden.
 
