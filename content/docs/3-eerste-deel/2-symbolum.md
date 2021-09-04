@@ -99,13 +99,13 @@ Onder al de gelijkenissen die men gebruikt om het eeuwige voortbrengen van God d
 
 Toch is het beter te beschouwen wat het geloof ons voorhoudt, en met een oprecht gemoed te geloven en te belijden dat Jezus Christus waarlijk God en waarlijk mens is, voor alle eeuwen en alle tijden als God voortgebracht uit de Vader, en in de tijd als mens geboren uit de Moedermaagd Maria. En alhoewel we zijn dubbele geboorte erkennen, toch geloven we dat er slechts één Zoon is, één Persoon die de goddelijke en menselijke natuur samen bezit.
 
-## In welken zin mag men zeggen dat Christus broeders heeft ?
+## In welke zin mag men zeggen dat Christus broeders heeft ?
 
 Wat de goddelijke geboorte betreft, heeft Christus geen broeders of mede-erfgenamen, want Hij is de enige Zoon van de Vader, en wij mensen zijn het werk zijner handen. Doch zo we zijn geboorte als mens beschouwen, zijn er velen die Hij niet alleen zijn broeders noemt maar ook als broeders behandelt, opdat ze samen met Hem de glorie der erfenis van zijn Vader bekomen : het zijn diegenen die door het geloof de Heer Christus ontvangen hebben, en het geloof, dat ze met woorden belijden, ook beoefenen met de daad en met liefdewerken : daarom wordt Christus door de Apostel de eerstgeborene onder vele broeders genoemd [^45.1].
 
 [^45.1]: Rom. VIII, 29.
 
-## Als God en als Mensch is Christus onze Heer.
+## Als God en als Mens is Christus onze Heer.
 
 *Onzen Heer*. Wat de Heilige Schriftuur over onze Zaligmaker zegt, is nu eens op zijn goddelijke natuur toepasselijk, dan weer op de menselijke, want die verscheiden naturen hebben Hem ook verschillende eigenschappen gegeven. We zeggen immers dat Christus almachtig is, eeuwig en onmetelijk : die eigenschappen heeft Hij door zijn goddelijke natuur. En we zeggen ook dat Hij geleden heeft, gestorven en verrezen is : en iedereen weet dat dit slechts van een mens kan gezegd worden. Doch andere eigenschappen komen aan beide naturen toe: zo is het ook hier, als we hem onze Heer noemen. En zo die naam op beide naturen betrekking heeft, mogen we zeker terecht dien naam aan Christus geven.
 
