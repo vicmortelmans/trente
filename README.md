@@ -7,4 +7,5 @@ Correcties:
 2. '/ den '
 3. '/zoo ', '/Zoo '
 4. '/onzen '
+5. '/dien '
 

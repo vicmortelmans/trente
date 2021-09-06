@@ -186,4 +186,4 @@ Gegeven te Rome, bij Sint Pieter, op 15 April 1905, het tweede jaar van ons Pont
 
 PIUS X, Paus.
 
-[^xxiii1]: 1 Petr. IV, 10.
+[^xxiii1]: I Petr. IV, 10.

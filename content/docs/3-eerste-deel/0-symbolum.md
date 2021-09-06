@@ -5,7 +5,7 @@ title: "Inleiding"
 
 # Inleiding
 
-## Wat hier verstaan wordt door geloof Noodzakelijkheid van het geloof.
+## Wat hier verstaan wordt door geloof ; noodzakelijkheid van het geloof.
 
 Het woord geloof wordt in de heilige boeken met verschillende betekenissen gebruikt. Wij verstaan hier door geloof de volledige instemming met al wat ons van Godswege geopenbaard werd. Aan de noodzakelijkheid van het geloof om de zaligheid te bekomen, kan niemand terecht twijfelen, vooral omdat er geschreven staat : “ Zonder geloof is het onmogelijk aan God te behagen „ [^14.1].
 

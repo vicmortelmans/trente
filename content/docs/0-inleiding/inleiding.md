@@ -13,9 +13,9 @@ De vertaling van 1935 bevatte als inleiding een *Aanbeveling van mgr. van Roey*,
 
 De heruitgave van 1984 voegde een eigen *Voorwoord* toe, hieronder eveneens overgenomen.
 
-In het licht van de geschiedenis is het interessant te beseffen dat de katholieke Kerk intussen een nieuwe catechismus heeft uitgevaardigd: de [*Catechismus van de Katholieke Kerk*](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1), die in 1992 door de heilige paus Johannes-Paulus II werd gepubliceerd en waaraan een commissie van 12 bisschoppen en kardinalen in 1986 in zijn opdracht begon te werken. Net zoals de *Romeinse Catechismus* als bedoeling had de inzichten van het Concilie van Trente (1563–1566) te verspreiden, heeft de *Catechismus van de Katholieke Kerk* dat met betrekking tot het Tweede Vaticaans Concilie (1962–1965). 
+In het licht van de geschiedenis is het interessant te beseffen dat de katholieke Kerk intussen een nieuwe catechismus heeft uitgevaardigd: de [*Catechismus van de Katholieke Kerk*](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1), die in 1992 door de heilige paus Johannes-Paulus II werd gepubliceerd en waaraan een commissie van 12 bisschoppen en kardinalen in 1986 in zijn opdracht begon te werken. Net zoals de *Romeinse Catechismus* als bedoeling had de inzichten van het [Concilie van Trente](https://rkdocumenten.nl/rkdocs/index.php?mi=650&dos=21) (1563–1566) te verspreiden, heeft de *Catechismus van de Katholieke Kerk* dat met betrekking tot het [Tweede Vaticaans Concilie](https://rkdocumenten.nl/rkdocs/index.php?mi=650&dos=4) (1962–1965). 
 
-In 1984, het jaar van de heruitgave van onderhavige catechismus en bijna twintig jaar na het Tweede Vaticaans Concilie, was die nieuwe catechismus bijgevolg nog niet beschikbaar, hoewel de paus toen—zoals hieronder te lezen valt—wel reeds de hoop uitdrukte dat die er zou komen. In dat licht moet dan ook het hiernavolgende *Voorwoord* gelezen worden!
+In 1984, het jaar van de heruitgave van onderhavige catechismus en bijna twintig jaar na het Tweede Vaticaans Concilie, was die nieuwe catechismus nog niet beschikbaar, hoewel de paus toen—zoals hieronder te lezen valt—wel reeds de hoop uitdrukte dat die er zou komen. In dat licht moet dan ook het hiernavolgende *Voorwoord* gelezen worden!
 
 Het mag niet erg zinvol lijken om vandaag nog over te gaan tot de publicatie van een intussen voorbijgestreefde catechismus, maar ik ben ervan overtuigd dat de welwillende lezer, die niet slechts denkt in termen van 'links' en 'rechts', of 'modern' en 'ouderwets', er zijn spirituele gading in kan vinden! Een katholiek uit de zestiende eeuw verschilt in zijn geloofsvragen niet fundamenteel van één uit de eenentwintigste eeuw, of bij uitbreiding zelfs van één uit de eerste eeuwen van het christendom. Alles wat in deze catechismus wordt verwoord, belangt ons onveranderd aan. Lectuur van deze catechismus is des te leerrijker, wanneer we ons door inzichten laten confronteren waaraan vandaag geen belang meer wordt gehecht, zodat zij in ons begrip van het geloof iets werkelijks nieuws teweeg kunnen brengen. Wel moet de lezer zich realiseren dat sommige punten uit het canoniek recht intussen veranderd zijn, waarnaar de vertaler in zijn *Nota* verwijst.
 
@@ -57,7 +57,7 @@ Wij willen de lezer eraan herinneren, dat de structuur van de Catechismus van Tr
 
 [^vw6]: Vgl. Il catechismo romanocommentato, Ed, Ares, Milano 1983, laatste Italiaanse vertaling van de Catechismus van Trente, met uitvoerig pastoraal-theologisch commentaar door Mgr. Luigi Andrianopoli
 
-*STICHTING DE BOOG*
+[*STICHTING DE BOOG*](https://deboog-uitgeverij.nl/)
 
 Herenstraat 41, 3512 KB Utrecht  
 Molièrelaan 325, 1060 Brussel

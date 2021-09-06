@@ -21,7 +21,7 @@ De Latijnen hebben het woord *ecclesia* (kerk) van de Grieken ontleend en het, n
 
 [^114.1]: Act. XIX, 39.
 
-[^114.2]: Ps, XXV, 5.
+[^114.2]: Ps. XXV, 5.
 
 Doch later werd dit woord, door de gewoonte der Heilige Schriftuur, nog slechts gebruikt om de christelijke gemeente aan te duiden en de vergadering der gelovigen, die geroepen werden tot het licht van de waarheid en de kennis van God door het geloof ; die de duisternis van onwetendheid en dwaling afgeworpen hebben om de ware en levenden God met vroomheid en heiligheid te eren en Hem uit ganser harte te dienen. Met één woord, de Kerk is, volgens de heilige Augustinus, het gelovige volk dat over de ganse wereld verspreid is.
 
@@ -153,7 +153,7 @@ Het is ook één en dezelfde Geest, zo zegt de Apostel aan de Corinthiërs [^124
 
 Het menselijk lichaam bestaat uit vele ledematen, die allen door de ziel gevoed worden : de ziel geeft het gezicht aan de ogen en het gehoor aan de oren en verschillende vermogens aan de andere zintuigen : zo is ook het mystieke lichaam van Christus, dat de Kerk is, uit vele gelovigen samengesteld. Ook hebben wij slechts ééne hoop, waartoe wij allen geroepen zijn, zoals de Apostel in dezelfde brief zegt [^124.3] : immers, wij hopen allen hetzelfde goed, het eeuwig en gelukzalig leven.  Eindelijk is er maar één geloof, dat wij allen moeten bewaren en belijden : “ Laat geen scheuringen bij u bestaan „ [^124.4], zegt de Apostel ; en er is maar één doopsel, dat het sacrament is van het christen geloof.
 
-[^124.1]: 1 Cor. XII, 11.
+[^124.1]: I Cor. XII, 11.
 
 [^124.2]: Eph. IV, 3.
 

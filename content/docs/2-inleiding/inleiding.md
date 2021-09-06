@@ -130,7 +130,7 @@ De leraar mene niet dat slechts één soort mensen aan zijn zorg toevertrouwd is
 
 Ook mag de ijver in het onderwijzen niet verzwakken, omdat het soms nodig is onderrichtingen te geven die geringer en minder belangrijk schijnen, en zeker niet aangenaam zijn voor een geest die gewoonlijk met de beschouwing van verheven zaken bezig is [^9.5]. Als de wijsheid van de eeuwige Vader op aarde gekomen is om ons, met de geringheid van ons vlees bekleed, de voorschriften van het hemels leven te geven ; wie zal dan niet door de liefde van Christus gedreven worden om klein te worden te midden van zijn broeders en, met de liefde van een voedster die haar kinderen koestert, het heil van de evenmens te betrachten, bereid, volgens het getuigenis van de Apostel, om hun niet alleen het Evangelie te schenken maar ook zijn eigen leven [^10.1] ?
 
-[^9.1]: 1 Petr. II, 2.
+[^9.1]: I Petr. II, 2.
 
 [^9.2]: Eph. IV, 13.
 

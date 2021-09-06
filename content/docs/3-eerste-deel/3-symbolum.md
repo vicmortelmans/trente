@@ -30,7 +30,7 @@ Toch worden, in de Heilige Schriftuur, sommige werken of eigenschappen die aan d
 ## In de ontvangenis van Christus was veel bovennatuurlijk, echter niet alles.
 
 We bemerken dat het geheim der menswording gedeeltelijk bovennatuurlijk was, en gedeeltelijk volgens de gewone wetten der natuur verliep. Als we geloven dat het Lichaam van Christus uit het zuiverste bloed van de Moedermaagd gevormd werd, dan erkennen we daarin de menselijke natuur, want alle menselijke lichamen worden uit het bloed hunner moeder gevormd. Doch het gaat de natuurlijke orde en het begrijpen van de mens te boven, dat, zodra de heilige Maagd haar toestemming gaf op de woorden van de engel,en sprak: “ Zie de dienstmaagd van den
-Heer, mij geschiede naar uw woord „ [^51.1], dat onmiddellijk het allerheiligste Lichaam van Christus gevormd werd, dat met dat Lichaam een Ziel verenigd werd in 't bezit van haar verstand, en dat Christus dus op dien stond volmaakt God en volmaakt mens was. Dat dit ongewone feit het wonderbaar werk was van de Heilige Geest, daaraan kan niemand twijfelen, vermits, in de gewone orde der natuur, de ziel slechts na een bepaalden tijd met het lichaam verenigd wordt.
+Heer, mij geschiede naar uw woord „ [^51.1], dat onmiddellijk het allerheiligste Lichaam van Christus gevormd werd, dat met dat Lichaam een Ziel verenigd werd in 't bezit van haar verstand, en dat Christus dus op dien stond volmaakt God en volmaakt mens was. Dat dit ongewone feit het wonderbaar werk was van de Heilige Geest, daaraan kan niemand twijfelen, vermits, in de gewone orde der natuur, de ziel slechts na een bepaalde tijd met het lichaam verenigd wordt.
 
 Daar komt nog bij, wat nog meer bewondering wekt, dat, zodra de ziel met het lichaam verenigd was, ook de godheid zich verenigde met het lichaam en de ziel : zodat tegelijkertijd het lichaam gevormd en bezield werd, en de godheid verenigd met lichaam en ziel.
 
@@ -114,5 +114,5 @@ Het mag ook niet gebeuren — het zou voor ons zelfs noodlottig zijn — dat Chr
 
 [^57.3]: Jo. I, 13.
 
-[^58.1]: 1 Cor, II, 7
+[^58.1]: I Cor, II, 7
 

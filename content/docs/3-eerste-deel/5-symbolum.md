@@ -25,7 +25,7 @@ Die plaatsen zijn niet allen van één en dezelfde soort.  Er is vooreerst de al
 
 [^73.2]: Act. II, 24.
 
-Een tweede plaats is het vagevuur, waar de vrome zielen voor bepaalden tijd opgehouden worden om hun fouten uit te boeten, totdat voor hen de hemel open ga, waar niets mag binnentreden wat bezoedeld is. Het heilig Concilie verklaart dat de waarheid van die lering steunt op de getuigenissen der Heilige Schriftuur en op de apostolische overlevering : daarom zal de pastoor er dikwijls en met nadruk op terug komen, vooral omdat velen in dezen tijd de gezonde lering niet meer verdragen.
+Een tweede plaats is het vagevuur, waar de vrome zielen voor bepaalde tijd opgehouden worden om hun fouten uit te boeten, totdat voor hen de hemel open ga, waar niets mag binnentreden wat bezoedeld is. Het heilig Concilie verklaart dat de waarheid van die lering steunt op de getuigenissen der Heilige Schriftuur en op de apostolische overlevering : daarom zal de pastoor er dikwijls en met nadruk op terug komen, vooral omdat velen in dezen tijd de gezonde lering niet meer verdragen.
 
 Eindelijk, in de derde plaats verbleven de zielen der heiligen vóór de komst van Christus ; ze hadden er niet de minste smart te verdragen, en, gesteund door de zalige hoop op de verlossing, genoten ze van hun rustig verblijf. Die heilige zielen, die in de schoot van Abraham de Verlosser verwachtten, ging Christus bevrijden als Hij nederdaalde ter helle.
 
@@ -87,7 +87,7 @@ Het is het grote voorrecht van Christus, dat Hij de eerste was om de goddelijke 
 
 [^78.5]: Apoc. I, 5.
 
-[^78.6]: 1 Cor. XV, 20-23.
+[^78.6]: I Cor. XV, 20-23.
 
 ## Waarom Christus de derde dag wilde verrijzen.
 
@@ -103,9 +103,9 @@ Daarom is het dat de Heer zo dikwijls over zijn verrijzenis gesproken heeft, en 
 
 Om nu al de draagkracht en de betekenis van dit artikel beter te vatten, blijven nog drie vragen te beantwoorden : vooreerst, waarom was het nodig dat Christus verrees ? Ten tweede, welk was het doel en het einde der verrijzenis ? Ten slotte, welke zijn voor ons de voordelen van de verrijzenis ?
 
-[^80.1]: 1 Cor. XV, 3.
+[^80.1]: I Cor. XV, 3.
 
-[^80.2]: 1 Cor. XV, 14, 17.
+[^80.2]: I Cor. XV, 14, 17.
 
 [^80.3]: S. Aug., in Psalm. 120.
 

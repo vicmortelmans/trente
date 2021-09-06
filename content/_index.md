@@ -18,7 +18,7 @@ IMPRIMATUR
 
 Mechlinie, die 25 Martii 1935
 
-\+ J E. CARD. VAN ROEY,  
+\+ J. E. CARD. VAN ROEY,  
 Archiep. Mechlinien.
 
 Gedigitaliseerd door [Geloven Leren](https://gelovenleren.net)

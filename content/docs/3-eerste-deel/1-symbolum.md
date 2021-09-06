@@ -53,7 +53,7 @@ Terecht belijden de gelovigen dan eerst en vooral hun geloof in God, wiens majes
 
 Om God, die boven alles verheven is, te kunnen bereiken, moet onze geest volledig ontdaan zijn van al het zinnelijke ; en daar kunnen we door natuurlijke middelen in dit leven niet toe komen. Nochtans, zegt de Apostel, bleef God niet zonder getuigenis : van uit de hemel doet Hij ons goed, Hij geeft regen en oogsttijden, Hij verzadigt de mensen met voedsel en vreugde [^20.5].  Dit is voor de wijsgeren de oorzaak geweest om niets onvolmaakt over God te denken en verre te verwerpen al wat stoffelijk, samengesteld en vermengd is ; zij kenden Hem de volmaaktheid en volheid van alle goed toe, zodat van Hem, als van de eeuwige en onuitputtelijke bron van goedheid en mildheid, alle volmaaktheid uitstraalt naar de schepselen ; ze noemden Hem wijs, oorsprong en minnaar der waarheid, rechtvaardig, weldoende, en gaven Hem nog andere namen die de opperste en volstrekte volmaaktheid betekenen ; zij erkenden in Hem een onmetelijke en onbeperkte kracht, die elke ruimte vult en tot elk wezen zich uitstrekt.
 
-[^20.1]: 1 Pet. II, 9
+[^20.1]: I Pet. II, 9
 
 [^20.2]: Jer. XXXII, 19.
 
@@ -230,11 +230,11 @@ kracht en macht, en volbrengen Gods bevel „ [^33.2]. Om die reden worden zij i
 
 God bouwde ook de aarde op vaste grondvesten en beval dat zij in het midden der wereld zou blijven. Hij deed bergen oprijzen en vlakten nederdalen op de plaats die Hij er voor bestemd had. En opdat het water door zijn geweld de aarde niet zou overstromen, stelde hij een grens die het niet mag overschrijden, en het water zal niet opnieuw de aarde bedekken. Verder heeft Hij de aarde niet alleen bekleed en versierd met bomen, kruiden en planten van allen aard, maar ze bevolkt met talloze soorten van dieren, zoals Hij reeds vroeger ook het water en de lucht bevolkt had.
 
-[^33.1]: IL Reg. XIV, 20.
+[^33.1]: II Reg. XIV, 20.
 
 [^33.2]: Ps. CII, 20.
 
-[^33.3]: IL Petr. II, 4
+[^33.3]: II Petr. II, 4
 
 ## Schepping van de mens.
 

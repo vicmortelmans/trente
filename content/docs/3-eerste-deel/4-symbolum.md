@@ -21,7 +21,7 @@ De pastoor zal uitleggen waarom het symbolum zo nauwkeurig zegt dat Jezus Christ
 
 [^59.1]: Matth, XXVI, 36.
 
-[^59.2]: 1 Tim. VI, 13.
+[^59.2]: I Tim. VI, 13.
 
 [^59.3]: Matth.  XX, 19.
 
@@ -109,7 +109,7 @@ Doch de Heilige Schriftuur leert ons dat Christus ook door zijn Vader en door zi
 
 Nog krachtiger uitdrukkingen gebruikt de Apostel om ons aan te tonen wat we van de eindeloze barmhartigheid en goedheid van God te verwachten hebben : “ Zijn eigen Zoon heeft Hij niet gespaard, maar Hem voor ons allen overgeleverd : hoe zou Hij ons ook met Hem niet alles geven ? „ [^67.5].
 
-[^67.1]: 1 Cor. II, 8.
+[^67.1]: I Cor. II, 8.
 
 [^67.2]: Isa. LIII, 8.
 
@@ -173,6 +173,6 @@ Moge onze geest voortdurend die geheimenissen beschouwen, opdat we samen met de 
 
 [^71.1]: Eph. V, 2.
 
-[^71.2]: I, Petr. I, 18.
+[^71.2]: I Petr. I, 18.
 
 [^71.3]: Gal. III, 13.

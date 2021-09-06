@@ -9,7 +9,7 @@ title: "En in Jezus Christus, zijn enige Zoon, onze Heer"
 
 Uit het geloven en belijden van dit artikel is een wonderbaar en overvloedig voordeel naar het mensdom toegestroomd. Daarvan vinden we het bewijs bij de heilige Joannes: “ Alwie belijden zal dat Jezus de Zoon van God is, verblijft in God en God in hem „ [^36.1].  Om wille van dat geloof heeft de Heer Jezus ook de prins der apostelen zalig genoemd : “ Zalig zijt gij, Simon Bar Jonas, want vlees en bloed hebben u dit niet geopenbaard, maar mijn Vader die in de hemelen is „ [^36.2]. Dit geloof is immers de stevigste grondslag van ons heil en onze verlossing.
 
-[^36.1]: 1 Jo. IV, 15.
+[^36.1]: I Jo. IV, 15.
 
 [^36.2]: Matth. XVI, 17.
 

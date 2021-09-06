@@ -41,7 +41,7 @@ Vermits het nodig was dat de Kerk de macht bezat om de zonden te vergeven, ook n
 
 Men moet niet denken dat deze macht beperkt is tot zekere soorten van zonden : men kan geen misdaad bedrijven of zelfs niet uitdenken, die door de Heilige Kerk niet zou kunnen vergeven worden; en bijgevolg is er ook niemand zo boos of misdadig, dat hij niet vast op de vergiffenis zou mogen hopen, als hij waar leedwezen heeft over zijn fouten.
 
-En die macht is ook niet zodanig omschreven dat ze slechts op een bepaalden tijd zou kunnen uitgeoefend worden, want onze Zaligmaker leert ons dat men de zondaar niet mag verwerpen, om ‘t even op welk uur hij tot inkeer wil komen. Aan de prins der apostelen, die vroeg hoe dikwijls vergiffenis moet geschonken worden aan de zondaar, antwoordde Jezus : “ Niet zevenmaal, maar tot zeventig keren zevenmaal „ [^138.1].
+En die macht is ook niet zodanig omschreven dat ze slechts op een bepaalde tijd zou kunnen uitgeoefend worden, want onze Zaligmaker leert ons dat men de zondaar niet mag verwerpen, om ‘t even op welk uur hij tot inkeer wil komen. Aan de prins der apostelen, die vroeg hoe dikwijls vergiffenis moet geschonken worden aan de zondaar, antwoordde Jezus : “ Niet zevenmaal, maar tot zeventig keren zevenmaal „ [^138.1].
 
 [^138.1]: Matth. XVIII, 22.
 
