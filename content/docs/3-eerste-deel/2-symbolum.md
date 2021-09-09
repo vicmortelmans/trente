@@ -15,7 +15,7 @@ Uit het geloven en belijden van dit artikel is een wonderbaar en overvloedig voo
 
 ## Waaruit kennen we de grootheid der weldaad die in dit artikel voorgehouden wordt ?
 
-Om de heerlijke voordelen te begrijpen die het aanvaarden van dit artikel ons schenkt, moeten we het verlies beschouwen van dien allergelukkigste toestand waarin God de mens geplaatst had. Daarom zal de pastoor met de meeste zorg aan zijn gelovigen de oorzaak doen kennen van alle ellenden en rampen.
+Om de heerlijke voordelen te begrijpen die het aanvaarden van dit artikel ons schenkt, moeten we het verlies beschouwen van die allergelukkigste toestand waarin God de mens geplaatst had. Daarom zal de pastoor met de meeste zorg aan zijn gelovigen de oorzaak doen kennen van alle ellenden en rampen.
 
 Adam was ongehoorzaam geworden aan God, en had het verbod overtreden dat God hem gegeven had: “ Eet van al de bomen van het paradijs, maar eet niet van de boom der kennis van goed en kwaad: want op de dag dat gij daarvan zult eten, zult gij de dood sterven „[^37.1]. Daardoor werd hij beroofd van de heiligheid en gerechtigheid die hij van God bij de schepping ontvangen had, en onderging hij de andere straffen, die het heilig Concilie van Trente breedvoerig uiteengezet heeft [^37.2]. Maar die zonde, en de straf der zonde, zijn niet in Adam alleen gebleven ; zij zijn van hem, als van de bron en oorzaak, tot al zijn nakomelingen met recht overgegaan.
 
@@ -44,7 +44,7 @@ Maar laten we nu elk deel van het artikel afzonderlijk behandelen.
 
 ## De naam Jezus komt aan Christus toe.
 
-De naam Jezus is eigen aan Hem die God en mens is: want die naam betekent Zaligmaker, en werd niet toevallig gegeven, of door het oordeel of de wil van de mensen, maar op het bevel van God. Zo toch heeft de engel aan Maria de boodschap gebracht : “ Gij zult ontvangen in uw schoot, en een Zoon baren, en gij zult hem Jezus noemen „ [^39.2]. En aan Jozef, de Bruidegom der heilige Maagd, gaf hij niet alleen het bevel dien naam aan het Kind te geven, maar legde ook uit waarom : zo sprak hij: “ Jozef, zoon van David, vrees niet Maria uw vrouw bij u te nemen ; want wat in haar is gewonnen, is van de Heilige Geest. Zij zal een Zoon baren, en gij zult zijn naam Jezus noemen; want Hij zal zijn volk verlossen van hun zonden „ [^40.1].
+De naam Jezus is eigen aan Hem die God en mens is: want die naam betekent Zaligmaker, en werd niet toevallig gegeven, of door het oordeel of de wil van de mensen, maar op het bevel van God. Zo toch heeft de engel aan Maria de boodschap gebracht : “ Gij zult ontvangen in uw schoot, en een Zoon baren, en gij zult hem Jezus noemen „ [^39.2]. En aan Jozef, de Bruidegom der heilige Maagd, gaf hij niet alleen het bevel die naam aan het Kind te geven, maar legde ook uit waarom : zo sprak hij: “ Jozef, zoon van David, vrees niet Maria uw vrouw bij u te nemen ; want wat in haar is gewonnen, is van de Heilige Geest. Zij zal een Zoon baren, en gij zult zijn naam Jezus noemen; want Hij zal zijn volk verlossen van hun zonden „ [^40.1].
 
 [^39.1]: Gen. XXVIII, 13, 14.
 
@@ -54,7 +54,7 @@ De naam Jezus is eigen aan Hem die God en mens is: want die naam betekent Zaligm
 
 ## Die naam wordt niet met evenveel recht aan andere mensen gegeven.
 
-We lezen in de Heilige Schriftuur dat velen de naam Jezus gedragen hebben. De zoon van Nave, die Mozes opvolgde, heette Jezus; hij mocht het volk, dat door Mozes uit Egypte verlost werd, binnenleiden in het beloofde land, omdat Mozes zelf het niet mocht betreden; ook de zoon van de priester Josedech droeg dien naam. Doch met hoeveel meer recht mogen we onze Zaligmaker Jezus noemen ! Niet aan één volk, maar aan alle mensen van alle tijden heeft Hij licht, vrijheid en redding gebracht; en het was niet door honger of door het juk der Egyptenaren of Babyloniërs dat de mensen gekweld werden : zij zaten in de schaduw van de dood, en gingen gedrukt onder de zware slavenbanden van zonde en duivel. Voor hen heeft Hij het recht op de erfenis van het hemelse rijk verworven, en met God, zijn Vader, heeft Hij hen verzoend.  De andere Jezussen waren slechts een voorafbeelding van Christus onze Heer, die het mensdom met al die weldaden overladen heeft.
+We lezen in de Heilige Schriftuur dat velen de naam Jezus gedragen hebben. De zoon van Nave, die Mozes opvolgde, heette Jezus; hij mocht het volk, dat door Mozes uit Egypte verlost werd, binnenleiden in het beloofde land, omdat Mozes zelf het niet mocht betreden; ook de zoon van de priester Josedech droeg die naam. Doch met hoeveel meer recht mogen we onze Zaligmaker Jezus noemen ! Niet aan één volk, maar aan alle mensen van alle tijden heeft Hij licht, vrijheid en redding gebracht; en het was niet door honger of door het juk der Egyptenaren of Babyloniërs dat de mensen gekweld werden : zij zaten in de schaduw van de dood, en gingen gedrukt onder de zware slavenbanden van zonde en duivel. Voor hen heeft Hij het recht op de erfenis van het hemelse rijk verworven, en met God, zijn Vader, heeft Hij hen verzoend.  De andere Jezussen waren slechts een voorafbeelding van Christus onze Heer, die het mensdom met al die weldaden overladen heeft.
 
 Er was van Godswege voorzegd dat de Zoon van God nog andere namen moest dragen. Doch die zijn allen begrepen in de naam Jezus: want deze naam drukt volkomen het werk onzer verlossing uit, terwijl de andere namen er slechts een deel van te kennen geven.
 
@@ -107,7 +107,7 @@ Wat de goddelijke geboorte betreft, heeft Christus geen broeders of mede-erfgena
 
 ## Als God en als Mens is Christus onze Heer.
 
-*Onzen Heer*. Wat de Heilige Schriftuur over onze Zaligmaker zegt, is nu eens op zijn goddelijke natuur toepasselijk, dan weer op de menselijke, want die verscheiden naturen hebben Hem ook verschillende eigenschappen gegeven. We zeggen immers dat Christus almachtig is, eeuwig en onmetelijk : die eigenschappen heeft Hij door zijn goddelijke natuur. En we zeggen ook dat Hij geleden heeft, gestorven en verrezen is : en iedereen weet dat dit slechts van een mens kan gezegd worden. Doch andere eigenschappen komen aan beide naturen toe: zo is het ook hier, als we hem onze Heer noemen. En zo die naam op beide naturen betrekking heeft, mogen we zeker terecht dien naam aan Christus geven.
+*Onze Heer*. Wat de Heilige Schriftuur over onze Zaligmaker zegt, is nu eens op zijn goddelijke natuur toepasselijk, dan weer op de menselijke, want die verscheiden naturen hebben Hem ook verschillende eigenschappen gegeven. We zeggen immers dat Christus almachtig is, eeuwig en onmetelijk : die eigenschappen heeft Hij door zijn goddelijke natuur. En we zeggen ook dat Hij geleden heeft, gestorven en verrezen is : en iedereen weet dat dit slechts van een mens kan gezegd worden. Doch andere eigenschappen komen aan beide naturen toe: zo is het ook hier, als we hem onze Heer noemen. En zo die naam op beide naturen betrekking heeft, mogen we zeker terecht die naam aan Christus geven.
 
 Evenals Hij eeuwig is zowel als de Vader, zo is Hij ook, gelijk de Vader, Heer van al wat bestaat ; en evenals Hij en de Vader geen twee goden zijn, maar volstrekt dezelfde God, zo zijn zij ook één en dezelfde Heer.
 

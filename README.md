@@ -5,7 +5,7 @@ Correcties:
 
 1. aspell
 2. '/ den '
-3. '/zoo ', '/Zoo '
+3. '/[Zz]oo '
 4. '/onzen '
-5. '/dien '
+5. '/[Dd]ien '
 

@@ -15,7 +15,7 @@ Het is wel in een vreselijke en moeilijke tijd dat God, in zijn geheime raadsbes
 
 [^vii1]: Act. XX, 29.
 
-Alwie nog bezield is met ijver voor de glorie van God, zoekt de oorzaken op van dien achteruitgang in het godsdienstig leven ; iedereen meent de ware oorzaak te vinden, en gebruikt de middelen die ermede overeenkomen, om het rijk van God op aarde te verdedigen en te herstellen. Wat ons betreft, Eerbiedwaardige Broeders, zonder de andere oorzaken te loochenen, delen wij de mening van hen die in de onwetendheid van de goddelijke zaken de voornaamste oorzaak zien van de huidige achteruitgang, van de geestelijke verzwakking en van de erge kwalen die er uit voortkomen.  Dit oordeel stemt ten volle overeen met de woorden die God zelf sprak door de profeet Osee : “ De wetenschap van God is niet meer op de aarde. Vloek, leugen, doodslag, diefstal, overspel hebben de wereld overstroomd, en moorden volgen elkander op. Daarom zal de aarde treuren en zullen al haar bewoners hun kracht verliezen „ [^viii1] 
+Alwie nog bezield is met ijver voor de glorie van God, zoekt de oorzaken op van die achteruitgang in het godsdienstig leven ; iedereen meent de ware oorzaak te vinden, en gebruikt de middelen die ermede overeenkomen, om het rijk van God op aarde te verdedigen en te herstellen. Wat ons betreft, Eerbiedwaardige Broeders, zonder de andere oorzaken te loochenen, delen wij de mening van hen die in de onwetendheid van de goddelijke zaken de voornaamste oorzaak zien van de huidige achteruitgang, van de geestelijke verzwakking en van de erge kwalen die er uit voortkomen.  Dit oordeel stemt ten volle overeen met de woorden die God zelf sprak door de profeet Osee : “ De wetenschap van God is niet meer op de aarde. Vloek, leugen, doodslag, diefstal, overspel hebben de wereld overstroomd, en moorden volgen elkander op. Daarom zal de aarde treuren en zullen al haar bewoners hun kracht verliezen „ [^viii1] 
 
 [^viii1]: Os. IV, 1-3.
 
@@ -125,7 +125,7 @@ Inderdaad — het kan wel nuttig zijn er op te wijzen om de ijver der dienaars v
 
 [^xvii2]: Jo. IX, 36,
 
-Daarom zien ze er geen kwaad in, anderen te haten en dien haat te voeden, onrechtvaardige overeenkomsten te sluiten, oneerlijke ondernemingen te leiden, woekerintrest te vragen en andere dergelijke misdrijven te begaan.
+Daarom zien ze er geen kwaad in, anderen te haten en die haat te voeden, onrechtvaardige overeenkomsten te sluiten, oneerlijke ondernemingen te leiden, woekerintrest te vragen en andere dergelijke misdrijven te begaan.
 
 Ze kennen de wet van Christus niet, die niet alleen de schandige daden verbiedt, maar ook niet toelaat er aan te denken of ze te begeren ; daarom, al bedrijven ze misschien om een of andere reden die daden niet, voeden ze hun geest, die van allen godsdienst ontdaan is, met die ongezonde gedachten, zo dat hun ongerechtigheden talrijker worden dan de haren van hun hoofd.
 
@@ -180,7 +180,7 @@ Laat ons toe, Eerbiedwaardige Broeders, dezen brief te eindigen met u dit woord 
 
 [^xxii1]: Exod. XXXII, 26.
 
-Moge, door de voorspraak van de Gelukzalige Maagd Maria, onze apostolische zegen uw ijver en vrome werkzaamheid opwekken ; dien zegen geven. Wij met liefde aan u, aan de geestelijken en de gelovigen die u toevertrouwd zijn, als bewijs onzer genegenheid en als onderpand der hemelse zegeningen.
+Moge, door de voorspraak van de Gelukzalige Maagd Maria, onze apostolische zegen uw ijver en vrome werkzaamheid opwekken ; die zegen geven. Wij met liefde aan u, aan de geestelijken en de gelovigen die u toevertrouwd zijn, als bewijs onzer genegenheid en als onderpand der hemelse zegeningen.
 
 Gegeven te Rome, bij Sint Pieter, op 15 April 1905, het tweede jaar van ons Pontificaat.
 

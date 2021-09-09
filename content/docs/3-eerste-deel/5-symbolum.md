@@ -7,7 +7,7 @@ title: "Die nedergedaald is ter helle, ten derden dage verrezen van de dood"
 
 ## Hoe moet het eerste deel van dit artikel verstaan worden ?
 
-Het is zeker van groot belang de glorie te kennen van de begrafenis van onze Heer Jezus Christus, waarover wij in het vorige hoofdstuk gesproken hebben.  Doch veel meer belang heeft het voor het gelovige volk de triomf te kennen dien Christus behaalde met de duivel te overwinnen en aan de hel haar prooi te ontrukken : dien triomf zullen we behandelen, samen met de verrijzenis, Wel kunnen die twee punten afzonderlijk behandeld worden ; doch, naar het voorbeeld der heilige Vaders, menen we best te doen met de verrijzenis en de nederdaling ter helle samen te verklaren.
+Het is zeker van groot belang de glorie te kennen van de begrafenis van onze Heer Jezus Christus, waarover wij in het vorige hoofdstuk gesproken hebben.  Doch veel meer belang heeft het voor het gelovige volk de triomf te kennen die Christus behaalde met de duivel te overwinnen en aan de hel haar prooi te ontrukken : die triomf zullen we behandelen, samen met de verrijzenis, Wel kunnen die twee punten afzonderlijk behandeld worden ; doch, naar het voorbeeld der heilige Vaders, menen we best te doen met de verrijzenis en de nederdaling ter helle samen te verklaren.
 
 In het eerste deel van dit artikel wordt ons als geloofspunt voorgehouden dat, na de dood van Christus, zijn ziel nedergedaald is ter helle en daar vertoefde zolang zijn lichaam in het graf bleef. Door die woorden belijden wij tevens dat dezelfde persoon van Christus te gelijkertijd in de hel was en in het graf lag. En dat moet ons niet verwonderen : we hebben immers er reeds meermaals op gewezen dat, alhoewel de ziel van het lichaam gescheiden was, de godheid toch altijd verenigd bleef zowel met de ziel als met het lichaam.
 
@@ -15,7 +15,7 @@ In het eerste deel van dit artikel wordt ons als geloofspunt voorgehouden dat, n
 
 De uitleg van dit artikel zal veel klaarder worden, als de pastoor eerst leert wat hier moet verstaan worden door het woord hel. Hij zal er wel op wijzen dat door de hel hier niet het graf bedoeld wordt, zoals sommigen in hun ongeloof en onwetendheid beweerd hebben.  We leerden immers reeds in het voorgaande artikel dat onze Heer Christus begraven werd : er was dan geen enkele reden waarom de apostelen dezelfde waarheid in andere en minder klare woorden zouden herhalen.
 
-Het woord hel betekent de verborgen plaatsen waar de zielen verblijven die de hemelse zaligheid niet verworven hebben. In dien zin wordt het woord dikwijls gebruikt in de Heilige Schriftuur ; zo leren we bij de Apostel: “In de naam van Jezus moet elke knie buigen van de wezens in de hemel en op de aarde en onder de aarde [^73.1] „; en in de Handelingen der Apostelen getuigt de heilige Petrus dat de Heer Christus verrezen is, nadat de pijnen der hel hadden opgehouden [^73.2].
+Het woord hel betekent de verborgen plaatsen waar de zielen verblijven die de hemelse zaligheid niet verworven hebben. In die zin wordt het woord dikwijls gebruikt in de Heilige Schriftuur ; zo leren we bij de Apostel: “In de naam van Jezus moet elke knie buigen van de wezens in de hemel en op de aarde en onder de aarde [^73.1] „; en in de Handelingen der Apostelen getuigt de heilige Petrus dat de Heer Christus verrezen is, nadat de pijnen der hel hadden opgehouden [^73.2].
 
 ## Hoeveel plaatsen zijn er waar de zielen na de dood buiten de zaligheid kunnen verblijven ?
 
@@ -145,7 +145,7 @@ Ook kan de verrijzenis van Christus als voorbeeld gesteld worden aan de ziel die
 
 ## Waarin kunnen wij het voorbeeld van de verrezen Christus navolgen ?
 
-We vinden in de verrijzenis van Christus een dubbel voorbeeld, dat wij kunnen navolgen. Vooreerst moeten we, na gezuiverd te zijn van de vlekken der zonde, een nieuw leven leiden, dat schittert door onberispelijke zeden onschuld, heiligheid, zedigheid, rechtvaardigheid, liefdadigheid en nederigheid. Vervolgens zullen we in dit nieuwe leven volharden, zodat we, met Gods hulp, van de weg der gerechtigheid, dien we ingegaan zijn, niet meer afwijken.
+We vinden in de verrijzenis van Christus een dubbel voorbeeld, dat wij kunnen navolgen. Vooreerst moeten we, na gezuiverd te zijn van de vlekken der zonde, een nieuw leven leiden, dat schittert door onberispelijke zeden onschuld, heiligheid, zedigheid, rechtvaardigheid, liefdadigheid en nederigheid. Vervolgens zullen we in dit nieuwe leven volharden, zodat we, met Gods hulp, van de weg der gerechtigheid, die we ingegaan zijn, niet meer afwijken.
 
 De Apostel zegt ook dat de verrijzenis van Christus niet alleen het voorbeeld is van onze verrijzenis, maar dat ze ons ook de kracht geeft om te verrijzen, en de sterkte om te volharden in heiligheid en gerechtigheid en om de geboden van God te onderhouden. Want evenals we in de dood van Christus niet alleen leren dat we moeten sterven aan de zonde, maar er ook de kracht ontvangen om er aan te sterven, zo schenkt zijn verrijzenis ons ook de middelen om de rechtvaardigheid te bereiken en om te verrijzen tot een nieuw leven waarin we God dienen met vroomheid en heiligheid.  De voornaamste vrucht van Jezus’ verrijzenis is dan, dat wij, die met Hem gestorven zijn aan de zonde en aan de wereld, ook met Hem kunnen verrijzen tot een nieuwe levenswijze.
 

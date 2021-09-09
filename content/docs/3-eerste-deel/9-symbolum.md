@@ -65,7 +65,7 @@ In de strijdende Kerk treft men twee soorten mensen aan : goede en slechte. De b
 
 Ook de mensen kunnen wel door zekere tekens veronderstellen wie tot het getal der vromen behoort, maar met zekerheid kunnen ze het niet weten. Daarom mogen we niet veronderstellen, dat Christus, onze Zaligmaker, dat deel van de Kerk bedoelde als Hij ons naar de Kerk verwees, en voorschreef dat wij haar zouden gehoorzamen : vermits dat deel van de Kerk ongekend is, zou er voor niemand zekerheid bestaan aan wiens oordeel wij ons moeten onderwerpen en aan wiens gezag wij te gehoorzamen hebben.
 
-Zo omvat de Kerk goeden en kwaden : de Heilige Schriftuur en de boeken van heilige mannen leren het ons ; in dien zin schreef ook de Apostel : “ Één lichaam en één geest „ [^118.2].
+Zo omvat de Kerk goeden en kwaden : de Heilige Schriftuur en de boeken van heilige mannen leren het ons ; in die zin schreef ook de Apostel : “ Één lichaam en één geest „ [^118.2].
 
 [^118.1]: II Tim II, 19.
 
@@ -99,7 +99,7 @@ Doch voor al de andere mensen, al zijn ze nog zo slecht en misdadig, is er geen 
 
 De naam *Kerk* wordt dikwijls gebruikt voor elk deel van de Kerk : zo spreekt de Apostel over de Kerk van Corinthië, Galatië, Laodicea, Thessalonica ; zelfs bijzondere huisgezinnen van gelovigen noemt hij zoo, want hij beveelt de Kerk te groeten die vergadert in het huis van Prisca en Aquila [^120.1] ; en op een andere plaats zegt hij : “ U groeten zeer in de Heer Aquila en Prisca met de Kerk die in hun huis is „ [^120.2]. In zijn brief aan Philemon gebruikt hij hetzelfde woord.
 
-Soms worden ook de leiders en herders van de kerk met dien naam aangeduid : “ Wil hij naar hen niet luisteren, zo spreekt Christus, zeg het dan aan de Kerk „ [^120.3]: door die woorden worden de hoofden van de Kerk aangeduid.
+Soms worden ook de leiders en herders van de kerk met die naam aangeduid : “ Wil hij naar hen niet luisteren, zo spreekt Christus, zeg het dan aan de Kerk „ [^120.3]: door die woorden worden de hoofden van de Kerk aangeduid.
 
 [^120.1]: Rom. XVI, 4.
 
@@ -133,7 +133,7 @@ Reeds lang te voren werd die waarheid bevestigd door Ireneus [^122.3], en door C
 
 [^122.3]: S. Iren. Lib. IÌI contra haeres., cap III.
 
-Optatus van Mileve zegt : “ Gij kunt geen onwetendheid voorwenden, vermits het u bekend is dat de bisschoppelijke stoel te Rome voor het eerste werd opgericht voor Petrus, en dat Petrus daar gezeteld heeft als hoofd van al de Apostelen. Op dien enige stoel moest de eenheid voor allen bewaard worden, om te voorkomen dat iedere apostel zich een eigen stoel zou aanmatigen : en al wie een anderen stoel zou willen oprichten tegenover dien enige, is een scheurmaker en een verleider „ [^123.1].
+Optatus van Mileve zegt : “ Gij kunt geen onwetendheid voorwenden, vermits het u bekend is dat de bisschoppelijke stoel te Rome voor het eerste werd opgericht voor Petrus, en dat Petrus daar gezeteld heeft als hoofd van al de Apostelen. Op die enige stoel moest de eenheid voor allen bewaard worden, om te voorkomen dat iedere apostel zich een eigen stoel zou aanmatigen : en al wie een anderen stoel zou willen oprichten tegenover die enige, is een scheurmaker en een verleider „ [^123.1].
 
 Later schreef de Heilige Basilius : “ Petrus werd als grondsteen gelegd. Hij had immers gezegd : Gij zijt Christus, de Zoon van de levende God ; en op zijn beurt mocht hij horen dat hij rots was. Al was hij ook rots, toch was hij het niet zoals Christus.  Want Christus is de onwrikbare rots, en Petrus was het door de wil van Christus. Zo deelt Jezus zijn eigen waardigheid aan anderen mee : Hij is priester, en maakt priesters ; Hij is steenrots, en maakt een ander tot steenrots ;en wat Hem toebehoort, geeft Hij aan zijn dienaars „ [^123.2].
 
@@ -217,7 +217,7 @@ De voorafbeeldingen van het Oud Testament zijn zeer geschikt om het gemoed der g
 
 Tussen die voorafbeeldingen treft ons vooral de ark van Noë : het valt niet te betwijfelen dat zij op bevel van God gebouwd werd, om op voorhand een beeld te geven van de Kerk. Zo heeft God de Kerk ingericht, dat alwie er intreedt door het doopsel, beschermd is tegen het gevaar van de eeuwige dood ; wie er echter buiten blijft, zal omkomen in zijn zonden, gelijk ook omkwamen al degenen die niet in de ark opgenomen werden.
 
-Een ander beeld van de Kerk is de grote stad Jeruzalem :de Heilige Schriftuur gebruikt herhaaldelijk dien naam om de Kerk aan te duiden. In die stad alleen was het toegelaten offers aan God op te dragen, gelijk ook slechts in de Kerk van God de enige ware eredienst gevonden wordt en het enig ware offer waardoor we aan God kunnen behagen.
+Een ander beeld van de Kerk is de grote stad Jeruzalem :de Heilige Schriftuur gebruikt herhaaldelijk die naam om de Kerk aan te duiden. In die stad alleen was het toegelaten offers aan God op te dragen, gelijk ook slechts in de Kerk van God de enige ware eredienst gevonden wordt en het enig ware offer waardoor we aan God kunnen behagen.
 
 ## Waarom is de waarheid van de Kerk een geloofspunt ?
 
@@ -273,7 +273,7 @@ Die talrijke en grote gunsten en gaven, die God aan zijn Kerk heeft geschonken, 
 
 ## De gunsten en gaven van God zijn voor heel de Kerk bestemd.
 
-Niet alleen die gaven die ons rechtvaardig maken en aangenaam aan God, worden voor gans de Kerk geschonken, maar ook de gaven die ten voordele van anderen gegeven zijn, zoals de wetenschap, de gave van voorzegging, de gave van talen en van mirakelen, en andere van dien aard : die gunsten worden ook aan slechte mensen verleend, niet om hunnentwille maar voor het algemeen goed : zo wordt de gave van genezing niet verleend om wille van hem die er mee begunstigd is, maar om wille van de zieke die moet genezen worden.
+Niet alleen die gaven die ons rechtvaardig maken en aangenaam aan God, worden voor gans de Kerk geschonken, maar ook de gaven die ten voordele van anderen gegeven zijn, zoals de wetenschap, de gave van voorzegging, de gave van talen en van mirakelen, en andere van die aard : die gunsten worden ook aan slechte mensen verleend, niet om hunnentwille maar voor het algemeen goed : zo wordt de gave van genezing niet verleend om wille van hem die er mee begunstigd is, maar om wille van de zieke die moet genezen worden.
 
 Al wat de christen mens bezit, moet door hem beschouwd worden als gemeenschappelijk goed : daarom moet hij bereid zijn om de ellende der armen te verzachten. Want alwie bedeeld werd met tijdelijke goederen, en zijn broeder armoede ziet lijden zonder hem ter hulp te komen, die toont duidelijk dat hij God niet bemint.
 
