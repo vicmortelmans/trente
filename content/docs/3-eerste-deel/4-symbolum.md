@@ -13,7 +13,7 @@ Hoe nodig de kennis van dit artikel is, en met hoeveel ijver de pastoor moet zor
 
 ## De ziel van Christus was gevoelig aan de folteringen.
 
-En niemand mene dat de ziel van Christus ongevoelig was voor die folteringen : vermits Hij in waarheid de menselijke natuur aangenomen heeft, moet Hij in zijn ziel de ergste smart geleden hebben: „daarom zegt Hij : Mijn ziel is bedroefd tot stervens toe [^59.1]. Want, alhoewel de menselijke natuur met de goddelijke Persoon verenigd was, toch heeft Hij het lijden in al zijn vreselijkheid gevoeld, juist alsof die vereniging niet bestaan had. Immers, in de ene Persoon van Christus hebben zijn beide naturen, de goddelijke en de menselijke, hun eigenschappen bewaard : wat lijdbaar en sterfelijk was, bleef lijdbaar en sterfelijk ; en wat onlijdbaar en onsterfelijk was, namelijk de goddelijke natuur, behield ook die eigenschap.
+En niemand mene dat de ziel van Christus ongevoelig was voor die folteringen : vermits Hij in waarheid de menselijke natuur aangenomen heeft, moet Hij in zijn ziel de ergste smart geleden hebben : daarom zegt Hij : Mijn ziel is bedroefd tot stervens toe [^59.1]. Want, alhoewel de menselijke natuur met de goddelijke Persoon verenigd was, toch heeft Hij het lijden in al zijn vreselijkheid gevoeld, juist alsof die vereniging niet bestaan had. Immers, in de ene Persoon van Christus hebben zijn beide naturen, de goddelijke en de menselijke, hun eigenschappen bewaard : wat lijdbaar en sterfelijk was, bleef lijdbaar en sterfelijk ; en wat onlijdbaar en onsterfelijk was, namelijk de goddelijke natuur, behield ook die eigenschap.
 
 ## Waarom wordt de landvoogd van Judea in het symbolum vermeld ?
 
