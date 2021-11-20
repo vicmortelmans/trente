@@ -7,7 +7,7 @@ title: "Nut van het gebed"
 
 ## Eerste vrucht van het gebed.
 
-Het gebed is niet alleen noodzakelijk, het is ook allernuttigst en brengt overvloedige vruchten voort. De pastoors zullen daarover gegevens genoeg vinden bij de heilige schrijvers, als ze dat onderwerp voor de gelovigen zullen behandelen. Wij kiezen er slechts enkele uit, die best bij de noodwendigheden van dezen tijd schijnen te passen.
+Het gebed is niet alleen noodzakelijk, het is ook allernuttigst en brengt overvloedige vruchten voort. De pastoors zullen daarover gegevens genoeg vinden bij de heilige schrijvers, als ze dat onderwerp voor de gelovigen zullen behandelen. Wij kiezen er slechts enkele uit, die best bij de noodwendigheden van deze tijd schijnen te passen.
 
 De eerste vrucht van het gebed is, dat wij daardoor God eren ; immers, het gebed is een akte van godsdienstigheid, en wordt in de Heilige Schriftuur aan reukwerk vergeleken : “ Dat mijn gebed als wierook opstijge vóór uw aanschijn „ [^576.2], zo bidt de Profeet. Door het gebed belijden wij onze afhankelijkheid van God ; wij erkennen en prijzen Hem als oorsprong van alle goed, op Hem vestigen wij onze enige hoop, wij aanzien Hem als onze enige toevlucht en bijstand voor ons welzijn en onze zaligheid. Die vrucht van het gebed wordt in deze woorden aangeduid : “ Aanroep mij op de dag van de kwelling, ik zal u bevrijden en gij zult mij verheerlijken „ [^577.1].
 

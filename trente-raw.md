@@ -2,366 +2,111 @@
 
 ## Waarom vragen we dat de Wil van God geschiede, onmiddellijk nadat we zijn rijk gevraagd hebben ?
 
-Christus, onze Heer, heeft gezegd : * Niet ieder die
-tot mij zegt : Heer, Heer, zal in het rijk der hemelen
+Christus, onze Heer, heeft gezegd : “ Niet ieder die tot mij zegt : Heer, Heer, zal in het rijk der hemelen binnengaan, maar wie den Wil doet van mijn Vader die in de hemelen is „ [^636.1] ; daarom moeten al diegenen die in het rijk der hemelen willen komen, ook aan God vragen dat zijn Wil geschiede, Om die reden volgt deze vraag onmiddellijk nadat we het hemelsche rijk gevraagd hebben.
 
-binnengaan, maar wie den Wil doet van mijn Vader die
-in de hemelen is „ (1) ; daarom moeten al diegenen die
-in het rijk der hemelen willen komen, ook aan God
+## Hoe moeten we die vraag uitleggen om ze goed te doen begrijpen ?
 
-vragen dat zijn Wil geschiede, Om die reden volgt deze
+Om aan de geloovigen te doen begrijpen hoezeer we noodig hebben hetgeen we in deze vraag afsmeeken, en welken overvloed van heilzame gunsten wij er kunnen door bekomen, zullen de pastoors uitleggen onder welke ellenden en kwellingen het menschdom gebukt ging om wille van de zonde van onzen eersten vader.
 
-vraag onmiddellijk nadat we het hemelsche rijk gevraagd
-hebben.
-2. Hoe moeten we die vraag uitleggen om ze goed
-te doen begrijpen
+[^636.1]: Matth. VII, 21.
 
-Om aan de geloovigen te doen begrijpen hoezeer we
-noodig hebben hetgeen we in deze vraag afsmeeken, en
-welken overvloed van heilzame gunsten wij er kunnen
-deor bekomen, zullen de pastoors uitleggen onder
-welke ellenden en kwellingen het menschdom gebukt
-ging om wille van de zonde van onzen eersten vader.
-3. Noodlottige gevolgen van de eerste zonde.
+## Noodlottige gevolgen van de eerste zonde.
 
-Vanaf het begin heeft God aan alle schepselen de
-begeerte naar hun eigen welzijn gegeven, zoodat ze,
-door een natuurlijke neiging, hun doel betrachten en
-nastreven, en daar nooit van afwijken, tenzij door een
+Vanaf het begin heeft God aan alle schepselen de begeerte naar hun eigen welzijn gegeven, zoodat ze, door een natuurlijke neiging, hun doel betrachten en nastreven, en daar nooit van afwijken, tenzij door een uitwendig beletsel. Bij den mensch was dat streven naar God, zijn vader en de bron van zijn geluk, in het begin sterker en verhevener, dan bij andere schepselen omdat hij met rede en oordeel begaafd is. De redelooze wezens hebben die aangeboren neiging bewaard, omdat zij in den goeden staat, waarin God hen geschapen had, gebleven zijn en nog blijven ; doch het ellendige menschdom is van de richting afgeweken. Niet alleen heeft de mensch de weldaden verloren van de oorspronkelijke rechtvaardigheid, waarmede God hem verrijkt had boven de eischen van zijn natuur, maar ook het vurig betrachten van de deugd, dat in zijn ziel uitgestort was, heeft hij verzwakt. “ Allen zijn afgeweken, zegt de profeet, allen zijn ze nutteloos geworden ; niemand is er nog die goed doet, geen enkele meer „ [^637.1]. Want “ de zinnen en de gedachte van het menschelijk hart zijn geneigd tot het kwaad van af de jeugd „ [^637.2] ; daardoor verstaat men gemakkelijk dat niemand uit zichzelf smaak vindt in het goed maar dat allen overhellen naar het kwaad, en dat de mensch tallooze slechte begeerten heeft waardoor hij met geweld getrokken wordt naar gramschap, haat, hoogmoed, eerzucht en alle ander kwaad.
 
-uitwendig beletsel. Bij den mensch was dat streven naar
-mn
+[^637.1]: Ps. LII, 4.
 
-(1) Matth. VII, z1.
+[^637.2]: Gen. VIII, 21.
 
-HET GEBED VAN DEN HEER.
+## De mensch is níet bewust van zijn ellende.
 
-637
+Vele van die kwalen, waar wij ons voortdurend in bevinden, aanzien wij niet als kwalen, en dat is wel onze grootste ellende. Daarin vinden we het klaarste bewijs van den rampzaligen toestand van de menschen, die, verblind door hun begeerlijkheden en driften, niet inzien dat hetgeen zij heilzaam wanen, meestal doodend is ; die zelfs dit verderfelijk kwaad als een wenschelijk en begeerenswaardig goed najagen ; en van al wat werkelijk goed en eerlijk is, een afkeer hebben alsof het hun noodlottig was. Die dwaling en die misvorming van oordeel veroordeelt God in deze woorden : “ Wee hun die het kwaad goed en het goed kwaad heeten, die de duisternis tot licht en het licht tot duisternis maken, die het bittere maken tot zoet en het zoete tot bitter „ [^638.1].
 
-God, zijn vader en de bron van zijn geluk, in het begin
+## De Heilige Schriftuur houdt ons die ellende voor oogen.
 
-sterker en verhevener, dan bij andere schepselen omdat
+Om ons die ellende voor oogen te houden, vergelijkt de Heilige Schriftuur ons met degenen die den smaak verloren hebben, zoodat ze zich van het gezonde voedsel afkeeren en honger hebben naar wat hun nadeelig is. Ze vergelijkt ons ook met zieken : evenals die het werk en de taak van een gezonden menschniet kunnen vervullen zoolang ze de ziekte niet overwonnen hebben, zoo kunnen wij ook, zonder de hulp van de goddelijke genade, geen daden stellen die aan God aangenaam zijn.
 
-hij met rede en oordeel begaafd is. De redelooze wezens
-hebben die aangeboren neiging bewaard, omdat zij in
-den goeden staat, waarin God hen geschapen had,
+## We zijn onbekwaam om iets goed te doen.
 
-gebleven zijn en nog blijven ; doch het ellendige
-menschdom is van de richting afgeweken. Niet alleen
-heeft de mensch de weldaden verloren van de oorspronkelijke rechtvaardigheid, waarmede God hem verrijkt
-had boven de eischen van zijn natuur, maar ook het
-vurig betrachten van de deugd, dat in zijn ziel uitgestort
-was, heeft hij verzwakt. “ Allen zijn afgeweken, zegt de
-profeet, allen zijn ze nutteloos geworden ; niemand is er
-nog die goed doet, geen enkele meer „ (1). Want “ de
-zinnen en de gedachte van het menschelijk hart zijn
+Indien wij dan toch, met al onze zwakheid, iets verrichten, dan zal het zeer gering zijn en van weinig of geen nut om de hemelsche zaligheid te bekomen.  Maar God beminnen en dienen zooals het behoort, dat is zoo groot en zoo verheven dat wij, die machteloos ter aarde liggen, er met eigen krachten onbekwaam toe zijn, en het nooit zullen kunnen zoo de goddelijke genade ons niet ter hulp komt.
 
-geneigd tot het kwaad van af de jeugd „ (2) ; daardoor
+[^638.1]: Is. V, 20.
 
-verstaat men gemakkelijk dat niemand uit zichzelf
-smaak vindt in het goed maar dat allen overhellen naar
-het kwaad, en dat de mensch tallooze slechte begeerten
-heeft waardoor hij met geweld getrokken wordt naar
+## In de goddelijke zaken zijn wij aan kinderen gelijk.
 
-gramschap, haat, hoogmoed, eerzucht en alle ander
+Om den ellendigen toestand van het menschdom nog beter te doen uitkomen, vergelijkt de Heilige Schriftuur ons met kinderen, die, aan hun eigen willekeur overgelaten, zich getrokken voelen tot alles wat zich voordoet ; we zijn onvoorzichtig als kinderen, we houden ons bezig met onnoozelen praat en nutteloos werk, zoo de goddelijke hulp ons verlaat. De goddelijke wijsheid stuurt ons dit verwijt toe : “ Gij kinderen, hoe lang zult gij de kinderachtigheid liefhebben ? En hoelang zullen de dwazen begeeren hetgeen hun noodlottig is? „[^639.1]. En niet anders spreekt de Apostel : “ Wordt niet kinderachtig van verstand „ [^639.2].  En waarlijk, wij leven in grootere ijdelheid en dwaling dan de kinderen, aan wie alleen de menschelijke voorzichtigheid ontbreekt, en daar komen zij van zelf toe met den tijd ; maar goddelijke voorzichtigheid, die noodig is om zalig te worden, kunnen wij niet bereiken zoo God ons niet bijstaat. Zonder de hulp van de goddelijke genade, verstooten wij de ware goederen en loopen een vrijwilligen ondergang tegemoet.
 
-kwaad.
+## Deze vraag duidt het geneesmiddel aan voor die kwalen.
 
-4. De mensch is níet bewust van zijn ellende.
-Vele van die kwalen, waar wij ons voortdurend in
+Als het goddelijk licht de duisternis van onzen geest verdrijft en ons de miseries van de menschen doet inzien ; als we onze loomheid afschudden en “ de wet van onze ledematen „ [^639.3] voelen, als we nagaan dat de begeerlijkheid van de zinnen strijdt tegen den geest en dat onze natuur heelemaal overhelt naar het kwaad, hoe zouden we dan niet met allen ijver een geschikt geneesmiddel zoeken tegen die groote kwaal die ons drukt omdat onze natuur bedorven is, hoe zouden we niet verlangen naar een heilzame levensregel die de christen mensch te volgen heeft ? Welnu, dat vragen we juist als we tot God bidden : Uw Wil geschiede. We zijn in de ellende gevallen door het misprijzen van de gehoorzaamheid en het verbreken van den wil van God ; daar tegenover bestaat er slechts één geneesmiddel : leven volgens den goddelijken Wil dien wij miskend hebben met te zondigen, en volgens dien regel al onze gedachten en werken richten. Om dat te bekomen vragen wij ootmoedig aan God : Uw Wil geschiede.
 
-bevinden, aanzien wij niet als kwalen, en dat is wel onze
+[^639.1]: Prov. I, 22.
 
-grootste ellende. Daarin vinden we het klaarste bewijs
+[^639.2]: I Cor. XIV, 20.
 
-van den rampzaligen toestand van de menschen, die,
-verblind door hun begeerlijkheden en driften, niet inzien
-dat hetgeen zij heilzaam wanen, meestal doodend is ;
-die zelfs dit verderfelijk kwaad als een wenschelijk en
-begeerenswaardig goed najagen ; en van al wat werkelijk
-goed en eerlijk is, een afkeer hebben alsof het hun nood-
+[^639.3]: Rom. VII, 23.
 
-lottig was. Die dwaling en die misvorming van oordeel
-(1) Ps. LIL, 4. — (2) Gen. VIII, zr.
+## Ook voor de rechtvaardigen, die reeds den Wil van God volbrengen, is deze vraag nuttig.
 
-638
+Ook de rechtvaardigen, in wier hart God reeds heerscht, en die reeds bestraald worden door den luister van het goddelijk licht, moeten met vurigheid de genade vragen om aan den Wil van God te blijven gehoorzamen. Immers, al zijn ze nog zoo goed gesteld, toch hebben zij ook te strijden tegen hun eigen begeerlijkheid, want de mensch is van natuur geneigd tot het kwaad. Al zijn we dus ook rechtvaardig, toch blijft, uit ons zelf een groot gevaar ons bedreigen, dat wij, verleid en meegetrokken “ door de lusten, die strijd voeren in onze ledematen „ [^640.1], opnieuw den weg van de zaligheid zouden verlaten. Op dat gevaar wees ook de Heer Christus in deze woorden : “ Waakt en bidt, om niet in bekoring te komen. De geest is gewillig maar het vleesch is zwak „ [^640.2].
 
-HET GEBED VAN DEN HEER.
+[^640.1]: Jac. IV, 1.
 
-veroordeelt God in deze woorden : * Wee hun die het
-kwaad goed en het goed kwaad heeten, die de duisternis
-tot licht en het licht tot duisternis maken, die het bittere
-maken tot zoet en het zoete tot bitter „ (r).
-5. De Heilige Schriftuur houdt ons die ellende voor oogen.
+[^640.2]: Matth. XXVI, 41.
 
-Om ons die ellende voor oogen te houden, vergelijkt
+## Ook bij de rechtvaardigen blijft de begeerlijkheid bestaan.
 
-de Heilige Schriftuur ons met degenen die den smaak
-verloren hebben, zoodat ze zich van het gezonde voed-
+Het ligt niet in de macht van den mensch, ook niet van hem die door de genade van God gerechtvaardigd werd, zoozeer de driften van het vleesch te onderdrukken dat ze nooit meer zouden ontwaken. De genade van God geneest wel den geest van hen die gerechtvaardigd worden, maar niet hun vleesch ; de Apostel zegt daarover : “ Ik weet dat geen goed in mij woont, namelijk in mijn vleesch „ [^641.1]. Eens dat de eerste mensch de oorspronkelijke rechtvaardigheid, die de begeerlijkheid in toom hield, verloren had, heeft de rede ze daarna nooit meer genoeg kunnen bedwingen om niet te begeeren wat in strijd is met het verstand, De Apostel schrijft ook dat de zonde, dit is de neiging tot zonde, in het vleesch woont [^641.2]; daardoor wil hij ons leeren dat ze niet als voorliijgaande gast bij ons verblijft, maar, zoolang we leven, als bewoner van ons lichaam onafscheidbaar vereenigd is met onze ledematen. Vermits we dus voortdurend bestreden worden door innerlijke vijanden, begrijpen we gemakkelijk dat we onze toevlucht moeten nemen tot de goddelijke hulp, en bidden dat zijn Wil in ons geschiede. We moeten dan ook aan de geloovigen uitleggen welke de beteekenis is van deze vraag.
 
-sel afkeeren en honger hebben naar wat hun nadeelig
+## Wat verstaan we hier door den Wil van God ?
 
-is. Ze vergelijkt ons ook met zieken : evenals die het
-werk en de taak van een gezonden menschniet kunnen
-vervullen zoolang ze de ziekte niet overwonnen hebben,
-zoo kunnen wij ook, zonder de hulp van de goddelijke
-
-genade, geen daden stellen die aan God aangenaam
-
-zijn.
-
-6, We zijn onbekwaam om iets goed te doen.
-
-Indien wij dan toch, met al onze zwakheid, iets
-verrichten, dan zal het zeer gering zijn en van weinig
-of geen nut om de hemelsche zaligheid te bekomen.
-Maar God beminnen en dienen zooals het behoort,
-dat is zoo groot en zoo verheven dat wij, die machteloos ter aarde liggen, er met eigen krachten onbekwaam
-
-toe zijn, en het nooit zullen kunnen zoo de goddelijke
-
-genade ons niet ter hulp komt.
-7. In de goddelijke zaken zijn wij aan kinderen‘gelijk.
-Om den ellendigen toestand van het menschdom
-
-nog beter te doen uitkomen, vergelijkt de Heilige
-
-Schriftuur ons met kinderen, die, aan hun eigen
-willekeur overgelaten, zich getrokken voelen tot alles
-wat zich voordoet ; we zijn onvoorzichtig als kinderen,
-we houden ons bezig met onnoozelen praat en nutte(1) Is. V, 20.
-
-HET GEBED VAN DEN HEER.
-
-639
-
-loos werk, zoo de goddelijke hulp ons verlaat. De
-goddelijke wijsheid stuurt ons dit verwijt toe : “* Gij
-kinderen, hoe lang zult gij de kinderachtigheid liefhebben ? En hoelang zullen de dwazen begeeren hetgeen hun noodlottig is? „(r). En niet anders spreekt
-de Apostel : “ Wordt niet kinderachtig van verstand „ (2).
-En waarlijk, wij leven in grootere ijdelheid en dwaling
-dan de kinderen, aan wie alleen de menschelijke
-voorzichtigheid ontbreekt, en daar komen zij van zelf
-toe met den tijd ; maar goddelijke voorzichtigheid,
-die noodig is om zalig te worden, kunnen wij niet
-bereiken zoo God ons niet bijstaat. Zonder de hulp
-van de goddelijke genade, verstooten wij de ware
-goederen en loopen een vrijwilligen ondergang te
-gemoet.
-8. Deze vraag duidt het geneesmiddel aan
-voor die kwalen.
-
-Als het goddelijk licht de duisternis van onzen geest
-verdrijft en ons de miseries van de menschen doet
-inzien ; als we onze loomheid afschudden en “ de
-wet van onze ledematen „ (3) voelen, als we nagaan
-dat de begeerlijkheid van de zinnen strijdt tegen den
-geest en dat onze natuur heelemaal overhelt naar het
-kwaad, hoe zouden we dan niet met allen ijver een
-geschikt geneesmiddel zoeken tegen die groote kwaal
-die ons drukt omdat onze natuur bedorven is, hoe
-
-zouden we niet verlangen naar een heilzame levensregel die de christen mensch te volgen heeft ? Welnu,
-dat vragen we juist als we tot God bidden : Uw Wil
-geschiede. We zijn in de ellende gevallen door het
-misprijzen van de gehoorzaamheid en het verbreken van den wil van God ; daar tegenover bestaat
-(1) Prov. 1, 22. — (2) I Cor. XIV, zo. — (3) Rom. VII, 23.
-
-640
-
-HET GEBED VAN DEN HEER.
-
-er slechts één geneesmiddel : leven volgens den godde-
-
-lijken Wil dien wij miskend hebben met te zondigen,
-
-en volgens dien regel al onze gedachten en werken
-richten. Om dat te bekomen vragen wij ootmoedig aan
-God : Uw Wil geschiede.
-9. Ook voor de rechtvaardigen, die reeds den Wil
-van God volbrengen, is deze vraag nuttig.
-
-Ook de rechtvaardigen, in wier hart God reeds
-heerscht, en die reeds bestraald worden door den
-luister van het goddelijk licht, moeten met vurigheid
-de genade vragen om aan den Wil van God te blijven
-gehoorzamen. Immers, al zijn ze nog zoo goed gesteld,
-toch hebben zij ook te strijden tegen hun eigen begeerlijkheid, want de mensch is van natuur geneigd tot het
-kwaad. Al zijn we dus ook rechtvaardig, toch blijft,
-uit ons zelf een groot gevaar ons bedreigen, dat wij,
-
-verleid en meegetrokken “ door de lusten, die strijd
-voeren in onze ledematen „ (zr), opnieuw den weg van
-
-de zaligheid zouden verlaten. Op dat gevaar wees
-ook de Heer Christus in deze woorden : * Waakt en
-
-bidt, om niet in bekoring te komen. De geest is
-gewillig maar het vleesch is zwak „ (2).
-40. Ook bij de rechtvaardigen blijft de
-begeerlijkheid bestaan.
-
-Het ligt niet in de macht van den mensch, ook niet
-van hem die door de genade van God gerechtvaardigd
-werd, zoozeer de driften van het vleesch te onderdrukken dat ze nooit meer zouden ontwaken. De
-genade van God geneest wel den geest van hen die
-gerechtvaardigd ‘worden, maar niet hun vleesch ;
-de Apostel zegt daarover : “ Ik weet dat geen goed in
-(xs) Jac. IV, 1. — (2) Matth. XXVI, 41.
-
-HET GEBED VAN DEN HEER.
-
-64r
-
-mij woont, namelijk in mijn vleesch „ (r). Eens dat de
-eerste mensch de oorspronkelijke rechtvaardigheid,
-die de begeerlijkheid in toom hield, verloren had,
-heeft de rede ze daarna nooit meer genoeg kunnen
-bedwingen om niet te begeeren wat in strijd is met
-het verstand, De Apostel schrijft ook dat de zonde, dit
-is de neiging tot zonde, in het vleesch woont (2);
-daardoor wil hij ons leeren dat ze niet als voorliijgaande gast bij ons verblijft, maar, zoolang we leven,
-als bewoner van ons lichaam onafscheidbaar vereenigd
-is met onze ledematen. Vermits we dus voortdurend
-bestreden worden door innerlijke vijanden, begrijpen
-we gemakkelijk dat we onze toevlucht moeten nemen
-tot de goddelijke hulp, en bidden dat zijn Wil in ons
-geschiede. We moeten dan ook aan de geloovigen
-uitleggen welke de beteekenis is van deze vraag.
-44. Wat verstaan we hier door den Wil van God ?
-
-We kunnen hier niet aanhalen al wat de scholastieken zoo breedvoerig en nuttig geschreven hebben
-over den Wil van God ; hier wordt de wil als hef teeken
-beschouwd, waardoor God ons te kennen gegeven en
-bevolen heeft wat wij moeten doen en laten. Door
-dien Wil verstaan we dus alles wat ons voorgehouden
-wordt om het geluk van den hemel te bekomen,
-met betrekking op het geloof zoowel als op de zeden ;
-alles wat de Heer Christus, persoonlijk of door zijn
-Kerk, ons opgelegd of verboden heeft. Over dien Wil
-schrijft de Apostel: * Weest niet onverstandig, maar
-verstaat wat de Wil van den Heer is „ (3).
-12. Wat omvat deze vraag ?
-
-Als we bidden : uw Wil geschiede, dan vragen we
-vooreerst dat de hemelsche Vader ons de genade
-(1) Rom. VII, 18. — (2) Rom. VII, 20. — (3) Eph. V, 15,
-21
-
-CATECH. CONC, TRENTE.
-
-642
-
-HKT GEBED VAN DEN HEER,
-
-En
-
-verleene om aan zijn geboden te gehoorzamen, en
-
-“ Hem te dienen in heiligheid en gerechtigheid, al
-
-de dagen van ons leven „ (1) ; dat wij alles doen
-volgens zijn Wil en welbehagen ; dat wij de plichten
-zouden vervullen die ons in de Heilige Schriftuur
-opgelegd worden ; dat wij, onder zijn leiding en met
-zijn hulp, al het andere doen dat gevraagd wordt
-van degenen “ die niet uit den wil van vleesch maar
-uit God geboren zijn „ (2), en het voorbeeld mogen
-navolgen van onzen Heer Christus “ die gehoorzaam
-werd tot den dood, ja tot den dood van het kruis „ (3);
-dat wij bereid mogen zijn om liever alles te verdragen
-dan ook maar in ’t minste van zijn Wil af te wijken.
-13. Wie zal het vurigst verlangen naar
-hetgeen we hier vragen ?
-
-Niemand kan met meer vurigheid en liefde betrachten hetgeen we hier vragen, dan hij aan wie
-gegeven werd de groote waardigheid te begrijpen
-van degenen die aan God gehoorzamen. Die begrijpt
-immers de waarheid van het woord : God dienen en
-aan God gehoorzamen, dat is heerschen. “ Alwie
-den Wil volbrengt van mijn Vader die in de hemelen
-is, zoo zegt de Heer, die is mijn broeder en zuster
-en moeder „ (4) ; dit wil zeggen : met hem ben ik
-op de innigste wijze vereenigd door alle banden van
-hefde en genegenheid. Alle heiligen hebben de gunst,
-waar we hier om vragen, met de meeste vurigheid
-van God afgesmeekt ; ze hebben daarvoor gebeden
-gebruikt,
-
-heerlijk
-
-in
-
-hun
-
-verscheidenheid.
-
-Vooral
-
-David munt uit door zijn wonderbare en lieflijke verzuchtingen : “* Mogen mijn wegen geleid worden om
-uw bevelen te onderhouden (5). Geleid mij op den
-(1) Luc. 1. 74, 75. — (2) Jo. 1, 13. — (3) Eph. II, 8. —
-
-(4) Matth. XII, so. — (5) Ps. CXVIII, 5.
-
-IIET GEBED VAN DEN HEER.
-
-643
-
-weg van uw geboden (1). Leid mijn schreden volgens
-uw woord, en laat geen ongerechtigheid over mij
-heerschen (2). Geef mij verstand om uw geboden te
-leeren (3). Leer mij uw wetten (4). Geef mij verstand
-om uw getuigenissen te kennen (5) „ Elders nog
-drukt hij het zelfde uit in andere woorden. Al die
-teksten moeten met zorg overwogen en aan de geloovigen uitgelegd worden, om allen te doen begrijpen
-welke de draagkracht is van dit eerste deel van de
-vraag, en de overvloed van gunsten die wij afsmeeken.
-14. Wat vragen we verder nog ?
-
-Door deze vraag: Uw Wil geschiede, verfoeien wij
-ook de werken van het vleesch, waarover de Apostel
-schrijft : “* De werken van het vleesch zijn kenbaar ;
-het zijn : onkuischheid, onzuiverheid, ontucht, afgoderij,
-tooverij, vijandschappen, twist, afgunst, toorn, gekijf,
-tweedracht,
-
-verdeeldheid,
-
-nijd,
-
-dronkenschappen,
-
-zwelgerijen en dergelijke „ (6) en elders : “ als gij
-naer het vleesch leeft, moet gij sterven „ (7). We vragen
-aan God dat Hij ons den drang van onze zinnelijkheid,
-
-onze begeerlijkheid en onze zwakheid niet zou laten
-
-volgen, maar onzen wil volgens zijn Wil zou regelen.
-
-Van dien Wil zijn de wellustelingen vervreemd, die
-verslonden zijn in de zorg en de betrachting van
-aardsche zaken. Door hun drift meegevoerd, zoeken
-zij te genieten hetgeen zij verlangen, in de voldoening
-van hun slechte begeerte stellen zij hun geluk, zoodat
-
-zij den mensch die kan bekomen al wat hij verlangt,
-gelukkig noemen. Wij echter vragen aan God, zooals
-
-de Apostel zegt, dat wij “ het vleesch niet vertroetelen,
-dat tot begeerlijkheid vervoert „ (8), maar dat zijn
-Wil geschiede.
-(1) Ps. CXVIII, 35. — (2) ibid, 133. — (3) ibid, 73. —
-
-(4) ibid, 108. — (5) ibid, 125. — (6) Gal. V, 19, 20, —
-(7) Rom. VIII, 13. — (8) Rom. XIII, 14.
-
-644
-
-HET GEBED VAN DEN HEER.
-45. Het is beter te wenschen dat do Wil
-van God geschiede dan de onze.
+We kunnen hier niet aanhalen al wat de scholastieken zoo breedvoerig en nuttig geschreven hebben over den Wil van God ; hier wordt de wil als *het teeken* beschouwd, waardoor God ons te kennen gegeven en bevolen heeft wat wij moeten doen en laten. Door dien Wil verstaan we dus alles wat ons voorgehouden wordt om het geluk van den hemel te bekomen, met betrekking op het geloof zoowel als op de zeden ; alles wat de Heer Christus, persoonlijk of door zijn Kerk, ons opgelegd of verboden heeft. Over dien Wil schrijft de Apostel: “ Weest niet onverstandig, maar verstaat wat de Wil van den Heer is „ [^641.3].
+
+[^641.1]: Rom. VII, 18.
+
+[^641.2]: Rom. VII, 20.
+
+[^641.3]: Eph. V, 17.
+
+## Wat omvat deze vraag ?
+
+Als we bidden : uw Wil geschiede, dan vragen we vooreerst dat de hemelsche Vader ons de genade verleene om aan zijn geboden te gehoorzamen, en “ Hem te dienen in heiligheid en gerechtigheid, al de dagen van ons leven „ [^642.1] ; dat wij alles doen volgens zijn Wil en welbehagen ; dat wij de plichten zouden vervullen die ons in de Heilige Schriftuur opgelegd worden ; dat wij, onder zijn leiding en met zijn hulp, al het andere doen dat gevraagd wordt van degenen “ die niet uit den wil van vleesch maar uit God geboren zijn „ [^642.2], en het voorbeeld mogen navolgen van onzen Heer Christus “ die gehoorzaam werd tot den dood, ja tot den dood van het kruis „ [^642.3]; dat wij bereid mogen zijn om liever alles te verdragen dan ook maar in ’t minste van zijn Wil af te wijken.
+
+## Wie zal het vurigst verlangen naar hetgeen we hier vragen ?
+
+Niemand kan met meer vurigheid en liefde betrachten hetgeen we hier vragen, dan hij aan wie gegeven werd de groote waardigheid te begrijpen van degenen die aan God gehoorzamen. Die begrijpt immers de waarheid van het woord : God dienen en aan God gehoorzamen, dat is heerschen. “ Alwie den Wil volbrengt van mijn Vader die in de hemelen is, zoo zegt de Heer, die is mijn broeder en zuster en moeder „ [^642.4] ; dit wil zeggen : met hem ben ik op de innigste wijze vereenigd door alle banden van liefde en genegenheid. Alle heiligen hebben de gunst, waar we hier om vragen, met de meeste vurigheid van God afgesmeekt ; ze hebben daarvoor gebeden gebruikt, heerlijk in hun verscheidenheid.  Vooral David munt uit door zijn wonderbare en lieflijke verzuchtingen : “ Mogen mijn wegen geleid worden om uw bevelen te onderhouden [^642.5]. Geleid mij op den weg van uw geboden [^643.1]. Leid mijn schreden volgens uw woord, en laat geen ongerechtigheid over mij heerschen [^643.2]. Geef mij verstand om uw geboden te leeren [^643.3]. Leer mij uw wetten [^643.4]. Geef mij verstand om uw getuigenissen te kennen [^643.5] „ Elders nog drukt hij het zelfde uit in andere woorden. Al die teksten moeten met zorg overwogen en aan de geloovigen uitgelegd worden, om allen te doen begrijpen welke de draagkracht is van dit eerste deel van de vraag, en de overvloed van gunsten die wij afsmeeken.
+
+[^642.1]: Luc. I, 74, 75.
+
+[^642.2]: Jo. I, 13.
+
+[^642.3]: Eph. II, 8.
+
+[^642.4]: Matth. XII, 50.
+
+[^642.5]: Ps. CXVIII, 5.
+
+## Wat vragen we verder nog ?
+
+Door deze vraag: Uw Wil geschiede, verfoeien wij ook de werken van het vleesch, waarover de Apostel schrijft : “ De werken van het vleesch zijn kenbaar ; het zijn : onkuischheid, onzuiverheid, ontucht, afgoderij, tooverij, vijandschappen, twist, afgunst, toorn, gekijf, tweedracht, verdeeldheid, nijd, dronkenschappen, zwelgerijen en dergelijke „ [^643.6] en elders : “ als gij naer het vleesch leeft, moet gij sterven „ [^643.7]. We vragen aan God dat Hij ons den drang van onze zinnelijkheid, onze begeerlijkheid en onze zwakheid niet zou laten volgen, maar onzen wil volgens zijn Wil zou regelen.  Van dien Wil zijn de wellustelingen vervreemd, die verslonden zijn in de zorg en de betrachting van aardsche zaken. Door hun drift meegevoerd, zoeken zij te genieten hetgeen zij verlangen, in de voldoening van hun slechte begeerte stellen zij hun geluk, zoodat zij den mensch die kan bekomen al wat hij verlangt, gelukkig noemen. Wij echter vragen aan God, zooals de Apostel zegt, dat wij “ het vleesch niet vertroetelen, dat tot begeerlijkheid vervoert „ [^643.8], maar dat zijn Wil geschiede.
+
+[^643.1]: Ps. CXVIII, 35.
+
+[^643.2]: ibid, 133.
+
+[^643.3]: ibid, 73.
+
+[^643.4]: ibid, 108.
+
+[^643.5]: ibid, 125.
+
+[^643.6]: Gal. V, 19, 20.
+
+[^643.7]: Rom. VIII, 13.
+
+[^643.8]: Rom. XIII, 14.
+
+## Het is beter te wenschen dat do Wil van God geschiede dan de onze.
 
 Ongetwijfeld is het niet gemakkelijk, aan God te
 vragen dat Hij aan onze verlangens geen voldoening

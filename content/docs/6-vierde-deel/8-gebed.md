@@ -49,7 +49,7 @@ Het gebed van schijnheilige mensen komt niet uit het hart. Daarom geeft Christus
 
 ## We moeten niet ophouden met bidden als we niet onmiddellijk verhoord worden.
 
-Het gebed moet ook volhardend zijn. De kracht van de volharding leert Christus ons door het voorbeeld van de rechter, die God niet vreesde en geen mens ontzag, en toch recht verschafte aan een weduwe om wille van haar volhardend en aanhoudend verzoek [^601.1]. Zo moeten ook onze gebeden tot God volhardend zijn, en we mogen het voorbeeld niet navolgen van degenen die het bidden moe worden als ze, na één of twee gebeden, niet bekomen hebben wat ze vroegen. Het vervullen van dezen plicht mogen we nooit moe worden: dat leren ons Christus en de apostelen. En als we soms onze wil voelen verzwakken, dan moeten we aan God de sterkte vragen om te volharden.
+Het gebed moet ook volhardend zijn. De kracht van de volharding leert Christus ons door het voorbeeld van de rechter, die God niet vreesde en geen mens ontzag, en toch recht verschafte aan een weduwe om wille van haar volhardend en aanhoudend verzoek [^601.1]. Zo moeten ook onze gebeden tot God volhardend zijn, en we mogen het voorbeeld niet navolgen van degenen die het bidden moe worden als ze, na één of twee gebeden, niet bekomen hebben wat ze vroegen. Het vervullen van deze plicht mogen we nooit moe worden: dat leren ons Christus en de apostelen. En als we soms onze wil voelen verzwakken, dan moeten we aan God de sterkte vragen om te volharden.
 
 ## Christus beveelt ons in zijn Naam te bidden.
 

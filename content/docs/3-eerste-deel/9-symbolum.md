@@ -259,7 +259,7 @@ Dat men door de gemeenschap der heiligen de gemeenschap van Sacramenten moet ver
 
 ## Er bestaat in de Kerk een mededeling van verdiensten.
 
-Doch we hebben in de Kerk nog een andere gemeenschap te beschouwen. Al het goede en heilige dat door één lid van de Kerk gedaan wordt, komt aan allen toe, en de liefde, die haar eigen belang niet zoekt, laat het aan allen ten goede komen.  Dat bewijst ons het getuigenis van de heiligen Ambrosius, in zijn uitleg over dezen psalmtekst “ Ik ben deelgenoot van allen die u vrezen „ : “ Gelijk een lidmaat, zegt hij, deelgenoot is van gans het lichaam, zo is het ook degene, die verenigd is met allen die God vrezen „ [^132.1]. Daarom ook heeft Christus voorgeschreven, dat we zouden bidden om *ons* brood en niet om *mijn* brood ; en ook in de andere vragen heeft Hij gewild dat we niet alleen ons eigen voordeel, maar de zaligheid en het welzijn van allen zouden beogen.
+Doch we hebben in de Kerk nog een andere gemeenschap te beschouwen. Al het goede en heilige dat door één lid van de Kerk gedaan wordt, komt aan allen toe, en de liefde, die haar eigen belang niet zoekt, laat het aan allen ten goede komen.  Dat bewijst ons het getuigenis van de heiligen Ambrosius, in zijn uitleg over deze psalmtekst “ Ik ben deelgenoot van allen die u vrezen „ : “ Gelijk een lidmaat, zegt hij, deelgenoot is van gans het lichaam, zo is het ook degene, die verenigd is met allen die God vrezen „ [^132.1]. Daarom ook heeft Christus voorgeschreven, dat we zouden bidden om *ons* brood en niet om *mijn* brood ; en ook in de andere vragen heeft Hij gewild dat we niet alleen ons eigen voordeel, maar de zaligheid en het welzijn van allen zouden beogen.
 
 [^132.1]: S. Ambr. in Ps. CXVIII, serm. 8.
 

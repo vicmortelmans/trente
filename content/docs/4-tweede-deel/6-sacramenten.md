@@ -129,7 +129,7 @@ De derde orde is die van de bezweerders, aan wie de macht gegeven werd om de naa
 
 De orde der acolieten is de vierde en laatste van degenen die men kleine orden noemt. Zij hebben als taak, de hogere dienaars, diakens en subdiakens, bij te staan en te helpen in de dienst van het altaar. Verder dragen zij ook brandende kaarsen gedurende let heilig Misoffer, vooral tijdens de lezing van het Evangelie ; daarom worden ze ook kaarsdragers (*ceroferarii*) genoemd.
 
-Voor de wijding van de acolieten, worden de volgende ceremoniën onderhouden : De bisschop wijst eerst op hun verplichtingen, en geeft hun dan een kaars in de hand, terwijl hij zegt : “ Neem dezen kandelaar aan met de kaars, en weet dat gij gelast zijt met het aansteken van de kaarsen der kerk, in de naam van de Heer „. Vervolgens geeft hij hun de ledige ampullen, die gebruikt worden om wijn en water aan te brengen in de Mis, en zegt : “ Neem de ampullen aan, waarin ge wijn en water zult aangeven voor de consecratie van het Bloed van Christus, in de naam van de Heer „
+Voor de wijding van de acolieten, worden de volgende ceremoniën onderhouden : De bisschop wijst eerst op hun verplichtingen, en geeft hun dan een kaars in de hand, terwijl hij zegt : “ Neem deze kandelaar aan met de kaars, en weet dat gij gelast zijt met het aansteken van de kaarsen der kerk, in de naam van de Heer „. Vervolgens geeft hij hun de ledige ampullen, die gebruikt worden om wijn en water aan te brengen in de Mis, en zegt : “ Neem de ampullen aan, waarin ge wijn en water zult aangeven voor de consecratie van het Bloed van Christus, in de naam van de Heer „
 
 ## Bediening van de subdiaken.
 
