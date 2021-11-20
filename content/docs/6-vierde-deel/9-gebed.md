@@ -3,7 +3,7 @@ weight: 90
 title: "Onze Vader, die in de hemelen zijt"
 ---
 
-# Onze Vader, die in de hemelen zijt.
+# *Onze Vader, die in de hemelen zijt*.
 
 ## Waarom wil Christus dat we, bij het begin van dit gebed, God Vader noemen, en niet Heer of Rechter ?
 

@@ -3,7 +3,7 @@ weight: 100
 title: "Eerste vraag — Geheiligd zij uw Naam"
 ---
 
-# Eerste vraag — Geheiligd zij uw Naam.
+# Eerste vraag — *Geheiligd zij uw Naam*.
 
 ## Waarom bidden we eerst en vooral voor de heiliging van de goddelijke Naam ?
 
