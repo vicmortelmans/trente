@@ -33,7 +33,7 @@ De boosheid en de lelijkheid der zonde wordt niet geteld : het gevolg ervan is, 
 
 Als dat waar is, Eerbiedwaardige Broeders, hoe zouden we dan verwonderd zijn dat het zedenbederf en de boosheid zo groot zijn en van dag tot dag toenemen, ik zeg niet bij de barbaarse volkeren, maar bij de volkeren die de naam van christenen dragen ?
 
-Sint Paulus schreef aan de Ephesiërs : * Ontucht en allerlei onkuisheid en hebzucht mogen onder u zelfs niet vernoemd worden, zoals het aan heiligen past ; en evenmin oneerbare gesprekken en zotte praat „ [^x1].
+Sint Paulus schreef aan de Ephesiërs : “ Ontucht en allerlei onkuisheid en hebzucht mogen onder u zelfs niet vernoemd worden, zoals het aan heiligen past ; en evenmin oneerbare gesprekken en zotte praat „ [^x1].
 
 Doch, als grondslag van die heiligheid, van die zedigheid die de driften bedwingt, vergt hij de wetenschap der goddelijke dingen : “ Ziet dan scherp toe hoe gij wandelt, niet als onwijzen doch als wijzen...  Weest derhalve niet onverstandig, maar verstaat wat de Wil van de Heer is „ [^x2].
 

@@ -35,7 +35,7 @@ Van al de redenen die de mensen kunnen bewegen om de voorschriften van die wet t
 
 [^433.5]: Gal. III, 19.
 
-## 4. De Wetgever zelf wekt het volk op om zijn wet te onderhouden.
+## De Wetgever zelf wekt het volk op om zijn wet te onderhouden.
 
 De gedachte dat God zelf de wet gegeven heeft, zal machtig helpen en van groot gewicht zijn om het volk te bewegen tot het onderhouden van de wet : aan zijn wijsheid en gerechtigheid kunnen we niet twijfelen, zijn eindeloze kracht en macht kunnen we niet ontvluchten. Het is daarom dat God, als Hij door de profeten gebood de wet te onderhouden, zegde dat Hij de Heer God is; in het begin van de tien geboden zegt Hij ook : “Ik ben de Heer uw God „ [^434.1], en elders: “ Als ik de Heer ben, waar is dan de vrees voor mij ? „ [^434.2].
 
@@ -43,7 +43,7 @@ De gedachte dat God zelf de wet gegeven heeft, zal machtig helpen en van groot g
 
 [^434.2]: Malachi. I, 6.
 
-## 5. Het is een grote weldaad dat we een wet van God ontvangen hebben.
+## Het is een grote weldaad dat we een wet van God ontvangen hebben.
 
 Deze overweging zal niet alleen de gelovigen opwekken om de geboden van God te onderhouden, maar ook om Hem te danken, dat Hij ons zijn wil, die onze zaligheid bevat, heeft kenbaar gemaakt.  Daarom toont de Heilige Schriftuur op verscheiden plaatsen deze grote weldaad aan, en vermaant ze het volk dat het zijn waardigheid en de goedgunstigheid. van de Heer zou erkennen ; zo staat er in het Deuteronomium : “ Zo groot is uw wijsheid en uw verstand voor de volkeren, dat zij, bij het horen van al deze geboden, zullen zeggen : ziedaar een wijs en verstandig volk, een groot volk „ [^435.1]; en in de Psalmen : “ Zo heeft Hij niet met alle volkeren gehandeld, en aan hen heeft Hij zijn geboden niet geopenbaard „ [^435.2].
 
@@ -51,11 +51,11 @@ Deze overweging zal niet alleen de gelovigen opwekken om de geboden van God te o
 
 [^435.2]: Ps. CXLVII, 20.
 
-## 6. Waarom heeft God met zoveel luister zijn wet aan de Israëlieten gegeven ?
+## Waarom heeft God met zoveel luister zijn wet aan de Israëlieten gegeven ?
 
 Zo de pastoor nog aantoont uit de Heilige Schriftuur op welke wijze de wet gegeven werd, zullen de gelovigen gemakkelijk begrijpen met hoeveel godsvrucht en onderwerping zij de wet van God moeten onderhouden. Drie dagen vóór het afkondigen van de wet, werd er op bevel van God aan allen gezegd dat zij hun klederen moesten wassen en zich van hun vrouwen onthouden, om des te heiliger te zijn en des te beter bereid tot het ontvangen van de wet, en dat allen de derde dag moesten aanwezig zijn. En als ze dan bij de berg gekomen waren, vanwaar de Heer hun door Mozes zijn geboden zou geven, dan kreeg Mozes alleen het bevel de berg te bestijgen.  Toen verscheen er de Heer in volle majesteit, vervulde de plaats met donder, bliksem, vuur en dichte duisternis, begon met Mozes te spreken en gaf hem de wet. Daarbij had de goddelijke Wijsheid geen ander doel dan ons te vermanen dat we de wet van God met een zuiver en nederig hart moeten aanvaarden, en dat, zo we zijn geboden verwaarlozen, de straffen ons boven het hoofd hangen die de goddelijke rechtvaardigheid ons bereid heeft.
 
-## 7. De wet van God is gemakkelijk te onderhouden.
+## De wet van God is gemakkelijk te onderhouden.
 
 De pastoor moet ook aantonen dat de geboden van God niet moeilijk te onderhouden zijn ; daarvoor moeten slechts deze woorden van de heilige Augustinus aangehaald worden : “ Hoe kan men zeggen dat het voor de mens onmogelijk is te beminnen, als het voorwerp van die liefde is de weldoende Schepper, de liefhebbendste Vader, en zijn eigen vlees in zijn broeders ? Welnu, wie bemint, heeft de wet vervuld „ [^436.1]. Daarom zegt de apostel Joannes uitdrukkelijk dat de geboden van God niet zwaar zijn [^436.2]. Volgens de heilige Bernardus kan niets met meer reden, met meer waardigheid, met meer voordeel van de mens geëist worden. Daarom zegt de heilige Augustinus tot God, in bewondering voor zijn grote goedheid : “ Wat ben ik voor U, dat Gij mij gebiedt U te beminnen, en dat Gij vergramd wordt en mij met grote straffen bedreigt als ik U niet bemin ? U niet lief te hebben, is dat al niet een grote ellende ? „ [^436.3].
 

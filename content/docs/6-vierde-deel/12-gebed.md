@@ -111,7 +111,7 @@ Door deze vraag: Uw Wil geschiede, verfoeien wij ook de werken van het vlees, wa
 
 [^643.8]: Rom. XIII, 14.
 
-## Het is beter te wensen dat do Wil van God geschiede dan de onze.
+## Het is beter te wensen dat de Wil van God geschiede dan de onze.
 
 Ongetwijfeld is het niet gemakkelijk, aan God te vragen dat Hij aan onze verlangens geen voldoening zou geven. Het lijdt last onze geest daarvan te overtuigen, omdat het wel de schijn heeft dat wij onszelf haten als we zo bidden, en ook omdat de vleselijke mensen het ons als een dwaasheid verwijten. Doch wij moeten gaarne als dwazen aangezien worden om wille van Christus, die gezegd heeft : “ Zo iemand achter mij wil komen, verloochene hij zichzelf „ [^644.1]. Wij weten toch ook dat het veel beter is te wensen hetgeen redelijk en rechtvaardig is, dan na te jagen hetgeen in strijd is met de rede, met de deugd en de wetten van God. En hij die bereikt wat hij in zijn dwaasheid en onder de drang van de drift verlangde. is meer te beklagen dan degene die zijn schone wensen niet in vervulling ziet gaan.
 
