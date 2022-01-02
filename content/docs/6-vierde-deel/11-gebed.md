@@ -63,7 +63,7 @@ Na het nut van deze vraag uitgelegd te hebben, zullen de pastoors ook verklaren 
 
 De gewone betekenis van het rijk van God, die dikwijls voorkomt in de Heilige Boeken, is niet alleen de macht van God over alle mensen en zaken, maar ook de voorzienigheid waarmede Hij alles geleidt en bestuurt. “ Hij houdt in zijn handen de uiteinden van de aarde „ [^628.1], zegt de profeet. In die zin sprak Mardocheus tot God : “ Heer God, almachtige Koning, alles is aan uw macht onderworpen, en niemand kan aan uw wil weerstaan. Gij zijt de Heer van allen, en niemand weerstaat aan uw majesteit „ [^629.1].
 
-[^629.1]: Ps. XCIV, 4.
+[^628.1]: Ps. XCIV, 4.
 
 ## Het rijk van Christus.
 

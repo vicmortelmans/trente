@@ -117,13 +117,13 @@ Om te zeggen dat God het kwaad laat gebeuren, gebruikt de Heilige Schriftuur som
 
 Na dit alles zal het niet moeilijk zijn te begrijpen wat we eigenlijk in deze vraag afsmeken. We vragen niet om in 't geheel niet bekoord te worden, want “ het leven van de mens op aarde is een voortdurende bekoring „ [^691.4]. Daarbij, de bekoring is nuttig en voordelig voor de mens, want in de bekoringen leren we ons zelf, dit is onze krachten, kennen. Daarom vernederen wij ons “ onder de machtige hand van God „, en strijden we dapper, in de verwachting van de “ onverwelkbare kroon van de heerlijkheid „ [^692.1]. “ Want wie worstelt wordt niet gekroond, als hij niet naar de regelen geworsteld heeft „ [^692.2], en, zoals de heilige Jacobus zegt, “ gelukkig de man die bekoring verdraagt, want als hij goedgekeurd geworden is, zal hij de kroon van het leven ontvangen, die God beloofd heeft aan wie Hem liefhebben „ [^692.3]. Als we gekweld worden door de bekoringen van de vijand, dan zullen we grote steun vinden in de gedachte dat wij “ een hogepriester als helper hebben, die bekwaam is medelijden te hebben met onze zwakheden, omdat Hij zelf in alles beproefd geweest is „ [^692.4].
 
-[^692.1]: Exod. IV, 21.
+[^691.1]: Exod. IV, 21.
 
-[^692.2]: Is. VI, 10.
+[^691.2]: Is. VI, 10.
 
-[^692.3]: Rom. I, 26, 28.
+[^691.3]: Rom. I, 26, 28.
 
-[^692.4]: Job. VII, 1.
+[^691.4]: Job. VII, 1.
 
 Wat vragen wij hier dan ? Dat de goddelijke hulp ons niet zou verlaten in de bekoring, opdat we niet toestemmen door verleiding of bezwijken uit zwakheid, maar dat God ons zijn genade geve die ons in de beproeving zal versterken en verkwikken als onze krachten te kort schieten.
 

@@ -4,6 +4,8 @@ title: "De Catechismus van het Concilie van Trente"
 
 # De Catechismus van het Concilie van Trente
 
+*De Romeinse Catechismus*
+
 CATECHISMUS VAN HET CONCILIE VAN TRENTE (1566)
 
 UIT HET LATIJN VERTAALD DOOR F. VERMUYTEN, PR.
