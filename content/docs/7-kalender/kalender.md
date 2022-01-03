@@ -173,46 +173,46 @@ title: "Liturgische kalender"
 
 ## Derde Paaschdag.
 
-- … stond Hijtusschen hen in. Luc. XXIV, 36. Eigenschappen van de verheerlijkte lichamen — bl, 154.
-- Vrede zij U. Het rijk van God is, volgens den Apostel, vrede en vreugd in den Heiligen Geest. Rijk van Christus over de vrome zielen — bl, G2g.
-- Zn zijn Naam boetvaardighetd prediken tot vergeving van de zonden. Christus heeft aan zijn apostelen opgelegd de boetvaardigheid te prediken — bl, 135. De pastoor kan hier spreken over het tiende artikel van het Symbolum, of over het sacrament van boetvaardig heid.
+- ***… stond Hij tusschen hen in.*** Luc. XXIV, 36. [Eigenschappen van de verheerlijkte lichamen](/docs/3-eerste-deel/11-symbolum/#eigenschappen-van-de-lichamen-der-gelukzaligen-na-de-verrijzenis).
+- ***Vrede zij U.*** Het rijk van God is, volgens den Apostel, vrede en vreugd in den Heiligen Geest. [Rijk van Christus over de vrome zielen](/docs/6-vierde-deel/11-gebed/#het-rijk-van-christus).
+- ***In zijn Naam boetvaardigheid prediken tot vergeving van de zonden.*** Christus heeft aan zijn apostelen opgelegd de [boetvaardigheid te prediken](/docs/3-eerste-deel/10-symbolum/#het-is-nodig-te-geloven-in-de-vergiffenis-der-zonden). De pastoor kan hier spreken over het tiende artikel van het Symbolum, of over het [sacrament van boetvaardigheid](/docs/4-tweede-deel/4-sacramenten/#de-lering-van-de-boetvaardigheid-moet-dikwijls-en-met-zorg-voorgehouden-worden).
 
 ## Eerste Zondag na Paschen.
 
-- 's Avonds van dien dag, den eersten dag van de rweek… Jo.  NN, 19. De verrijzenis van Christus moest duidelijk bewezen worden, om ook de onze te bewijzen — bl, 145.
-- Wier zonden gij vergeeft. Sleutelmacht — bl. 137, 390.  
-- Leg uw vinger hier... Waarom bewaren Christus en de martelaren hun wondteekenen na de verrijzenis ? — bl, 152.
+- ***'s Avonds van dien dag, den eersten dag van de week…*** Jo. XX, 19. De verrijzenis van Christus [moest duidelijk bewezen worden](/docs/3-eerste-deel/11-symbolum/#bewijzen-van-de-verrijzenis-der-lichamen-in-de-heilige-schriftuur), om ook de onze te bewijzen.
+- ***Wier zonden gij vergeeft...*** [Sleutelmacht](/docs/3-eerste-deel/10-symbolum/#buiten-het-doopsel-worden-de-zonden-vergeven-door-de-macht-der-sleutels).
+- ***Leg uw vinger hier...*** [Waarom bewaren Christus en de martelaren hun wondteekenen](/docs/3-eerste-deel/11-symbolum/#de-martelaars-zullen-verrijzen-met-een-volmaakt-lichaam-en-er-hun-wondtekenen-in-dragen) na de verrijzenis ?
 
 ## Tweede Zondag na Paschen.
 
-- Jk ben de goede herder. Jo, X, 11... Door herders verstaat men niet alleen de bisschoppen en zielenbestuurders, maar ook de koningen, magistraten, ouders en meesters. Wat mocten de herders doen voor hun kudde, en wat zijn de schapen aan hun herders verschuldigd ? zie bl. 3, 498.
-- De huurling, en die geen herder is. Wie moet men daardoor verstaan ? — bl, 388,
-- Het zal één kudde worden en één herder. Eenheid van de Kerk — bl. 121. Petrus, hoofd van de Kerk, en de Paus, opvolger van Petrus — bl. 121, 122, 403.
+- ***Ik ben de goede herder.*** Jo, X, 11... Door herders verstaat men niet alleen de bisschoppen en zielenbestuurders, maar ook de koningen, magistraten, ouders en meesters. [Wat moeten de herders doen voor hun kudde](/docs/2-inleiding/inleiding/#alhoewel-de-waarheid-reeds-geopenbaard-werd-blijft-het-nu-nog-nodig-dat-de-herders-der-kerk-het-woord-van-god-prediken), en [wat zijn de schapen aan hun herders verschuldigd](/docs/5-derde-deel/4-geboden/#wie-wordt-hier-bedoeld-door-het-woord-vader-) ?
+- ***De huurling, en die geen herder is...*** [Wie moet men daardoor verstaan](/docs/4-tweede-deel/6-sacramenten/#welke-inzichten-mogen-niet-tot-het-priesterschap-leiden-) ?
+- ***Het zal één kudde worden en één herder.*** [Eenheid van de Kerk](/docs/3-eerste-deel/9-symbolum/#de-kentekens-van-de-ware-kerk-waarom-zegt-men-dat-de-kerk-%C3%A9%C3%A9n-is-). Petrus, hoofd van de Kerk, en [de Paus, opvolger van Petrus](/docs/4-tweede-deel/6-sacramenten/#de-paus-van-rome-is-door-goddelijk-recht-de-eerste-van-alle-bisschoppen).
 
 ## Derde Zondag na Paschen.
 
-- Een weinig tijds, en gij zult Mij niet meer zien... Jo. XVI, 16. De tijdelijke smart, die wij om wille van Christus aanvaarden, vindt haar vergelding in de eeuwige vreugde — bl. 160.
-- Weenen en jammeren zult gij, doch de wereld zal blij zijn.  De vrome menschen worden door den duivel meer bekoord dan de boozen — bl. 686.
-- Uw droefenis gal in vreugde veranderen. De hoop op het eeuwig geluk moet ons allen tegenspoed blijmoedig doen verdragen — bl. 157. Waarom laat God toe dat de deugdzame menschen beproefd worden ? — bl. 6go.
+- ***Een weinig tijds, en gij zult Mij niet meer zien...*** Jo. XVI, 16. De tijdelijke smart, die wij om wille van Christus aanvaarden, vindt haar vergelding [in de eeuwige vreugde](/docs/3-eerste-deel/12-symbolum/#de-eeuwige-zaligheid-kan-door-de-mens-niet-in-woorden-uitgedrukt-worden).
+- ***Weenen en jammeren zult gij, doch de wereld zal blij zijn.***  De vrome menschen worden door den duivel [meer bekoord dan de boozen](/docs/6-vierde-deel/15-gebed/#de-vrome-mensen-worden-door-de-duivel-meer-bekoord-dan-de-bozen).
+- ***Uw droefenis zal in vreugde veranderen.*** [De hoop op het eeuwig geluk](/docs/3-eerste-deel/12-symbolum/#waarom-dit-artikel-het-laatste-komt-en-met-hoeveel-zorg-het-moet-uitgelegd-worden) moet ons allen tegenspoed blijmoedig doen verdragen. Waarom laat God toe dat de [deugdzame menschen beproefd worden](/docs/6-vierde-deel/15-gebed/#hoe-worden-wij-in-bekoring-geleid-) ?
 
 ## Vierde Zondag na Paschen.
 
-- Als ik niet heenging, zou de Helper niet tot u komen. Jo. XVI, 7... Over den Heiligen Geest en zijn wonderbare gaven — bl. 103.  
-- Hij zal de wereld overtuigen van zonde. De Heilige Geest beweegt de harten en beschuldigt den zondaar. Over het waar berouw en zijn eigenschappen — bl. 332. Men kan hier ook spreken over de zonden die niet kunnen vergeven worden — bl. 329.
+- ***Als ik niet heenging, zou de Helper niet tot u komen.*** Jo. XVI, 7... [Over den Heiligen Geest en zijn wonderbare gaven](/docs/3-eerste-deel/8-symbolum/#noodzakelijkheid-en-voordeel-van-het-geloof-in-de-heilige-geest).
+- ***Hij zal de wereld overtuigen van zonde...*** De Heilige Geest beweegt de harten en beschuldigt den zondaar. Over het [waar berouw en zijn eigenschappen](/docs/4-tweede-deel/4-sacramenten/#wat-is-het-berouw-). Men kan hier ook spreken over de [zonden die niet kunnen vergeven worden](/docs/4-tweede-deel/4-sacramenten/#waarom-zegt-men-dat-sommige-zonden-niet-kunnen-vergeven-worden-).
 
 ## Vijfde Zondag na Paschen.
 
-- Wat gij den Vader vragen moogt, dat zal Hij u in mijn Naam geven. Jo. XVI, 23. Over het gebed — bl. 574.
-- Tot nogtoe hebt gij niets in mijn Naam gevraagd. We moeten God bidden door Christus — bl, go.
+- ***Wat gij den Vader vragen moogt, dat zal Hij u in mijn Naam geven.*** Jo. XVI, 23. [Over het gebed](/docs/6-vierde-deel/1-gebed/#hoe-moet-men-bidden_).
+- ***Tot nogtoe hebt gij niets in mijn Naam gevraagd.*** We moeten God [bidden door Christus](/docs/3-eerste-deel/6-symbolum/#weldaden-die-christus-ons-door-zijn-hemelvaart-bewezen-heeft).
 
 ## Ons Heer Hemelvaart.
 
-- Hij werd opgenomen ten hemel, en is gaan zillen aan de rechterhand van God, Marc. XVI, 19. Zesde artikel van het Symbolum — bl. 85.
+- ***Hij werd opgenomen ten hemel, en is gaan zitten aan de rechterhand van God.*** Marc. XVI, 19. [Zesde artikel van het Symbolum](/docs/3-eerste-deel/6-symbolum/#verhevenheid-van-dit-artikel--betekenis-van-het-eerste-deel).
 
 ## Zondag na de Hemelvaart.
 
-- Wanneer de Helper komt, dien ik u vanwege den Vader zal zenden. Jo. XV, 26. De Heilige Geest komt voort van den Vader en den Zoon — bl. rog.  
-- Alwie u dvodt… Hier kan met het vijfde gebod van God uitleggen — bl. sog.  
+- ***Wanneer de Helper komt, dien ik u vanwege den Vader zal zenden...*** Jo. XV, 26. [De Heilige Geest komt voort van den Vader en den Zoon](/docs/3-eerste-deel/8-symbolum/#de-heilige-geest-komt-voort-van-de-vader-en-de-zoon-als-van-%C3%A9%C3%A9n-beginsel).
+- ***Alwie u doodt…*** Hier kan met het vijfde gebod van God uitleggen — bl. sog.  
 - zal meenen daardoor eeredienst aan God te bewijzen.  De beproevingen en kwellingen van het leven zijn een teeken van de welwillendheid van God voor ons — bl. 706.
 
 ## Sinksen.
