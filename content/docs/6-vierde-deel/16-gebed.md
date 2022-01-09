@@ -1,6 +1,6 @@
 ---
 weight: 160
-title: "Zevende vraag - Maar verlos ons van de kwade"
+title: "Zevende vraag — Maar verlos ons van de kwade"
 ---
 
 # Zevende vraag - *Maar verlos ons van de kwade.*

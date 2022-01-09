@@ -212,69 +212,70 @@ title: "Liturgische kalender"
 ## Zondag na de Hemelvaart.
 
 - ***Wanneer de Helper komt, dien ik u vanwege den Vader zal zenden...*** Jo. XV, 26. [De Heilige Geest komt voort van den Vader en den Zoon](/docs/3-eerste-deel/8-symbolum/#de-heilige-geest-komt-voort-van-de-vader-en-de-zoon-als-van-%C3%A9%C3%A9n-beginsel).
-- ***Alwie u doodt…*** Hier kan met het vijfde gebod van God uitleggen — bl. sog.  
-- zal meenen daardoor eeredienst aan God te bewijzen.  De beproevingen en kwellingen van het leven zijn een teeken van de welwillendheid van God voor ons — bl. 706.
+- ***Alwie u doodt…*** Hier kan met het [vijfde gebod van God](/docs/5-derde-deel/5-geboden/#het-is-nuttig-dit-gebod-goed-te-verklaren) uitleggen.
+- ***... zal meenen daardoor eeredienst aan God te bewijzen.***  De beproevingen en kwellingen van het leven zijn [een teeken van de welwillendheid van God](/docs/6-vierde-deel/16-gebed/#voordelen-van-de-beproeving) voor ons.
 
 ## Sinksen.
 
-- Indien iemand mij bemint, zal hij mijn Woord onderhouden, Jo. XIV, 23. De Heilige Geest wordt aan de geloovigen gegeven opdat zij het Woord van God gemakkelijker zouden onderhouden. De pastoor zal de geloovigen opwekken om de geboden van God na te leven — bl. 434.  De Wet van God is gemakkclijk te onderhouden — bl. 436.  Ook kan vandaag gehandeld worden over het Vormsel — bl. 242.
+- ***Indien iemand mij bemint, zal hij mijn Woord onderhouden.*** Jo. XIV, 23. De Heilige Geest wordt aan de geloovigen gegeven [opdat zij het Woord van God gemakkelijker zouden onderhouden](/docs/5-derde-deel/0-geboden/#de-wetgever-zelf-wekt-het-volk-op-om-zijn-wet-te-onderhouden). De pastoor zal de geloovigen opwekken om de geboden van God na te leven.  De Wet van God is [gemakkelijk te onderhouden](/docs/5-derde-deel/0-geboden/#de-wet-van-god-is-gemakkelijk-te-onderhouden).  Ook kan vandaag gehandeld worden [over het Vormsel](/docs/4-tweede-deel/2-sacramenten/#op-onze-dagen-vooral-moet-op-de-kracht-van-het-vormsel-gewezen-worden).
 
 ## Tweede Sinksendag.
 
-- Zoozeer heeft God de wereld bemina, dat Hij zijn eeniggeboren Zoon gegeven heeft. Jo. III, 16. De hemelsche Vader heeft ons zijn eindelooze liefde betoond in de schepping en vooral in de verlossing — bl. 67, 603.
-- Opdat alwie in Hem gelooft, niet zou omkomen. Het geloof in Christus is ten allen tijde noodzakelijk geweest voor alle menschen — bl. 37.  
-- Wie in Hem gelooft, wordt niet gevordeeld. Beteekenis van het woord gelooven — bl. 17.  
-- Omdat hij niet geloofd heeft in den Naam van den ceniggeboren Zoon van God, De Zoon van God is eenig — bl. 43, en toch mag men zeggen dat Hij broeders heeft L. 45, 612.
+- ***Zoozeer heeft God de wereld bemind, dat Hij zijn eeniggeboren Zoon gegeven heeft.*** Jo. III, 16. De hemelsche Vader heeft ons [zijn eindelooze liefde](/docs/3-eerste-deel/4-symbolum/#door-zijn-vader-en-door-zichzelf-werd-christus-overgeleverd) betoond [in de schepping en vooral in de verlossing](/docs/6-vierde-deel/9-gebed/#eerste-reden-waarom-god-door-de-mensen-vader-genoemd-wordt).
+- ***Opdat alwie in Hem gelooft, niet zou omkomen.*** Het geloof in Christus is ten allen tijde [noodzakelijk geweest voor alle menschen](/docs/3-eerste-deel/2-symbolum/#buiten-het-geloof-in-de-verlossing-is-geen-redding-mogelijk--daarom-werd-christus-van-af-het-begin-der-wereld-dikwijls-voorspeld).
+- ***Wie in Hem gelooft, wordt niet geoordeeld.*** [Beteekenis van het woord gelooven](/docs/3-eerste-deel/1-symbolum/#betekenis-van-het-woord-geloven-).
+- ***Omdat hij niet geloofd heeft in den Naam van den eeniggeboren Zoon van God.*** [De Zoon van God is eenig](/docs/3-eerste-deel/2-symbolum/#hoe-moeten-we-geloven-en-belijden-dat-jezus-christus-de-enige-zoon-van-god-is-), en toch mag men zeggen [dat Hij broeders heeft](/docs/6-vierde-deel/9-gebed/#hoe-zijn-de-gelovigen-broeders-van-christus-).
 
 ## Derde Sinksendag.
 
-- Wie niet langs de deur in den schaapstal binnenkomt Jo. N, 1. Hier kan men spreken over de wettige wijding van de bedienaars van de Kerk — bl. 386, en over den bedienaar van het priesterschap — bl. 404.  
-- De schapen luisteren naar zijn stem, We zijn aan de bisschoppen en pricsters gehoorzaamheid verschuldigd — bl. 5o2.  en eerbied 
-- Een vreemdeling zullen zij niet volgen. De verspreiders van de dwaalleer mogen we niet volgen — bl. 5.
+- ***Wie niet langs de deur in den schaapstal binnenkomt...*** Jo. X, 1. Hier kan men spreken over de [wettige wijding van de bedienaars van de Kerk](/docs/4-tweede-deel/6-sacramenten/#wie-wordt-er-door-god-tot-het-priesterschap-en-de-kerkelijke-bediening-geroepen-), en over [den bedienaar van het priesterschap](/docs/4-tweede-deel/6-sacramenten/#wie-is-de-bedienaar-van-het-priesterschap-).  
+- ***De schapen luisteren naar zijn stem.*** We zijn aan de bisschoppen en priesters [gehoorzaamheid verschuldigd](/docs/5-derde-deel/4-geboden/#hoe-moeten-wij-de-bisschoppen-en-priesters-eren-), en eerbied 
+- ***Een vreemdeling zullen zij niet volgen.*** De [verspreiders van de dwaalleer](/docs/2-inleiding/inleiding/#de-heilige-kerkvergadering-heeft-terecht-besloten-de-verderfelijke-woorden-en-geschriften-der-valse-profeten-te-bestrijden) mogen we niet volgen.
 
 ## Feest van de Allerheiligste Drievuldigheid.
 
-- Mij is alle macht gegeven in den hemel en op de aarde, Matth. ANVIII, 18, Hoe heerscht Christus over de geloovigen ? — bl. 629 ; zijn glorierijk — bl. 630. Macht van Christus voor het instellen en toedienen van de sacramenten — bl. 186 ; sleutelmacht waardoor de zonden vergeven worden — bl. 137.
-- Doopt hen. Wanneer is de wet van het Doopsel van kracht geworden ? — bl. 208. Het Doopsel is voor iedereen noodig om zalig te worden — bl. 215.  
-- In den Naam des Vaders en des Zoons en des Heiligen Geestes. Stof van het Doopsel — bl. 199. Welke woorden moet men uitspreken ? — bl. 202. Mysterie van de Allerheiligste Drievuldigheid — bl. 24. De Allerheiligste Drievuldigheid kan niet afgebeeld worden ; de beelden en voorstellingen die men er van geeft, dienen alleen om haar eigenschappen uit te drukken — bl. 454.  
-- Leert hun onderhouden wat ik wu geboden heb, De Wet van God is gemakkelijk te onderhouden — bl. 436. Alle menschen zijn verplicht ze te onderhouden — bl. 437.
+- ***Mij is alle macht gegeven in den hemel en op de aarde.*** Matth. XXVIII, 18. Hoe [heerscht Christus over de geloovigen](/docs/6-vierde-deel/11-gebed/#hoe-heerst-christus-over-de-gelovigen-) ? ; zijn [glorierijk](/docs/6-vierde-deel/11-gebed/#het-glorierijk-van-christus-onze-heer_). Macht van Christus voor het [instellen en toedienen van de sacramenten](/docs/4-tweede-deel/0-sacramenten/#wie-is-de-insteller-en-de-voornaamste-bedienaar-van-de-sacramenten-) ; [sleutelmacht waardoor de zonden vergeven worden](/docs/3-eerste-deel/10-symbolum/#buiten-het-doopsel-worden-de-zonden-vergeven-door-de-macht-der-sleutels).
+- ***Doopt hen.*** [Wanneer is de wet van het Doopsel van kracht geworden](/docs/4-tweede-deel/1-sacramenten/#wanneer-is-de-wet-van-het-doopsel-van-kracht-geworden-) ? Het Doopsel is voor iedereen [noodig om zalig te worden](/docs/4-tweede-deel/1-sacramenten/#het-doopsel-is-voor-iedereen-nodig-om-zalig-te-worden).
+- ***In den Naam des Vaders en des Zoons en des Heiligen Geestes.*** [Stof van het Doopsel](/docs/4-tweede-deel/1-sacramenten/#eigenlijke-stof-van-het-doopsel). [Welke woorden](/docs/4-tweede-deel/1-sacramenten/#welke-woorden-moet-men-uitspreken-bij-het-toedienen-van-het-doopsel-) moet men uitspreken ? [Mysterie van de Allerheiligste Drievuldigheid](/docs/3-eerste-deel/1-symbolum/#welke-geheimenissen-worden-omvat-in-het-woord--vader--onderscheid-tussen-de-goddelijke-personen). De Allerheiligste Drievuldigheid kan niet afgebeeld worden ; de beelden en voorstellingen die men er van geeft, [dienen alleen om haar eigenschappen uit te drukken](/docs/5-derde-deel/1-geboden/#dat-gebod-wordt-niet-overtreden-door-de-voorstellingen-van-de-heilige-drievuldigheid).
+- ***Leert hun onderhouden wat ik wu geboden heb.*** De Wet van God is [gemakkelijk te onderhouden](/docs/5-derde-deel/0-geboden/#de-wet-van-god-is-gemakkelijk-te-onderhouden). Alle menschen zijn [verplicht ze te onderhouden](/docs/5-derde-deel/0-geboden/#alle-mensen-zijn-verplicht-de-wet-te-onderhouden).
 
 ## Zelfde Zondag.
 
-- Weest barmhartig, zooals uw Vader barmhartig is. Luc. VI, 36. Om van God vergiffenis te bekomen, moeten we zelf vergeven aan degenen die ons onrecht aangedaan hebben _ bl.  665.  
-- Geeften u zal gegeven worden. We moeten onze stoffelijke goederen mededeelen aan den naaste — bl. Go2 ; de aalmoes — bl. 370.  
-- Huichelaar, trek eerst den balk uit uw oog. God verwerpt het gebed van huichelaars — bl, 600.
+- ***Weest barmhartig, zooals uw Vader barmhartig is.*** Luc. VI, 36. Om van God vergiffenis te bekomen, moeten we [zelf vergeven aan degenen die ons onrecht aangedaan hebben](/docs/6-vierde-deel/14-gebed/).
+- ***Geeft en u zal gegeven worden.*** We moeten onze [stoffelijke goederen mededeelen](/docs/6-vierde-deel/8-gebed/#om-ons-gebed-kracht-bij-te-zetten-moeten-we-ook-vasten-en-aalmoezen-geven) aan den naaste ; de [aalmoes](/docs/4-tweede-deel/4-sacramenten/#verschillende-soorten-van-voldoening-1).
+- ***Huichelaar, trek eerst den balk uit uw oog.*** [God verwerpt het gebed van huichelaars](/docs/6-vierde-deel/8-gebed/#god-verwerpt-het-gebed-van-schijnheiligen).
+
 ## Feest van het Heilig Sacrament.
 
-- Mijn Vleesch is ware spijs. Jo. VI, 36. De Heilige Eucharistie — bl. 259.
+- ***Mijn Vleesch is ware spijs...*** Jo. VI, 36. [De Heilige Eucharistie](/docs/4-tweede-deel/3-sacramenten/).
 
 ## Tweede Zondag na Sinksen.
 
-- Zeker mensch richtte een groot avondmaal in.… Luc. XIV, 16.  Dit avondmaal stelt de hemelsche glorie voor, die ons aller Vader ons zal geven op het einde van ons leven — zie, over het eeuwig leven, bl. 157 ; door dit avondmaal kan men ook het Eucharistisch feestmaal verstaan — bl. 259.
-- Allen begonnen zich eenstemmig te verontschuldigen. Die verontschuldigingen komen voort uit de begecrlijkheid ; daarom moct hier gesproken worden over de booze neigingen — bl. 566. Tevens zullen we hier wijzen op de ellende van den mensch, die misprijst wat hem voordeelig is en zich hecht aan noodlottige dingen — bl. 637.  
-- Een akker heb ik gekocht. Hier worden de hoovaardigen en eerzuchtigen bedoeld — bl.
-- Vijf koppel ossen heb ik gekocht. ‘Gierigheid — bl. 54t.
-- Een vrouw heb ik gehuwd. We moeten de wellust verfoeien en de kuischheid beoefenen, die ons den toegang tot den hemel vergemakkelijkt — bl, 522.
+- ***Zeker mensch richtte een groot avondmaal in…*** Luc. XIV, 16.  Dit avondmaal stelt de hemelsche glorie voor, die ons aller Vader ons zal geven [op het einde van ons leven](/docs/3-eerste-deel/12-symbolum/) ; door dit avondmaal kan men ook [het Eucharistisch feestmaal](/docs/4-tweede-deel/3-sacramenten/) verstaan.
+- ***Allen begonnen zich eenstemmig te verontschuldigen.*** Die verontschuldigingen komen voort uit de begeerlijkheid ; daarom moet hier gesproken worden [over de booze neigingen](/docs/5-derde-deel/9-geboden/#welke-begeerlijkheid-is-verboden-). Tevens zullen we hier wijzen op [de ellende van den mensch](/docs/6-vierde-deel/12-gebed/#de-mens-is-niet-bewust-van-zijn-ellende), die misprijst wat hem voordeelig is en zich hecht aan noodlottige dingen.
+- ***Een akker heb ik gekocht.*** Hier worden [de hoovaardigen en eerzuchtigen](/docs/6-vierde-deel/7-gebed/#welke-zonden-moeten-we-vooral-vermijden-om-met-vrucht-te-kunnen-bidden-) bedoeld.
+- ***Vijf koppel ossen heb ik gekocht.*** [Gierigheid](/docs/5-derde-deel/7-geboden/#hoe-kunnen-we-het-volk-opwekken-tot-liefdadigheid-).
+- ***Een vrouw heb ik gehuwd.*** We moeten de [wellust verfoeien en de kuischheid beoefenen](/docs/5-derde-deel/6-geboden/), die ons den toegang tot den hemel vergemakkelijkt.
 
 ## Derde Zondag na Sinksen.
 
-- Er zal meer vreugde in den hemel zijn over één bekeerden” zondaar. Luc. XV, 7. Die vreugde in den hemel over de bekeering kan den zondaar aanzetten tot boet vaardigheid.  Zie, over de vergiffenis van de zonden, bl. 135 ; over de biecht, bl. 317.
+- ***Er zal meer vreugde in den hemel zijn over één bekeerden zondaar.*** Luc. XV, 7. Die vreugde in den hemel over de bekeering kan den zondaar aanzetten tot boetvaardigheid.  Zie, [over de vergiffenis van de zonden](/docs/3-eerste-deel/10-symbolum/) ; [over de biecht](/docs/4-tweede-deel/4-sacramenten/).
 
 ## Vierde Zondag na Sinksen.
 
-- Toen de menigte ecns op Jesus aandrong en naar het woord van God luisterde. Luc. V,‚ 1. Opwekking om het Woord van God aandachtig te aanhooren — bl, 3. De prediking moet aangepast zijn aan de toehoorders — bl. 8, Vooral op de feestdagen moeten wij het woord van God aanhooren — bl. 492 
-- Mij stapte in een der booten, die van Simon was. Jezus stapt in de boot van Simon, en niet in die van een anderen apostel, om aan te toonen dat Petrus het hoofd is van de Kerk — bl. 121, 403.  
-- Ga weg van mij, Heer. Wanneer we de Heilige Communic moeten ontvangen, moeten wij, zooals Petrus, en zooals de hbonderdman waarover gesproken wordt bij Matthcus, VIII, erkennen dat wij de tegenwoordigheid van zulk een Gast niet waardig zijn. Zie, over de voorbereiding tot de Heilige Communie, bl. 300.
+- ***Toen de menigte eens op Jesus aandrong en naar het woord van God luisterde...*** Luc. V‚ 1. Opwekking om het Woord van God [aandachtig te aanhooren](/docs/2-inleiding/inleiding/#de-oorsprong-der-uitmuntende-gave-van-het-geloof). De prediking moet [aangepast zijn aan de toehoorders](/docs/2-inleiding/inleiding/#het-is-niet-voldoende-dat-de-herders-bij-hun-onderwijs-dat-dubbel-doel-voor-ogen-hebben-ze-moeten-zich-ook-aanpassen-aan-hun-toehoorders). Vooral [op de feestdagen moeten wij het woord van God aanhooren](/docs/5-derde-deel/3-geboden/#waarom-was-het-nodig-bepaalde-dagen-aan-de-eredienst-toe-te-wijden-). 
+- ***Hij stapte in een der booten, die van Simon was.*** Jezus stapt in de boot van Simon, en niet in die van een anderen apostel, om aan te toonen dat [Petrus het hoofd is van de Kerk](/docs/3-eerste-deel/9-symbolum/#wat-we-moeten-denken-over-de-paus-van-rome-zichtbaar-hoofd-der-kerk-van-christus).  
+- ***Ga weg van mij, Heer.*** Wanneer we de Heilige Communic moeten ontvangen, moeten wij, zooals Petrus, en zooals de honderdman waarover gesproken wordt bij Mattheus, VIII, erkennen dat wij de tegenwoordigheid van zulk een Gast niet waardig zijn. Zie, [over de voorbereiding tot de Heilige Communie](/docs/4-tweede-deel/3-sacramenten/#men-moet-zich-voorbereiden-tot-de-heilige-communie).
 
 ## Vijfde Zondag na Sinksen.
 
-- Gij hebt gehoord dat tot de ouden gezegd iss Gij zult niet dooden. Matth. V, 21, Hier kan men het vijfde gebod uitleggen — bl. 50g.
-- ik zeg u dat alwie kwaad is op zijn broeder. Wanneeris de gramschap zonde ? — bl, 514.  
-- Gij hebt gehoord dat gezegd is » Gij zull geen overspel bedrijven. Zesde gebod — bl. 522.
+- ***Gij hebt gehoord dat tot de ouden gezegd is : Gij zult niet dooden.*** Matth. V, 21. Hier kan men [het vijfde gebod](/docs/5-derde-deel/5-geboden/) uitleggen.
+- ***Ik zeg u dat alwie kwaad is op zijn broeder.*** [Wanneer is de gramschap zonde](/docs/5-derde-deel/5-geboden/#wanneer-is-de-gramschap-zonde-) ?  
+- ***Gij hebt gehoord dat gezegd is : Gij zult geen overspel bedrijven.*** [Zesde gebod](/docs/5-derde-deel/6-geboden/).
 
 ## Zesde Zondag na Sinksen.
 
-- Ik heb deernis met de menigte, want het is reeds drie dagen dat zij bij mij blijven. Marc. VIII, 2. Zie vierde Zondax van de vasten. Verder kan men hier spreken over de vaderlijke zorg van God voor de menschen — bl. Go3.  
+- ***Ik heb deernis met de menigte, want het is reeds drie dagen dat zij bij mij blijven.*** Marc. VIII, 2. Zie vierde Zondag van de vasten. Verder kan men hier spreken [over de vaderlijke zorg van God voor de menschen](/docs/6-vierde-deel/9-gebed/#eerste-reden-waarom-god-door-de-mensen-vader-genoemd-wordt).  
 - Zoo ik hen nuchter naar huis zend, zullen zij onderwer bezwijken. Zwakheid van de menschen, die onbekwaam zijneenig goed werk te doen zonder de hulp van God L. 638.
 
 ## Zevende Zondag na Sinksen.
