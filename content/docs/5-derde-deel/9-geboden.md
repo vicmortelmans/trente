@@ -19,7 +19,7 @@ Wij hebben deze twee geboden samengebracht, omdat er gelijkenis bestaat tussen h
 
 ## Zijn deze twee geboden niet begrepen in het zesde en het zevende gebod ?
 
-Een dubbele reden maakte deze geboden noodzakelijk. Vooreerst moest de betekenis van het zesde en zevende gebod beter uitgelegd worden. Weliswaar zegt de rede dat, als het overspel verboden is, het ook niet toegelaten is de vrouw van een ander te begeren ; wat men mag begeren, mag men ook gebruiken. Toch waren er, bij de Joden, velen zozeer door de zonde verblind, dat ze niet te bewegen waren om te geloven dat die begeerte door God verboden was; en zelfs als die wet afgekondigd en gekend was, bleven er nog velen, die zich voor uitleggers van de Wet uitgaven, volharden in die dwaling. Dit bemerken we in het woord van Jezus, bij de heilige Mattheus : “ Gij hebt gehoord dat gezegd is : Gij zult geen overspel bedrijven ; maar ik zeg u... enz. „[^562.1].
+Een dubbele reden maakte deze geboden noodzakelijk. Vooreerst moest de betekenis van het zesde en zevende gebod beter uitgelegd worden. Weliswaar zegt de rede dat, als het overspel verboden is, het ook niet toegelaten is de vrouw van een ander te begeren ; wat men mag begeren, mag men ook gebruiken. Toch waren er, bij de Joden, velen zozeer door de zonde verblind, dat ze niet te bewegen waren om te geloven dat die begeerte door God verboden was; en zelfs als die wet afgekondigd en gekend was, bleven er nog velen, die zich voor uitleggers van de Wet uitgaven, volharden in die dwaling. Dit bemerken we in het woord van Jezus, bij de heilige Mattheus : “Gij hebt gehoord dat gezegd is : Gij zult geen overspel bedrijven ; maar ik zeg u... enz.„[^562.1].
 
 [^562.1]: Matth. V, 27, 28.
 
@@ -31,7 +31,7 @@ Alvorens dit gebod uit te leggen, zal men de gelovigen overtuigen dat het niet a
 
 ## Verschil tussen de goddelijke en de menselijke wet.
 
-Nog meer leert ons dit gebod : het toont ook duidelijk aan dat de wet van God niet alleen in uiterlijke daden maar ook in de innerlijke gemoedsbewegingen moet onderhouden worden ; en zo zien we het verschil tussen de goddelijke en menselijke wetten : de menselijke wetten zijn tevreden met uiterlijke zaken, de goddelijke wetten eisen ook een ongeschonden en rechtzinnige zuiverheid en kuisheid, omdat God doordringt tot in ons gemoed. De goddelijke wet is als een spiegel, waarin wij de ondeugden van ons leven aanschouwen. Daarom zegt de Apostel : “ De begeerlijkheid zou ik niet gekend hebben, indien de wet niet gezegd had : Gij zult niet begeren „ [^564.1]. Vermits de begeerlijkheid, de neiging tot het kwaad, die in de zonde haar oorsprong gevonden heeft, ons altijd bijblijft, begrijpen wij ook dat wij in zonde geboren worden. Daarom moeten we smekend onze toevlucht nemen tot Hem, die alleen ons kan zuiveren van de zondevlekken.
+Nog meer leert ons dit gebod : het toont ook duidelijk aan dat de wet van God niet alleen in uiterlijke daden maar ook in de innerlijke gemoedsbewegingen moet onderhouden worden ; en zo zien we het verschil tussen de goddelijke en menselijke wetten : de menselijke wetten zijn tevreden met uiterlijke zaken, de goddelijke wetten eisen ook een ongeschonden en rechtzinnige zuiverheid en kuisheid, omdat God doordringt tot in ons gemoed. De goddelijke wet is als een spiegel, waarin wij de ondeugden van ons leven aanschouwen. Daarom zegt de Apostel : “De begeerlijkheid zou ik niet gekend hebben, indien de wet niet gezegd had : Gij zult niet begeren„ [^564.1]. Vermits de begeerlijkheid, de neiging tot het kwaad, die in de zonde haar oorsprong gevonden heeft, ons altijd bijblijft, begrijpen wij ook dat wij in zonde geboren worden. Daarom moeten we smekend onze toevlucht nemen tot Hem, die alleen ons kan zuiveren van de zondevlekken.
 
 ## Wat is de begeerlijkheid ?
 
@@ -57,7 +57,7 @@ Vermits het toegelaten is in sommige gevallen te begeren, moeten we noodzakelijk
 
 ## Hoe zegt de Apostel dat de begeerlijkheid zonde is ?
 
-De heilige Paulus zegt wel dat de begeerlijkheid zonde is [^565.1] ; doch dit moeten we verstaan in dezelfde zin als de woorden van Mozes die hij aanhaalt [^565.2]. De uitdrukking die de Apostel gebruikt, bewijst dit duidelijk genoeg. In zijn brief aan de Galaten spreekt hij van de begeerlijkheid van het vlees : “ Wandelt door de Geest, en gij zult de begeerlijkheid van het vlees niet involgen „ [^565.3].
+De heilige Paulus zegt wel dat de begeerlijkheid zonde is [^565.1] ; doch dit moeten we verstaan in dezelfde zin als de woorden van Mozes die hij aanhaalt [^565.2]. De uitdrukking die de Apostel gebruikt, bewijst dit duidelijk genoeg. In zijn brief aan de Galaten spreekt hij van de begeerlijkheid van het vlees : “Wandelt door de Geest, en gij zult de begeerlijkheid van het vlees niet involgen„ [^565.3].
 
 [^565.1]: Rom. VII, 20.
 
@@ -67,7 +67,7 @@ De heilige Paulus zegt wel dat de begeerlijkheid zonde is [^565.1] ; doch dit mo
 
 ## Welke begeerlijkheid wordt niet verboden ?
 
-De natuurlijke kracht van de begeerlijkheid, die beteugeld wordt en de grenzen niet te buiten gaat, is niet verboden ; veel minder nog is verboden de geestelijke en goede begeerlijkheid, die ons doet verlangen wat in strijd is met het vlees. De Heilige Schriftuur zet er ons zelfs toe aan : “ Weest begerig naar mijn woorden „ [^566.1] en “ Komt tot mij, gij allen die begerig naar mij zijt „ [^566.2].
+De natuurlijke kracht van de begeerlijkheid, die beteugeld wordt en de grenzen niet te buiten gaat, is niet verboden ; veel minder nog is verboden de geestelijke en goede begeerlijkheid, die ons doet verlangen wat in strijd is met het vlees. De Heilige Schriftuur zet er ons zelfs toe aan : “Weest begerig naar mijn woorden„ [^566.1] en “Komt tot mij, gij allen die begerig naar mij zijt„ [^566.2].
 
 ## Welke begeerlijkheid is verboden ?
 
@@ -77,7 +77,7 @@ Tegen het gebod strijdt alleen die drift van de begeerlijkheid die de Apostel be
 
 ## De slechte begeerte is zonde.
 
-De slechte begeerte is zonde, ofwel omdat ze verlangt naar het kwaad : overspel, dronkenschap, moord, en andere dergelijke misdaden, waarover de Apostel zegt : “ Laten wij het kwaad niet lusten, gelijk zij het gelust hebben „ [^566.3], ofwel, als het voorwerp van de begeerte niet slecht is in zichzelf, omdat er een andere reden bestaat die niet toelaat er naar te verlangen ; zo zijn er zaken die we niet mogen bezitten omdat God of de Kerk het ons verbiedt. Hetgeen we niet mogen bezitten, mogen we natuurlijk ook niet begeren. Zo had God in het Oud Testament verboden het goud en het zilver te begeren waarvan de afgoden gemaakt waren [^566.4]. Om die reden ook is de begeerlijkheid zondig, als hetgeen we begeren aan een ander toebehoort, zoals zijn huis, zijn knecht of meid, zijn akker, zijn vrouw, zijn os of ezel en veel andere dingen ; omdat ze aan een ander toebehoren verbiedt de goddelijke wet ze te begeren; die begeerte is slecht en wordt tussen de grootste zonden gerekend als we er in toestemmen.
+De slechte begeerte is zonde, ofwel omdat ze verlangt naar het kwaad : overspel, dronkenschap, moord, en andere dergelijke misdaden, waarover de Apostel zegt : “Laten wij het kwaad niet lusten, gelijk zij het gelust hebben„ [^566.3], ofwel, als het voorwerp van de begeerte niet slecht is in zichzelf, omdat er een andere reden bestaat die niet toelaat er naar te verlangen ; zo zijn er zaken die we niet mogen bezitten omdat God of de Kerk het ons verbiedt. Hetgeen we niet mogen bezitten, mogen we natuurlijk ook niet begeren. Zo had God in het Oud Testament verboden het goud en het zilver te begeren waarvan de afgoden gemaakt waren [^566.4]. Om die reden ook is de begeerlijkheid zondig, als hetgeen we begeren aan een ander toebehoort, zoals zijn huis, zijn knecht of meid, zijn akker, zijn vrouw, zijn os of ezel en veel andere dingen ; omdat ze aan een ander toebehoren verbiedt de goddelijke wet ze te begeren; die begeerte is slecht en wordt tussen de grootste zonden gerekend als we er in toestemmen.
 
 [^566.1]: Sap. VI, 12.
 
@@ -89,11 +89,11 @@ De slechte begeerte is zonde, ofwel omdat ze verlangt naar het kwaad : overspel,
 
 ## Waarin bestaat de boosheid van de begeerlijkheid ?
 
-Er bestaat zonde als de geest behagen vindt in de boze begeerten die in ons opgewekt worden, er in toestemt of er niet aan weerstaat ; dat leert ons de heilige Jacobus, als hij spreekt over de oorsprong en de ontwikkeling van de zonde : “ Iedereen wordt door zijn eigen begeerlijkheid bekoord, weggetrokken en aangelokt.  Vervolgens, als de begeerlijkheid ontvangen heeft, baart zij zonde ; en als de zonde bedreven wordt, baart zij de dood „ [^567.1].
+Er bestaat zonde als de geest behagen vindt in de boze begeerten die in ons opgewekt worden, er in toestemt of er niet aan weerstaat ; dat leert ons de heilige Jacobus, als hij spreekt over de oorsprong en de ontwikkeling van de zonde : “Iedereen wordt door zijn eigen begeerlijkheid bekoord, weggetrokken en aangelokt.  Vervolgens, als de begeerlijkheid ontvangen heeft, baart zij zonde ; en als de zonde bedreven wordt, baart zij de dood„ [^567.1].
 
 ## Betekenis van de twee laatste geboden.
 
-De woorden van de wet : Gij zult niet begeren, betekenen dat wij de begeerte moeten onderdrukken naar dingen die aan een ander toebehoren. De dorst van de begeerlijkheid naar andermans goed is onbegrensd en oneindig, en is niet te stillen, zoals er geschreven staat: “ De gierigaard wordt door geld niet verzadigd „ [^567.2], en bij Isaïas : “ Wee hun die huis aan huis rijen en veld aan veld toevoegen „ [^567.3]. 
+De woorden van de wet : Gij zult niet begeren, betekenen dat wij de begeerte moeten onderdrukken naar dingen die aan een ander toebehoren. De dorst van de begeerlijkheid naar andermans goed is onbegrensd en oneindig, en is niet te stillen, zoals er geschreven staat: “De gierigaard wordt door geld niet verzadigd„ [^567.2], en bij Isaïas : “Wee hun die huis aan huis rijen en veld aan veld toevoegen„ [^567.3]. 
 
 Doch als we ieder woord van het gebod afzonderlijk uitleggen, zal daaruit gemakkelijker de lelijkheid en de grootheid van die zonde blijken.
 
@@ -145,9 +145,9 @@ Ook beveelt God ons, door dit gebod, met vurige ijver en grote begeerte te wense
 
 Om de gloed van de begeerlijkheid uit te doven, is het ook nuttig de onheilen voor ogen te hebben die er uit voortkomen.
 
-Een eerste gevolg is, dat de zonde met volle kracht en macht in onze ziel heerst als wij dé begeerlijkheid involgen ; daarom zegt de Apostel : “ Laat de zonde niet in uw sterfelijk lichaam heersen, zodat gij aan zijn begeerlijkheden zoudt gehoorzamen „ [^571.1]. Als wij aan de begeerlijkheid weerstaan, dan nemen ook de krachten van de zonde af ; doch als we er aan toegeven, dan verjagen we God, uit zijn rijk en leiden er de zonde binnen.
+Een eerste gevolg is, dat de zonde met volle kracht en macht in onze ziel heerst als wij dé begeerlijkheid involgen ; daarom zegt de Apostel : “Laat de zonde niet in uw sterfelijk lichaam heersen, zodat gij aan zijn begeerlijkheden zoudt gehoorzamen„ [^571.1]. Als wij aan de begeerlijkheid weerstaan, dan nemen ook de krachten van de zonde af ; doch als we er aan toegeven, dan verjagen we God, uit zijn rijk en leiden er de zonde binnen.
 
-Een tweede nadeel is, dat uit de begeerlijkheid, als uit een bron, alle zonden voortvloeien, zoals de heilige Jacobus leert [^571.2]. En ook de heilige Joannes zegt : “Al wat in de wereld is, is begeerlijkheid van het vlees en begeerlijkheid van de ogen en hovaardij van het leven „ [^571.3].
+Een tweede nadeel is, dat uit de begeerlijkheid, als uit een bron, alle zonden voortvloeien, zoals de heilige Jacobus leert [^571.2]. En ook de heilige Joannes zegt : “Al wat in de wereld is, is begeerlijkheid van het vlees en begeerlijkheid van de ogen en hovaardij van het leven„ [^571.3].
 
 En een derde gevolg is, dat het juiste oordeel van het verstand beneveld wordt door de begeerlijkheid. Door de duisternis van die begeerten worden de mensen verblind, en beginnen ze te denken, dat al wat zij verlangen, eerlijk en schoon is.
 
@@ -157,7 +157,7 @@ En een derde gevolg is, dat het juiste oordeel van het verstand beneveld wordt d
 
 [^571.3]: I Jo. II, 16.
 
-Tenslotte onderdrukt de kracht van de begeerlijkheid het woord van God, dat door God, de grote landman, in onze zielen gezaaid werd. Zo lezen we bij de heilige Marcus : “ Anderen zijn er, die tussen de doornen gezaaid worden : het zijn zij die naar het woord luisteren, en de zorgen van de wereld en de verleiding van de rijkdom en de begeerten omtrent de andere dingen, komen binnen en verstikken het woord, en het wordt onvruchtbaar „ [^572.1].
+Tenslotte onderdrukt de kracht van de begeerlijkheid het woord van God, dat door God, de grote landman, in onze zielen gezaaid werd. Zo lezen we bij de heilige Marcus : “Anderen zijn er, die tussen de doornen gezaaid worden : het zijn zij die naar het woord luisteren, en de zorgen van de wereld en de verleiding van de rijkdom en de begeerten omtrent de andere dingen, komen binnen en verstikken het woord, en het wordt onvruchtbaar„ [^572.1].
 
 ## Wie zondigt vooral tegen dit gebod ?
 

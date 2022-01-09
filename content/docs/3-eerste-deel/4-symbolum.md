@@ -39,7 +39,7 @@ Het is dus niet te verwonderen dat de profeten, vóór de komst van Christus, en
 
 [^61.1]: I Cor. I, 21.
 
-## Welk geloofspunt is bevat in de woorden “ gestorven en begraven „.
+## Welk geloofspunt is bevat in de woorden “gestorven en begraven„.
 
 *Gestorven en begraven*. Bij deze woorden zal de pastoor uitleggen dat wij moeten geloven dat Jezus Christus waarlijk gestorven en begraven is : en niet zonder reden wordt dit geloofspunt afzonderlijk aan de christenen voorgehouden, vermits er ketters geweest zijn die niet aannamen dat Christus op het kruis gestorven is. Tegenover die dwaling hebben de heilige apostelen de lering van het geloof willen stellen, en er is niet de minste reden om aan de waarheid van dit artikel te twijfelen, want eenstemmig zeggen al de Evangelisten dat Jezus de geest gegeven heeft.
 
@@ -47,13 +47,13 @@ Verder, vermits Christus een waar en volmaakt mens geweest is, kon Hij ook waarl
 
 ## Christus werd niet gedwongen de dood te ondergaan.
 
-Men bemerke ook dat Christus onze Heer gestorven is als Hij zelf besloten had te sterven, en dat Hij niet door uiterlijk geweld maar door eigen verkiezing de dood heeft onderstaan. En niet alleen zijn dood had Hij zelf vastgesteld, maar ook de plaats en de tijd van zijn dood. Isaïas schreef immers : Hij werd geslachtofferd omdat Hij zelf het wilde [^62.2]. En ook de Heer zelf had vóór zijn lijden over zichzelf gezegd : “ Ik leg mijn leven af om het weder aan te nemen ; niemand nam het van mij af‚ maar ik leg het uit mij zelven af.  Macht heb ik om het af te leggen, en macht heb ik om het weer terug te nemen „ [^63.1].
+Men bemerke ook dat Christus onze Heer gestorven is als Hij zelf besloten had te sterven, en dat Hij niet door uiterlijk geweld maar door eigen verkiezing de dood heeft onderstaan. En niet alleen zijn dood had Hij zelf vastgesteld, maar ook de plaats en de tijd van zijn dood. Isaïas schreef immers : Hij werd geslachtofferd omdat Hij zelf het wilde [^62.2]. En ook de Heer zelf had vóór zijn lijden over zichzelf gezegd : “Ik leg mijn leven af om het weder aan te nemen ; niemand nam het van mij af‚ maar ik leg het uit mij zelven af.  Macht heb ik om het af te leggen, en macht heb ik om het weer terug te nemen„ [^63.1].
 
 [^62.1]: Hebr. II, 14.
 
 [^62.2]: Isai. V, 37.
 
-Wat tijd en plaats betreft, zegde Jezus, als Herodes Hem zocht te doden : “ Gaat aan die vos zeggen: Zie, ik drijf duivelen uit, en volbreng genezingen vandaag en morgen, en de derde dag word ik omgebracht. Evenwel moet ik vandaag en morgen en de volgende day op weg zijn, want het betaamt niet dat een profeet buiten Jeruzalem omkome „ [^63.2].
+Wat tijd en plaats betreft, zegde Jezus, als Herodes Hem zocht te doden : “Gaat aan die vos zeggen: Zie, ik drijf duivelen uit, en volbreng genezingen vandaag en morgen, en de derde dag word ik omgebracht. Evenwel moet ik vandaag en morgen en de volgende day op weg zijn, want het betaamt niet dat een profeet buiten Jeruzalem omkome„ [^63.2].
 
 Zo deed Hij niets onwillig of onder dwang, maar uit vrijen wil heeft Hij zichzelf geofferd, Hij is zijn vijanden tegemoet gegaan, en heeft hun gezegd : Ik ben het ; wit eigen beweging heeft Hij al de folteringen verdragen, die zij Hem onrechtvaardig en wreed hebben aangedaan. Niets heeft groter kracht om de gevoelens van ons hart op te wekken, dan het beschouwen van zijn lijden en zijn kwellingen. Want, zo iemand om onzentwil alle smarten verdroeg, niet die hij vrijwillig zou ondergaan maar waaraan hij niet kan ontkomen, dan zouden we dat niet als zo grote weldaad aanzien : maar moest hij in onze plaats gaarne de dood tegemoet gaan waaraan hij kon ontsnappen, dan zou die weldaad zo groot zijn, dat niemand, hoe dankbaar ook, ze zou kunnen vergelden of er zelfs voldoende dankbaarheid zou kunnen voor betuigen.  Daaruit kunnen we afleiden de grote en uitstekende liefde van Jezus Christus, en onze onmetelijke schuld van dankbaarheid tegenover Hem.
 
@@ -97,7 +97,7 @@ Men moet ook de redenen van het lijden van Christus uiteenzetten, om daardoor de
 
 Zo we ons afvragen welke de reden was die Gods Zoon het allerbitterste lijden deed onderstaan, dan zullen we, buiten de erfelijke zonde onzer eerste ouders, als voornaamste oorzaak vinden de zonden en ondeugden waaraan de mensen, van af het begin der wereld, zich plichtig gemaakt hebben, en waarmee ze zich zullen blijven bezoedelen tot aan het einde der eeuwen. In zijn lijden en dood heeft onze goddelijke Verlosser als doel gehad de zonden van alle tijden uitte wissen en ervoor aan zijn Vader een overvloedige voldoening te geven.
 
-En nog meer straalt de grootheid zijner liefde uit, als we bedenken dat Christus voor de zondaars leed, die zelf Hem hebben gekweld en gefolterd ; daar wijst ook de Apostel op, in zijn brief aan de Hebreeërs : “ Beschouwt Hem toch die tegen Zich een zo grote vijandschap vanwege de zondaars onderstaan heeft, opdat gij niet verflauwt en moedeloos van ziel wordt „ [^66.1].  Al wie herhaaldelijk in zonde valt, heeft schuld gehad aan die misdaad. Want, vermits onze fouten onze Heer Christus gedreven hebben om het lijden van het kruis te aanvaarden, mag men zeggen dat zij die zich in de zonden en misdaden wentelen, opnieuw de Zoon Gods in zichzelf kruisigen en als een misdadiger ten toon stellen [^66.2]. En wij hebben meer schuld dan de Joden : immers, zij zouden, volgens de Apostel, de Heer der heerlijkheid niet gekruisigd hebben, zo zij Hem gekend hadden [^67.1] ; wij beweren Hem te kennen, maar door onze daden spreken wij ons geloof tegen en we leggen een misdadige hand op Hem.
+En nog meer straalt de grootheid zijner liefde uit, als we bedenken dat Christus voor de zondaars leed, die zelf Hem hebben gekweld en gefolterd ; daar wijst ook de Apostel op, in zijn brief aan de Hebreeërs : “Beschouwt Hem toch die tegen Zich een zo grote vijandschap vanwege de zondaars onderstaan heeft, opdat gij niet verflauwt en moedeloos van ziel wordt„ [^66.1].  Al wie herhaaldelijk in zonde valt, heeft schuld gehad aan die misdaad. Want, vermits onze fouten onze Heer Christus gedreven hebben om het lijden van het kruis te aanvaarden, mag men zeggen dat zij die zich in de zonden en misdaden wentelen, opnieuw de Zoon Gods in zichzelf kruisigen en als een misdadiger ten toon stellen [^66.2]. En wij hebben meer schuld dan de Joden : immers, zij zouden, volgens de Apostel, de Heer der heerlijkheid niet gekruisigd hebben, zo zij Hem gekend hadden [^67.1] ; wij beweren Hem te kennen, maar door onze daden spreken wij ons geloof tegen en we leggen een misdadige hand op Hem.
 
 [^66.1]: Hebr. XI, 3.
 
@@ -105,9 +105,9 @@ En nog meer straalt de grootheid zijner liefde uit, als we bedenken dat Christus
 
 ## Door zijn Vader en door zichzelf werd Christus overgeleverd.
 
-Doch de Heilige Schriftuur leert ons dat Christus ook door zijn Vader en door zichzelf overgeleverd werd ; zo lezen we in Isaïas : om de misdaad van het volk heb ik Hem geslagen [^67.2]. En diezelfde profeet, vervuld van de Geest van God, zag de Heer overdekt met wonden, en sprak : “ Wij allen waren als schapen verdoold, elk zijn eigen weg opgegaan ; en God liet op Hem neerkomen de schuld van ons allen „ [^67.3].  Over de Zoon zegt de profeet : “ zo Hij voor de zonde zijn leven geeft, zal Hij een nageslacht zien dat lange dagen telt „ [^67.4].
+Doch de Heilige Schriftuur leert ons dat Christus ook door zijn Vader en door zichzelf overgeleverd werd ; zo lezen we in Isaïas : om de misdaad van het volk heb ik Hem geslagen [^67.2]. En diezelfde profeet, vervuld van de Geest van God, zag de Heer overdekt met wonden, en sprak : “Wij allen waren als schapen verdoold, elk zijn eigen weg opgegaan ; en God liet op Hem neerkomen de schuld van ons allen„ [^67.3].  Over de Zoon zegt de profeet : “zo Hij voor de zonde zijn leven geeft, zal Hij een nageslacht zien dat lange dagen telt„ [^67.4].
 
-Nog krachtiger uitdrukkingen gebruikt de Apostel om ons aan te tonen wat we van de eindeloze barmhartigheid en goedheid van God te verwachten hebben : “ Zijn eigen Zoon heeft Hij niet gespaard, maar Hem voor ons allen overgeleverd : hoe zou Hij ons ook met Hem niet alles geven ? „ [^67.5].
+Nog krachtiger uitdrukkingen gebruikt de Apostel om ons aan te tonen wat we van de eindeloze barmhartigheid en goedheid van God te verwachten hebben : “Zijn eigen Zoon heeft Hij niet gespaard, maar Hem voor ons allen overgeleverd : hoe zou Hij ons ook met Hem niet alles geven ?„ [^67.5].
 
 [^67.1]: I Cor. II, 8.
 
@@ -129,15 +129,15 @@ Het is niet te betwijfelen dat Christus zowel in zijn ziel als in zijn lichaam d
 
 En Christus leed zelfs meer dan andere gekruisigden, door zijn lichaamsgesteltenis : want zijn Lichaam, dat gevormd werd door de Heilige Geest, was veel volmaakter en edeler dan het lichaam van enig ander mens kan zijn ; en daardoor had het ook een veel fijner gevoel, en leed het dieper onder al de kwellingen.
 
-Zonder twijfel heeft Christus ook in zijn ziel de hevigste smarten geleden. Immers, alle heiligen die gemarteld en gefolterd werden, waren door God met zieletroost begunstigd, die hen hielp om geduldig hun pijnen te verdragen ; zelfs werden ze, te midden van hun kwellingen, door innige vreugde vervoerd ; zo leert ons de Apostel : “ Thans verheug ik mij in mijn lijden voor u, en vul aan in mijn vlees wat aan de kwellingen van Christus ontbreekt, voor zijn lichaam, de Kerk „[^69.1];en elders: “ Ik ben vol troost, ik loop over van vreugde in al onze kwelling „ [^69.2]. Doch de bittere lijdenskelk, die onze Heer Christus te drinken had, werd niet met zoetigheid vermengd. Hij wilde al het lijden kennen van de menselijke natuur die Hij aangenomen had, alsof Hij alleen mens en niet God was geweest.
+Zonder twijfel heeft Christus ook in zijn ziel de hevigste smarten geleden. Immers, alle heiligen die gemarteld en gefolterd werden, waren door God met zieletroost begunstigd, die hen hielp om geduldig hun pijnen te verdragen ; zelfs werden ze, te midden van hun kwellingen, door innige vreugde vervoerd ; zo leert ons de Apostel : “Thans verheug ik mij in mijn lijden voor u, en vul aan in mijn vlees wat aan de kwellingen van Christus ontbreekt, voor zijn lichaam, de Kerk„[^69.1];en elders: “Ik ben vol troost, ik loop over van vreugde in al onze kwelling„ [^69.2]. Doch de bittere lijdenskelk, die onze Heer Christus te drinken had, werd niet met zoetigheid vermengd. Hij wilde al het lijden kennen van de menselijke natuur die Hij aangenomen had, alsof Hij alleen mens en niet God was geweest.
 
 ## Welke voordelen het lijden van Christus ons geeft.
 
 De pastoor zal ook met de meeste zorg uitleggen welke voordelen en zegeningen wij ontvangen hebben door het lijden van onze Heer.
 
-Vooreerst gaf het lijden van Jezus bevrijding van de zonde : de heilige Joannes schrijft: “ Hij heeft ons bemind en ons van onze zonden gereinigd in zijn bloed „ [^69.3]. En de apostel : “ U heeft Hij samen met Hem levend gemaakt, u al de zonden vergeven, het handschrift der veroordeling uitgevaagd dat tegen ons was en tegen ons getuigde, en het weggenomen en aan het kruis genageld „ [^69.4].
+Vooreerst gaf het lijden van Jezus bevrijding van de zonde : de heilige Joannes schrijft: “Hij heeft ons bemind en ons van onze zonden gereinigd in zijn bloed„ [^69.3]. En de apostel : “U heeft Hij samen met Hem levend gemaakt, u al de zonden vergeven, het handschrift der veroordeling uitgevaagd dat tegen ons was en tegen ons getuigde, en het weggenomen en aan het kruis genageld„ [^69.4].
 
-Verder heeft het lijden van Jezus ons ontrukt aan de slavernij van de duivel, zoals de Heer zelf zegt : “ Nu wordt het oordeel van deze wereld gehouden ; nu gaat de vorst van deze wereld buitengedreven worden. En wanneer Ik zal omhoog geheven zijn van de aarde, zal Ik allen tot mij trekken „ [^69.5].
+Verder heeft het lijden van Jezus ons ontrukt aan de slavernij van de duivel, zoals de Heer zelf zegt : “Nu wordt het oordeel van deze wereld gehouden ; nu gaat de vorst van deze wereld buitengedreven worden. En wanneer Ik zal omhoog geheven zijn van de aarde, zal Ik allen tot mij trekken„ [^69.5].
 
 [^69.1]: Col. I, 24.
 
@@ -151,7 +151,7 @@ Verder heeft het lijden van Jezus ons ontrukt aan de slavernij van de duivel, zo
 
 Jezus heeft ook de voldoening gegeven die wij voor onze zonden verschuldigd waren. En omdat geen offer aan God meer kon behagen, heeft Hij ons met zijn Vader verzoend, en ons gunst en genade bij Hem doen vinden.
 
-Ten slotte, met de zonde weg te nemen, heeft Hij de hemel, die door de zonde van gans het mensdom gesloten was, voor ons weer opengesteld. Dat geeft ons de Apostel te kennen in deze woorden: “ Wij mogen vrijmoedig in het heiligdom binnentreden door het bloed van Christus „ [^70.1]. Dit geheim werd reeds in de oude wet afgebeeld : want diegenen, aan wie het verboden was naar het vaderland weer te keren voor de dood van de hogepriester [^70.2], beduidden dat niemand tot het hemels vaderland toegang had, ook niet wie vroom en rechtvaardig geleefd had, zolang de eeuwige Hogepriester Christus Jezus de dood niet ondergaan had. Doch eens dat Hij gestorven was, werd aanstonds de poort van de hemel geopend voor hen die, gezuiverd door de Sacramenten, en met geloof, hoop en liefde begaafd, deelachtig worden aan zijn lijden.
+Ten slotte, met de zonde weg te nemen, heeft Hij de hemel, die door de zonde van gans het mensdom gesloten was, voor ons weer opengesteld. Dat geeft ons de Apostel te kennen in deze woorden: “Wij mogen vrijmoedig in het heiligdom binnentreden door het bloed van Christus„ [^70.1]. Dit geheim werd reeds in de oude wet afgebeeld : want diegenen, aan wie het verboden was naar het vaderland weer te keren voor de dood van de hogepriester [^70.2], beduidden dat niemand tot het hemels vaderland toegang had, ook niet wie vroom en rechtvaardig geleefd had, zolang de eeuwige Hogepriester Christus Jezus de dood niet ondergaan had. Doch eens dat Hij gestorven was, werd aanstonds de poort van de hemel geopend voor hen die, gezuiverd door de Sacramenten, en met geloof, hoop en liefde begaafd, deelachtig worden aan zijn lijden.
 
 [^70.1]: Hebr. XX, 19.
 
@@ -159,9 +159,9 @@ Ten slotte, met de zonde weg te nemen, heeft Hij de hemel, die door de zonde van
 
 ## Hoe kon het lijden van Christus ons zo grote voordelen verdienen ?
 
-De pastoor zal aantonen dat al die grote en goddelijke gaven voortkomen van het lijden van Christus: vooreerst omdat het een volledige en volmaakte voldoening voor onze zonden is, die Jezus Christus op wonderbare wijze aan God de Vader gegeven heeft.  En de losprijs, die Hij voor ons betaalde, was niet alleen gelijk aan onze schuld, maar overtrof ze verre.  Verder was het offer, dat de Zoon op het altaar van het kruis opdroeg, zo aangenaam aan God, dat de gramschap van de Vader er volkomen door gestild werd. Daarover spreekt ook de Apostel, als hij zegt ; “ Christus heeft ons liefgehad, en zichzelf voor ons overgeleverd tot slachtoffer aan God, tot lieflijke geur „ [^71.1].
+De pastoor zal aantonen dat al die grote en goddelijke gaven voortkomen van het lijden van Christus: vooreerst omdat het een volledige en volmaakte voldoening voor onze zonden is, die Jezus Christus op wonderbare wijze aan God de Vader gegeven heeft.  En de losprijs, die Hij voor ons betaalde, was niet alleen gelijk aan onze schuld, maar overtrof ze verre.  Verder was het offer, dat de Zoon op het altaar van het kruis opdroeg, zo aangenaam aan God, dat de gramschap van de Vader er volkomen door gestild werd. Daarover spreekt ook de Apostel, als hij zegt ; “Christus heeft ons liefgehad, en zichzelf voor ons overgeleverd tot slachtoffer aan God, tot lieflijke geur„ [^71.1].
 
-Eindelijk was dat lijden voor ons de verlossing, waarvan de Prins der Apostelen zegt: “ niet met vergankelijke dingen, met zilver of goud zijt gij vrijgekocht uit uw ijdele levenswandel, die u door de vaderen overgeleverd was ; maar met het kostbaar bloed van Christus als van een lam zonder gebrek of vlek „ [^71.2] ;en de Apostel leert ons : “ Christus heeft ons vrijgekocht van de vloek der wet, en is zelf vloek voor ons geworden „ [^71.3].
+Eindelijk was dat lijden voor ons de verlossing, waarvan de Prins der Apostelen zegt: “niet met vergankelijke dingen, met zilver of goud zijt gij vrijgekocht uit uw ijdele levenswandel, die u door de vaderen overgeleverd was ; maar met het kostbaar bloed van Christus als van een lam zonder gebrek of vlek„ [^71.2] ;en de Apostel leert ons : “Christus heeft ons vrijgekocht van de vloek der wet, en is zelf vloek voor ons geworden„ [^71.3].
 
 ## In het lijden van Christus vinden we het voorbeeld van alle deugden.
 

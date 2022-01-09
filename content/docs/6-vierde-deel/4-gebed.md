@@ -7,7 +7,7 @@ title: "Wat moet men vragen in het gebed ?"
 
 ## Wat mag men aan God vragen ?
 
-Als we het gebed van de Heer zullen uitleggen, dan zullen we voor elke vraag afzonderlijk zeggen wat men moet vragen en wat niet. Daarom zal het hier volstaan, er bij de gelovigen op te wijzen dat ze alleen aan God vragen wat eerlijk en rechtvaardig is ; moesten ze iets vragen dat niet geoorloofd is, dan zouden ze afgewezen worden met dit antwoord : “ Gij weet niet wat gij vraagt „ [^585.1]. Al wat men mag begeren, mag men ook vragen : daarvan getuigt de heerlijke belofte van de Zaligmaker : “ Vraagt al wat gij zult verlangen, en gij zult het bekomen „ [^585.2]; daardoor belooft Hij alles te geven.
+Als we het gebed van de Heer zullen uitleggen, dan zullen we voor elke vraag afzonderlijk zeggen wat men moet vragen en wat niet. Daarom zal het hier volstaan, er bij de gelovigen op te wijzen dat ze alleen aan God vragen wat eerlijk en rechtvaardig is ; moesten ze iets vragen dat niet geoorloofd is, dan zouden ze afgewezen worden met dit antwoord : “Gij weet niet wat gij vraagt„ [^585.1]. Al wat men mag begeren, mag men ook vragen : daarvan getuigt de heerlijke belofte van de Zaligmaker : “Vraagt al wat gij zult verlangen, en gij zult het bekomen„ [^585.2]; daardoor belooft Hij alles te geven.
 
 ## Wat moeten we op de eerste plaats vragen ?
 
@@ -19,11 +19,11 @@ Daarom moeten we voor alles ons verlangen en onze wensen zo richten, dat God, di
 
 ## In hoeverre mogen we uiterlijke gunsten vragen ?
 
-Het uiterlijk welzijn van het lichaam, zoals gezondheid, kracht, schoonheid, rijkdom, eer en glorie, kan dikwijls aanleiding en gelegenheid geven tot zonde.  Daaruit volgt dat het moeilijk overeen te brengen is met de godsvrucht en onze ware belangen, voor die uiterlijke gunsten te bidden ; dat gebed zal dus moeten beperkt zijn door deze bepaling, dat wij enkel die vergankelijke voordelen vragen in zoverre zij ons noodzakelijk zijn. We kunnen er om bidden zoals Jacob en Salomon het deden ; Jacob bad : “ Als God mij brood geeft om te eten en klederen om mij te bedekken, dan zal Hij de Heer mijn God zijn „ [^586.1] ; en Salomon: “ Geef me alleen wat nodig is om te leven „ [^586.2].
+Het uiterlijk welzijn van het lichaam, zoals gezondheid, kracht, schoonheid, rijkdom, eer en glorie, kan dikwijls aanleiding en gelegenheid geven tot zonde.  Daaruit volgt dat het moeilijk overeen te brengen is met de godsvrucht en onze ware belangen, voor die uiterlijke gunsten te bidden ; dat gebed zal dus moeten beperkt zijn door deze bepaling, dat wij enkel die vergankelijke voordelen vragen in zoverre zij ons noodzakelijk zijn. We kunnen er om bidden zoals Jacob en Salomon het deden ; Jacob bad : “Als God mij brood geeft om te eten en klederen om mij te bedekken, dan zal Hij de Heer mijn God zijn„ [^586.1] ; en Salomon: “Geef me alleen wat nodig is om te leven„ [^586.2].
 
 ## Hoe moeten we de rijkdommen en andere lichamelijke goederen gebruiken ?
 
-Als God, in zijn goedheid, ons geeft wat we nodig hebben voor voedsel en kleding, dan past het dat we de raad van de Apostel gedenken : “ Dat zij die kopen, leven alsof ze niets bezaten ; en die van de wereld genieten, alsof zij er niet van genoten. Want de gedaante van deze wereld gaat voorbij „ [^586.3] ; en dit ander woord : “ Als de rijkdommen u toestromen, hecht er uw hart niet aan „ [^586.4]: God zelf leert ons dat we al die dingen slechts in gebruik hebben, en dan nog moeten we in dat gebruik de anderen laten delen. Als we gezond zijn, als we andere uiterlijke en lichamelijke goederen in overvloed bezitten, denken we er dan aan dat dit alles ons gegeven is opdat we God gemakkelijker zouden dienen en onze naaste beter zouden helpen.
+Als God, in zijn goedheid, ons geeft wat we nodig hebben voor voedsel en kleding, dan past het dat we de raad van de Apostel gedenken : “Dat zij die kopen, leven alsof ze niets bezaten ; en die van de wereld genieten, alsof zij er niet van genoten. Want de gedaante van deze wereld gaat voorbij„ [^586.3] ; en dit ander woord : “Als de rijkdommen u toestromen, hecht er uw hart niet aan„ [^586.4]: God zelf leert ons dat we al die dingen slechts in gebruik hebben, en dan nog moeten we in dat gebruik de anderen laten delen. Als we gezond zijn, als we andere uiterlijke en lichamelijke goederen in overvloed bezitten, denken we er dan aan dat dit alles ons gegeven is opdat we God gemakkelijker zouden dienen en onze naaste beter zouden helpen.
 
 [^586.1]: Gen. XXVIII, 20.
 

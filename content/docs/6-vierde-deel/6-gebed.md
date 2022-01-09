@@ -7,7 +7,7 @@ title: "Wie moeten wij aanroepen ?"
 
 ## Tot wie moet ons gebed vooral gericht zijn ?
 
-Wij moeten God bidden en zijn Naam aanroepen : dat leert ons de wet van de natuur, die in het hart van de mens gedrukt is : dat leert ons ook de Heilige Schriftuur, waarin we dit bevel van God lezen : “ Aanroep mij op de dag van de kwelling „ [^591.1]. Als we zeggen: God bidden, dan verstaan we daardoor de drie goddelijke Personen.
+Wij moeten God bidden en zijn Naam aanroepen : dat leert ons de wet van de natuur, die in het hart van de mens gedrukt is : dat leert ons ook de Heilige Schriftuur, waarin we dit bevel van God lezen : “Aanroep mij op de dag van de kwelling„ [^591.1]. Als we zeggen: God bidden, dan verstaan we daardoor de drie goddelijke Personen.
 
 ## Mogen we ook de heiligen aanroepen ?
 

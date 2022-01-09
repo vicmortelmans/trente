@@ -31,7 +31,7 @@ Het gebod, dat de viering van de Sabbat voorschrijft, in zoverre het juist die d
 
 ## De Sabbat werd opgeheven door de dood van Christus.
 
-De viering van de Sabbat moest opgeheven worden samen met de andere Joodse kerkgebruiken en plechtigheden, namelijk door de dood van Christus.  Want vermits die plechtigheden slechts schaduwbeelden waren van het licht en de waarheid, was het nodig dat zij verdwenen voor de komst van Jezus Christus, die het licht en de waarheid is. Daarom berispt Sint-Paulus de Galaten, die de plechtigheden van de wet van Mozes terug wilden invoeren : “ Dagen onderhoudt gij, en maanden en tijden en jaren. Ik vrees voor u, dat ik te vergeefs aan u gezwoegd heb „ [^482.1]. In die zin schrijft hij ook aan de Colossers [^482.2].
+De viering van de Sabbat moest opgeheven worden samen met de andere Joodse kerkgebruiken en plechtigheden, namelijk door de dood van Christus.  Want vermits die plechtigheden slechts schaduwbeelden waren van het licht en de waarheid, was het nodig dat zij verdwenen voor de komst van Jezus Christus, die het licht en de waarheid is. Daarom berispt Sint-Paulus de Galaten, die de plechtigheden van de wet van Mozes terug wilden invoeren : “Dagen onderhoudt gij, en maanden en tijden en jaren. Ik vrees voor u, dat ik te vergeefs aan u gezwoegd heb„ [^482.1]. In die zin schrijft hij ook aan de Colossers [^482.2].
 
 [^482.1]: Gal. IV, 10, 11.
 
@@ -45,7 +45,7 @@ Dit gebod komt met de andere overeen, niet door riten en plechtigheden, maar omd
 
 ## De apostelen hebben geboden de Zondag te eren in plaats van de Sabbat.
 
-Daarom hebben de apostelen besloten de eerste van de zeven dagen aan de dienst van God te wijden, en die dag hebben ze dag van de Heer genoemd. De heilige Joannes vermeldt de dag van de Heer in het Boek der Openbaringen [^483.1], en de heilige Paulus beveelt een geldinzameling te doen “ daags na elke Sabbat „ [^483.2], dit is, volgens de verklaring van de heilige Chrysostomus, op de dag van de Heer.  Daardoor begrijpen we dat reeds toen de Zondag in de Kerk geheiligd werd.
+Daarom hebben de apostelen besloten de eerste van de zeven dagen aan de dienst van God te wijden, en die dag hebben ze dag van de Heer genoemd. De heilige Joannes vermeldt de dag van de Heer in het Boek der Openbaringen [^483.1], en de heilige Paulus beveelt een geldinzameling te doen “daags na elke Sabbat„ [^483.2], dit is, volgens de verklaring van de heilige Chrysostomus, op de dag van de Heer.  Daardoor begrijpen we dat reeds toen de Zondag in de Kerk geheiligd werd.
 
 [^483.1]: Apoc. 1, 10.
 
@@ -55,7 +55,7 @@ Opdat de gelovigen zouden weten wat ze die dag moeten doen en laten, zal het nut
 
 ## Wat betekenen de woorden : denk er aan.
 
-Vooreerst zal men voorhouden wat geboden wordt door de woorden: denk er aan, dat gij de Sabbat heiligt. Het gebod begint met de woorden “ denk er aan „, om ons te herinneren dat het vieren van die dag tot de uiterlijke eredienst behoort. Het was wel nodig daarop te wijzen, omdat de natuurwet, alhoewel ze leert dat er een zekere tijd moet besteed worden aan de eredienst, toch niet bepaald had op welken dag dit bij voorkeur moest gebeuren.
+Vooreerst zal men voorhouden wat geboden wordt door de woorden: denk er aan, dat gij de Sabbat heiligt. Het gebod begint met de woorden “denk er aan„, om ons te herinneren dat het vieren van die dag tot de uiterlijke eredienst behoort. Het was wel nodig daarop te wijzen, omdat de natuurwet, alhoewel ze leert dat er een zekere tijd moet besteed worden aan de eredienst, toch niet bepaald had op welken dag dit bij voorkeur moest gebeuren.
 
 Verder moet men aan de gelovigen leren dat deze woorden ons tonen hoe we, heel de week door, ons werk moeten doen : altijd moeten we de dag van de Heer voor ogen houden, omdat we op die dag aan God rekenschap moeten geven over onze daden en werken ; die werken moeten we zodanig verrichten dat ze door het oordeel van God niet verworpen worden, en dat ze, volgens het woord van de Heilige Schriftuur, voor ons geen reden zijn tot droefheid en gewetenswroeging [^484.1].
 
@@ -67,7 +67,7 @@ Nu moeten we de betekenis van het woord Sabbat uitleggen.
 
 ## Wat betekent Sabbat en Sabbat vieren in de Heilige Schriftuur ?
 
-Sabbat is een Hebreeuws woord dat rust betekent.  Sabbat vieren is dus rusten. Het is daarom dat de zevende dag Sabbat genoemd werd, want als heel de wereld geschapen en voltrokken was, heeft God gerust van al het werk dat Hij gedaan had. In het boek Exodus heeft de Heer zelf die naam aan de zevende dag gegeven. Later werd niet alleen die dag, maar heel de week Sabbat genoemd, om wille van de grote waardigheid van die dag ; het is zo dat de Farizeeër, bij Sint-Lucas, zegde : “ Ik vast tweemaal per Sabbat „ [^485.1]. Ziedaar dus de betekenis van het woord Sabbat.
+Sabbat is een Hebreeuws woord dat rust betekent.  Sabbat vieren is dus rusten. Het is daarom dat de zevende dag Sabbat genoemd werd, want als heel de wereld geschapen en voltrokken was, heeft God gerust van al het werk dat Hij gedaan had. In het boek Exodus heeft de Heer zelf die naam aan de zevende dag gegeven. Later werd niet alleen die dag, maar heel de week Sabbat genoemd, om wille van de grote waardigheid van die dag ; het is zo dat de Farizeeër, bij Sint-Lucas, zegde : “Ik vast tweemaal per Sabbat„ [^485.1]. Ziedaar dus de betekenis van het woord Sabbat.
 
 ## Hoe moeten de gelovigen de Sabbat vieren ?
 
@@ -85,11 +85,11 @@ De ware en eigenlijke betekenis van dat gebod is dus, dat de mens met lichaam en
 
 ## Tweede deel van het gebod.
 
-Het tweede deel van het gebod toont ons dat de zevende dag van de week aan de dienst van God gewijd is; er staat immers geschreven : “ Gedurende zes dagen zult gij arbeiden en al uw werken doen. De zevende dag Echter is de Sabbat van de Heer uw God „. Uit die woorden kunnen we opmaken dat de Sabbat aan de Heer moet toegewijd zijn, dat we Hem die dag moeten eren door godsdienstige werken, en dat de zevende dag een herinnering is aan de rust van de Heer.
+Het tweede deel van het gebod toont ons dat de zevende dag van de week aan de dienst van God gewijd is; er staat immers geschreven : “Gedurende zes dagen zult gij arbeiden en al uw werken doen. De zevende dag Echter is de Sabbat van de Heer uw God„. Uit die woorden kunnen we opmaken dat de Sabbat aan de Heer moet toegewijd zijn, dat we Hem die dag moeten eren door godsdienstige werken, en dat de zevende dag een herinnering is aan de rust van de Heer.
 
 ## Het was nuttig voor de Joden dat hun een bepaalde dag voorgeschreven werd.
 
-Die dag werd aan de dienst van God gewijd omdat het, voor een ruw volk als de Joden, niet goed was naar believen een dag te mogen kiezen; zoniet was er gevaar dat ze de plechtigheden van de Egyptenaren zouden navolgen. Van de zeven dagen werd de laatste gekozen voor de dienst van God, en dat ook is vol betekenis. Daarom zegt de Heer, in de Exodus en bij Ezechiël, dat de Sabbat een teken is: “ Ziet toe dat gij mijn Sabbat onderhoudt ; want hij is een teken tussen mij en u voor uw nakomelingen, opdat gij zoudt weten dat ik de Heer ben die u heilig maakt „ [^486.1]
+Die dag werd aan de dienst van God gewijd omdat het, voor een ruw volk als de Joden, niet goed was naar believen een dag te mogen kiezen; zoniet was er gevaar dat ze de plechtigheden van de Egyptenaren zouden navolgen. Van de zeven dagen werd de laatste gekozen voor de dienst van God, en dat ook is vol betekenis. Daarom zegt de Heer, in de Exodus en bij Ezechiël, dat de Sabbat een teken is: “Ziet toe dat gij mijn Sabbat onderhoudt ; want hij is een teken tussen mij en u voor uw nakomelingen, opdat gij zoudt weten dat ik de Heer ben die u heilig maakt„ [^486.1]
 
 [^486.1]: Ex. XXXI, 13.
 
@@ -99,11 +99,11 @@ De Sabbat was dus een teken dat aan de mensen te kennen gaf dat zij zich aan God
 
 De Sabbat is ook een teken dat ons herinnert aan de wonderbare schepping van het heelal.
 
-Voor de Joden was hij ook een teken dat hen moest doen gedenken dat zij, door de hulp van God, bevrijd en verlost waren uit het wrede juk van de Egyptische slavernij ; dat toont ook de Heer aan in deze woorden : “ Herinner u dat gij slaaf geweest zijt in Egypte, en de Heer uw God u vandaar weggeleid heeft met machtige hand en uitgestrekte arm. Daarom heeft Hij u geboden de Sabbatdag te onderhouden „ [^487.1]. Eindelijk is de Sabbat een voorafbeelding van de geestelijke en hemelse Sabbat.
+Voor de Joden was hij ook een teken dat hen moest doen gedenken dat zij, door de hulp van God, bevrijd en verlost waren uit het wrede juk van de Egyptische slavernij ; dat toont ook de Heer aan in deze woorden : “Herinner u dat gij slaaf geweest zijt in Egypte, en de Heer uw God u vandaar weggeleid heeft met machtige hand en uitgestrekte arm. Daarom heeft Hij u geboden de Sabbatdag te onderhouden„ [^487.1]. Eindelijk is de Sabbat een voorafbeelding van de geestelijke en hemelse Sabbat.
 
 ## Waarin bestaat de geestelijke Sabbat van het christen volk ?
 
-De geestelijke Sabbat bestaat in de heilige en geestelijke rust die we bekomen als de oude mens met Christus begraven wordt om een nieuw leven te beginnen en zich met ijver toelegt op de werken die met de christelijke godsvrucht overeenstemmen. Want “ zij die eens duisternis waren, maar nu licht zijn, moeten als kinderen van het licht wandelen in alle goedheid en gerechtigheid en waarheid, en geen gemeenschap hebben met de onvruchtbare werken van de duisternis „ [^487.2].
+De geestelijke Sabbat bestaat in de heilige en geestelijke rust die we bekomen als de oude mens met Christus begraven wordt om een nieuw leven te beginnen en zich met ijver toelegt op de werken die met de christelijke godsvrucht overeenstemmen. Want “zij die eens duisternis waren, maar nu licht zijn, moeten als kinderen van het licht wandelen in alle goedheid en gerechtigheid en waarheid, en geen gemeenschap hebben met de onvruchtbare werken van de duisternis„ [^487.2].
 
 [^487.1]: Deut. V, 15.
 
@@ -111,7 +111,7 @@ De geestelijke Sabbat bestaat in de heilige en geestelijke rust die we bekomen a
 
 ## Waarin bestaat de hemelse Sabbat ?
 
-Ook in de hemel bestaat er een Sabbat. Bij de woorden van de Apostel: “ dus staat een Sabbatrust het volk van God nog te wachten „ [^488.1], voegt de heilige Cyrillus deze verklaring : “ Die Sabbatrust is het leven dat we met Christus zullen leiden, en waarin we alle goed zullen genieten nadat de zonde tot de wortel toe zal uitgeroeid zijn, volgens dit woord van de Profeet : Daar zal een heirbaan liggen, heilige weg zal die genoemd worden. Geen leeuw zal daar omtrent zijn, noch komt enig verscheurend dier er op [^488.2]. De heiligen bekomen immers alle goed door het beschouwen van God „ [^488.3]. Daarom moet de pastoor de gelovigen opwekken en aanmoedigen met deze woorden: “ Laten wij dan ijveren om in die rust in te gaan „ [^488.4].
+Ook in de hemel bestaat er een Sabbat. Bij de woorden van de Apostel: “dus staat een Sabbatrust het volk van God nog te wachten„ [^488.1], voegt de heilige Cyrillus deze verklaring : “Die Sabbatrust is het leven dat we met Christus zullen leiden, en waarin we alle goed zullen genieten nadat de zonde tot de wortel toe zal uitgeroeid zijn, volgens dit woord van de Profeet : Daar zal een heirbaan liggen, heilige weg zal die genoemd worden. Geen leeuw zal daar omtrent zijn, noch komt enig verscheurend dier er op [^488.2]. De heiligen bekomen immers alle goed door het beschouwen van God„ [^488.3]. Daarom moet de pastoor de gelovigen opwekken en aanmoedigen met deze woorden: “Laten wij dan ijveren om in die rust in te gaan„ [^488.4].
 
 [^488.1]: Hebr. IV, 9.
 
@@ -127,7 +127,7 @@ Buiten de Sabbat had het Joodse volk nog andere feesten en heilige dagen die doo
 
 ## Waarom hebben de apostelen niet de zevende maar de eerste dag van de week aan de eredienst toegewijd ?
 
-De Kerk van God heeft goedgevonden, de eredienst en de viering van de Sabbat op de Zondag over te brengen. Evenals op die dag het licht voor het eerst geschenen heeft over de wereld, zo werd ook, op die dag, ons leven van de duisternis naar het licht overgebracht door de verrijzenis van onze Verlosser, die ons de toegang tot het eeuwig leven opende; daarom hebben de Apostelen de Zondag ook “ dag van de Heer „ genoemd. We bemerken ook in de Heilige Schriftuur dat de Zondag een plechtige dag is, vermits de schepping van de wereld op die dag begon, en dat de Heilige Geest op een Zondag aan de Apostelen gegeven werd.
+De Kerk van God heeft goedgevonden, de eredienst en de viering van de Sabbat op de Zondag over te brengen. Evenals op die dag het licht voor het eerst geschenen heeft over de wereld, zo werd ook, op die dag, ons leven van de duisternis naar het licht overgebracht door de verrijzenis van onze Verlosser, die ons de toegang tot het eeuwig leven opende; daarom hebben de Apostelen de Zondag ook “dag van de Heer„ genoemd. We bemerken ook in de Heilige Schriftuur dat de Zondag een plechtige dag is, vermits de schepping van de wereld op die dag begon, en dat de Heilige Geest op een Zondag aan de Apostelen gegeven werd.
 
 ## Waarom hebben de christenen nog feesten buiten de Zondag ?
 
@@ -135,18 +135,18 @@ Vanaf het begin van de Kerk, en ook in latere tijden, hebben de Apostelen en de 
 
 ## Dit gebod zet de gelovigen aan om de ledigheid te vluchten.
 
-Voor het onderhouden van dit gebod ligt een grote kracht in deze woorden : “ Ge zult zes dagen arbeiden; maar de zevende dag is de Sabbat van de Heer uw God „; daarom moet de pastoor die woorden zorgvuldig “uitleggen. Daarin wordt toch duidelijk gezegd dat we de gelovigen moeten aanzetten om hun leven niet in ledigheid en nietsdoen door te brengen ; het woord van de Apostel indachtig, moet “ elk zijn eigen zaken doen en arbeiden met zijn handen „ [^489.1], zoals hij het voorschrijft.
+Voor het onderhouden van dit gebod ligt een grote kracht in deze woorden : “Ge zult zes dagen arbeiden; maar de zevende dag is de Sabbat van de Heer uw God„; daarom moet de pastoor die woorden zorgvuldig “uitleggen. Daarin wordt toch duidelijk gezegd dat we de gelovigen moeten aanzetten om hun leven niet in ledigheid en nietsdoen door te brengen ; het woord van de Apostel indachtig, moet “elk zijn eigen zaken doen en arbeiden met zijn handen„ [^489.1], zoals hij het voorschrijft.
 
 [^489.1]: I Thess. IV, 11.
 
 Door dat gebod schrijft de Heer ook voor dat we op zes dagen ons werk zouden doen ; we mogen dus niet tot de Zondag uitstellen hetgeen op de andere dagen van de week kan gedaan worden, om daardoor onze geest niet af te trekken van de zorg en de betrachting der goddelijke dingen.
 ## Wat is op de feestdagen niet toegelaten ?
 
-Nu moeten we het derde deel van het gebod uitleggen, dat voorschrijft hoe we de Sabbat moeten vieren ; vooral leert het ons wat op die dag niet toegelaten is.  Daarom zegt de Heer: “ Gij zult op die dag niet werken, gij niet en uw zoon en uw dochter niet, noch uw knecht of uw meid, noch uw lastdier, noch de vreemdeling die binnen uw poorten woont „. Die woorden leren ons vooreerst dat we volstrekt moeten vermijden al wat een beletsel kan zijn voor de goddelijke eredienst. Het is dan gemakkelijk te begrijpen dat alle zwaar werk verboden is, niet omdat het in zich zelf slecht of schandig is, maar omdat het onze geest aftrekt van de goddelijke eredienst, die het doel is van het gebod. Hoeveel meer moeten de gelovigen dan de zonden vermijden, die niet alleen de ijver voor de goddelijke zaken verminderen, maar ons volledig van de liefde tot God beroven.
+Nu moeten we het derde deel van het gebod uitleggen, dat voorschrijft hoe we de Sabbat moeten vieren ; vooral leert het ons wat op die dag niet toegelaten is.  Daarom zegt de Heer: “Gij zult op die dag niet werken, gij niet en uw zoon en uw dochter niet, noch uw knecht of uw meid, noch uw lastdier, noch de vreemdeling die binnen uw poorten woont„. Die woorden leren ons vooreerst dat we volstrekt moeten vermijden al wat een beletsel kan zijn voor de goddelijke eredienst. Het is dan gemakkelijk te begrijpen dat alle zwaar werk verboden is, niet omdat het in zich zelf slecht of schandig is, maar omdat het onze geest aftrekt van de goddelijke eredienst, die het doel is van het gebod. Hoeveel meer moeten de gelovigen dan de zonden vermijden, die niet alleen de ijver voor de goddelijke zaken verminderen, maar ons volledig van de liefde tot God beroven.
 
 ## De uiterlijke werken die tot de eredienst behoren, zijn niet verboden op de Sabbat.
 
-Nochtans zijn de werken en handelingen, die tot de eredienst behoren, niet verboden, al zijn ze ook slafelijk werk, zoals het altaar bereiden, de tempel versieren bij gelegenheid van een feest, en andere van die aard. Daarom zegt de Heer “ dat de priesters in de tempel de Sabbat onteren en niet misdoen „ [^490.1].
+Nochtans zijn de werken en handelingen, die tot de eredienst behoren, niet verboden, al zijn ze ook slafelijk werk, zoals het altaar bereiden, de tempel versieren bij gelegenheid van een feest, en andere van die aard. Daarom zegt de Heer “dat de priesters in de tempel de Sabbat onteren en niet misdoen„ [^490.1].
 
 [^490.1]: Matth. XII. 5.
 
@@ -168,7 +168,7 @@ Vooreerst moeten ze naar de kerk gaan, en daar met vrome en oprechte aandacht he
 
 Niets kan nuttiger en voordeliger zijn voor de christenen, dan dikwijls hun zonden aan de priester te belijden. De pastoor zal het volk daartoe aanzetten ; redenen en bewijzen zal hij daarvoor vinden in hetgeen we geschreven hebben, als we over het sacrament van boetvaardigheid handelden. En niet alleen zal hij het volk aanmanen om dit sacrament te ontvangen, hij zal hen ook opwekken tot de veelvuldige Communie.
 
-Met aandacht en zorg moeten de gelovigen ook de onderrichting aanhoren. Niets is onverdraaglijker en onwaardiger dan de woorden van Christus te misprijzen of met nalatigheid te aanhoren. Ook moeten zij het gebed en de lof van God dikwijls beoefenen en goed verzorgen ; met ijver moeten zij leren al wat nodig is om christelijk te leven, en zich toeleggen op godvruchtige werken, met aalmoezen te geven aan armen en behoeftigen, met zieken te bezoeken en de bedroefden en ongelukkigen liefdevol te vertroosten. De heilige Jacobus zegt immers: “ Zuivere en vlekkeloze godsvrucht tegenover God en de Vader is deze : wezen en weduwen te bezoeken in hun druk „ [^492.1].
+Met aandacht en zorg moeten de gelovigen ook de onderrichting aanhoren. Niets is onverdraaglijker en onwaardiger dan de woorden van Christus te misprijzen of met nalatigheid te aanhoren. Ook moeten zij het gebed en de lof van God dikwijls beoefenen en goed verzorgen ; met ijver moeten zij leren al wat nodig is om christelijk te leven, en zich toeleggen op godvruchtige werken, met aalmoezen te geven aan armen en behoeftigen, met zieken te bezoeken en de bedroefden en ongelukkigen liefdevol te vertroosten. De heilige Jacobus zegt immers: “Zuivere en vlekkeloze godsvrucht tegenover God en de Vader is deze : wezen en weduwen te bezoeken in hun druk„ [^492.1].
 
 Hieruit kan men gemakkelijk afleiden welke zonden strijden tegen dit gebod.
 
@@ -186,5 +186,5 @@ Verder zal de pastoor ook aantonen hoe verheven dit gebod is, vermits zij die he
 
 Zij die dit gebod volledig verwaarlozen, zijn de vijanden van God en van zijn heilige wetten, vermits zij aan God en de Kerk niet gehoorzamen en zijn bevel niet naleven. Dit is vooral waar omdat het onderhouden van dit gebod geen moeite vraagt. God legt ons geen moeilijke werken op, die wij om zijnentwille zouden moeten ondernemen, integendeel, Hij wil dat we op de feestdagen rusten en vrij zijn van alle aardse zorgen; het is dan wel een teken van grote weerspannigheid, zich aan dit gebod niet te onderwerpen. Een bewijs daarvan vinden we in de straffen waarmee God de overtreders van dit gebod getroffen heeft, zoals we lezen in het Boek der Getallen.
 
-Om in die zware zonde niet te vallen, zal het nuttig zijn de eerste woorden van dit gebod voor ogen te houden: “ denk er aan „, en dikwijls de grote voordelen te overwegen die we door het vieren van de Zondag kunnen bekomen. Een goede en ijverige pastoor al daarover nog veel uitvoeriger kunnen handelen als de omstandigheden het vragen.
+Om in die zware zonde niet te vallen, zal het nuttig zijn de eerste woorden van dit gebod voor ogen te houden: “denk er aan„, en dikwijls de grote voordelen te overwegen die we door het vieren van de Zondag kunnen bekomen. Een goede en ijverige pastoor al daarover nog veel uitvoeriger kunnen handelen als de omstandigheden het vragen.
 

@@ -15,11 +15,11 @@ Om aan de pastoors toe te laten gemakkelijker de nodige uitleg over het gebed te
 
 ## Het gebed is nodig om zalig te worden.
 
-Eerst en vooral moet men leren hoe noodzakelijk het gebed is ; het gebod van te bidden wordt immers niet als raad gegeven, maar als een streng bevel. Dat heeft Christus zelf verklaard in deze woorden: “ Men moet altijd bidden „ [^574.1]. En ook de Kerk toont ons die noodzakelijkheid van het gebed aan in de inleiding tot het gebed van de Heer : “ Door heilzame voorschriften vermaand, en onderwezen door het goddelijk voorbeeld, durven wij zeggen „.
+Eerst en vooral moet men leren hoe noodzakelijk het gebed is ; het gebod van te bidden wordt immers niet als raad gegeven, maar als een streng bevel. Dat heeft Christus zelf verklaard in deze woorden: “Men moet altijd bidden„ [^574.1]. En ook de Kerk toont ons die noodzakelijkheid van het gebed aan in de inleiding tot het gebed van de Heer : “Door heilzame voorschriften vermaand, en onderwezen door het goddelijk voorbeeld, durven wij zeggen„.
 
 [^574.1]: Luc. XVIII, 1.
 
-Omdat het gebed nodig is voor de christelijke mensen, en zijn leerlingen Hem vroegen : “ Heer, leer ons bidden „ [^575.1], heeft de Zoon van God hun een gebedsvorm voorgeschreven, en hun de hoop gegeven dat ze zouden verhoord worden als ze zo bidden. Hij zelf was een voorbeeld van gebed, want niet alleen bad Hij voortdurend, maar Hij bracht zelfs de nacht door in gebed. En de apostelen hebben onophoudelijk die verplichting voorgehouden aan degenen die zich tot het geloof van Jezus Christus bekeerd hadden. Petrus [^575.2] en Joannes [^575.3] zetten de gelovigen met nadruk aan tot het gebed, en de Apostel wijst, op verscheidene plaatsen, op de heilzame noodzakelijkheid van te bidden [^575.4].
+Omdat het gebed nodig is voor de christelijke mensen, en zijn leerlingen Hem vroegen : “Heer, leer ons bidden„ [^575.1], heeft de Zoon van God hun een gebedsvorm voorgeschreven, en hun de hoop gegeven dat ze zouden verhoord worden als ze zo bidden. Hij zelf was een voorbeeld van gebed, want niet alleen bad Hij voortdurend, maar Hij bracht zelfs de nacht door in gebed. En de apostelen hebben onophoudelijk die verplichting voorgehouden aan degenen die zich tot het geloof van Jezus Christus bekeerd hadden. Petrus [^575.2] en Joannes [^575.3] zetten de gelovigen met nadruk aan tot het gebed, en de Apostel wijst, op verscheidene plaatsen, op de heilzame noodzakelijkheid van te bidden [^575.4].
 
 ## Hoe kunnen we aan de gelovigen de noodzakelijkheid van het gebed doen begrijpen ?
 
@@ -35,7 +35,7 @@ Wij hebben zoveel genaden en gunsten nodig die onontbeerlijk zijn voor het welzi
 
 ## Het gebed is het enige hulpmiddel in onze nood.
 
-Er zijn gunsten die we niet kunnen bekomen tenzij door het gebed. Het gebed bezit een wondere kracht om de duivels te verdrijven : er bestaat immers een soort duivelen die men alleen kan uitdrijven met te bidden en te vasten [^576.1]. Zij die de gewoonte niet aannemen met zorg en godsvrucht te bidden, beroven zich dus van vele grote voordelen, Niet alleen moet men goed bidden, maar men moet het ook voortdurend doen, om te bekomen wat men verlangt. Want, zoals de heilige Hieronymus zegt, “ er staat geschreven : Er wordt gegeven aan alwie vraagt. Als gij dan niets bekomt, dan is het omdat gij niet vraagt ; vraagt dus, en gij zult verkrijgen „.
+Er zijn gunsten die we niet kunnen bekomen tenzij door het gebed. Het gebed bezit een wondere kracht om de duivels te verdrijven : er bestaat immers een soort duivelen die men alleen kan uitdrijven met te bidden en te vasten [^576.1]. Zij die de gewoonte niet aannemen met zorg en godsvrucht te bidden, beroven zich dus van vele grote voordelen, Niet alleen moet men goed bidden, maar men moet het ook voortdurend doen, om te bekomen wat men verlangt. Want, zoals de heilige Hieronymus zegt, “er staat geschreven : Er wordt gegeven aan alwie vraagt. Als gij dan niets bekomt, dan is het omdat gij niet vraagt ; vraagt dus, en gij zult verkrijgen„.
 
 [^576.1]: Matth. XVII, 21.
 

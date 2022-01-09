@@ -7,11 +7,11 @@ title: "Inleiding"
 
 ## Wat hier verstaan wordt door geloof ; noodzakelijkheid van het geloof.
 
-Het woord geloof wordt in de heilige boeken met verschillende betekenissen gebruikt. Wij verstaan hier door geloof de volledige instemming met al wat ons van Godswege geopenbaard werd. Aan de noodzakelijkheid van het geloof om de zaligheid te bekomen, kan niemand terecht twijfelen, vooral omdat er geschreven staat : “ Zonder geloof is het onmogelijk aan God te behagen „ [^14.1].
+Het woord geloof wordt in de heilige boeken met verschillende betekenissen gebruikt. Wij verstaan hier door geloof de volledige instemming met al wat ons van Godswege geopenbaard werd. Aan de noodzakelijkheid van het geloof om de zaligheid te bekomen, kan niemand terecht twijfelen, vooral omdat er geschreven staat : “Zonder geloof is het onmogelijk aan God te behagen„ [^14.1].
 
 Omdat het doel, dat de mens moet bereiken, 't is te zeggen de zaligheid, zo verheven is dat de natuurlijke kracht van de menselijke geest er voor te kort schiet, daarom was het nodig dat God er hem de kennis van gaf. Welnu, die kennis is niets anders dan het geloof, dat ons doet aanvaarden al wat God geopenbaard heeft en als zodanig ons voorgehouden wordt door het gezag onzer Moeder de heilige Kerk. Geen twijfel toch kan bij de gelovigen ontstaan over de waarheden die God, de waarheid zelve, ons geleerd heeft. Daaruit begrijpen we hoe groot het verschil is tussen het geloof dat op God steunt, en het geloof dat we hechten aan de schrijvers der geschiedenis van het mensdom.
 
-Niet bij allen is het geloof even diep of even vurig : we lezen immers in de Heilige Schriftuur : “ Kleingelovige, waarom hebt gij getwijfeld ? [^14.2] Groot is uw geloof [^14.3], Vermeerder ons geloof [^14.4], Het geloof zonder werken is dood [^14.5], Het geloof werkt door de liefde [^14.6] „.  Toch is het altijd eenzelfde soort van geloof, en eenzelfde bepaling is op de verscheidene trappen van geloof toepasselijk.
+Niet bij allen is het geloof even diep of even vurig : we lezen immers in de Heilige Schriftuur : “Kleingelovige, waarom hebt gij getwijfeld ? [^14.2] Groot is uw geloof [^14.3], Vermeerder ons geloof [^14.4], Het geloof zonder werken is dood [^14.5], Het geloof werkt door de liefde [^14.6]„.  Toch is het altijd eenzelfde soort van geloof, en eenzelfde bepaling is op de verscheidene trappen van geloof toepasselijk.
 
 [^14.1]: Hebr. XI, 6.
 
@@ -29,7 +29,7 @@ Hoe vruchtbaar het geloof is, en hoeveel nut wij er uit halen, dat zullen we in 
 
 ## Wanneer, en om welke reden, de twaalf artikelen van het geloof door de Apostelen opgesteld werden.
 
-De heilige Apostelen, die de leiders en de leraars zijn van het geloof, door de goddelijke Geest bezield, hebben in de twaalf artikelen van het symbolum de voornaamste waarheden samengevat die de christenen vooral moeten geloven. Want, nadat ze van de Goddelijke Meester het bevel ontvangen hadden zich over de ganse wereld te verspreiden als zijn gezanten [^15.1], en aan alle schepselen het Evangelie te verkondigen [^15.2], oordeelden zij dat het goed was een kort begrip van het christelijk geloof samen te stellen, opdat zij allen hetzelfde zouden denken en prediken ; zo zou er geen scheuring komen tussen degenen die zij tot de eenheid van het geloof gingen roepen, maar allen zouden “ verenigd blijven in eenzelfde gedacht en eenzelfde gevoelen „ [^15.3].
+De heilige Apostelen, die de leiders en de leraars zijn van het geloof, door de goddelijke Geest bezield, hebben in de twaalf artikelen van het symbolum de voornaamste waarheden samengevat die de christenen vooral moeten geloven. Want, nadat ze van de Goddelijke Meester het bevel ontvangen hadden zich over de ganse wereld te verspreiden als zijn gezanten [^15.1], en aan alle schepselen het Evangelie te verkondigen [^15.2], oordeelden zij dat het goed was een kort begrip van het christelijk geloof samen te stellen, opdat zij allen hetzelfde zouden denken en prediken ; zo zou er geen scheuring komen tussen degenen die zij tot de eenheid van het geloof gingen roepen, maar allen zouden “verenigd blijven in eenzelfde gedacht en eenzelfde gevoelen„ [^15.3].
 
 ## Waarom wordt de Geloofsbelijdenis Symbolum genoemd ?
 
