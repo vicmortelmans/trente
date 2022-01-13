@@ -1,0 +1,4719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calendar xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <year value="2015">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </year>
+    <year value="2016">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </year>
+    <year value="2017">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </year>
+    <year value="2018">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </year>
+    <year value="2019">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </year>
+    <year value="2020">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </year>
+    <year value="2021">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </year>
+    <year value="2022">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </year>
+    <year value="2023">
+        <day>
+            <coordinates>A011</coordinates>
+            <date>2022-11-27</date>
+            <cyear>2022</cyear>
+            <month>11</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, November 27, 2022</date>
+                <date lang="fr">dimanche 27 novembre 2022</date>
+                <date lang="nl">zondag 27 november 2022</date>
+            </i18n>
+            <rss>Sun, 27 Nov 2022 00:00:00 +0000</rss>
+        <title>Eerste Zondag van den Advent.</title>
+         <text>
+            <ul>
+               <li>
+                  <em>
+                     <strong>Er zullen teekenen zijn in zon en maan, enz.</strong>
+                  </em> Luc. XXI, 25 en volg.  Dit Evangelie moet behandeld worden in verband met het algemeen oordeel, Daarom zal de pastoor hier gebruiken hetgeen gezegd werd over het <a href="/docs/3-eerste-deel/7-symbolum/">zevende artikel van het Symbolum</a> : « Vandaar zal Hij komen oordeelen de levenden en de dooden ».</li>
+            </ul>
+         </text>
+         <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A011</url>
+      </day>
+        
+        
+        
+        
+        
+        
+        <day>
+            <coordinates>A021</coordinates>
+            <date>2022-12-04</date>
+            <cyear>2022</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 4, 2022</date>
+                <date lang="fr">dimanche 4 décembre 2022</date>
+                <date lang="nl">zondag 4 december 2022</date>
+            </i18n>
+            <rss>Sun, 04 Dec 2022 00:00:00 +0000</rss>
+        <title>Tweede Zondag van den Advent.</title>
+         <text>
+            <ul>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt…</strong>
+                     </em> Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het <a href="/docs/3-eerste-deel/0-symbolum/">eerste hoofdstuk van den catechismus</a>.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>
+                        <strong>In de gevangenis.</strong>
+                     </em> We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, <a href="/docs/3-eerste-deel/1-symbolum/#het-geloof-is-niet-voldoende-voor-de-zaligheid-we-moeten-het-ook-belijden">we moeten het ook belijden</a>.</p>
+               </li>
+            </ul>
+         </text>
+         <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+         <day>
+            <coordinates>A017</coordinates>
+            <date>2022-12-03</date>
+            <cyear>2022</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Saturday, December 3, 2022</date>
+                <date lang="fr">samedi 3 décembre 2022</date>
+                <date lang="nl">zaterdag 3 december 2022</date>
+            </i18n>
+            <rss>Sat, 03 Dec 2022 00:00:00 +0000</rss>
+            <title>Tweede Zondag van den Advent.</title>
+            <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+            <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+            <day>
+               <coordinates>A016</coordinates>
+               <date>2022-12-02</date>
+               <cyear>2022</cyear>
+               <month>12</month>
+               <form>eo</form>
+               <cycle>None</cycle>
+               <i18n>
+                  <date lang="en">Friday, December 2, 2022</date>
+                  <date lang="fr">vendredi 2 décembre 2022</date>
+                  <date lang="nl">vrijdag 2 december 2022</date>
+               </i18n>
+               <rss>Fri, 02 Dec 2022 00:00:00 +0000</rss>
+               <title>Tweede Zondag van den Advent.</title>
+               <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+               <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+               <day>
+                  <coordinates>A015</coordinates>
+                  <date>2022-12-01</date>
+                  <cyear>2022</cyear>
+                  <month>12</month>
+                  <form>eo</form>
+                  <cycle>None</cycle>
+                  <i18n>
+                     <date lang="en">Thursday, December 1, 2022</date>
+                     <date lang="fr">jeudi 1 décembre 2022</date>
+                     <date lang="nl">donderdag 1 december 2022</date>
+                  </i18n>
+                  <rss>Thu, 01 Dec 2022 00:00:00 +0000</rss>
+                  <title>Tweede Zondag van den Advent.</title>
+                  <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+                  <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+                  <day>
+                     <coordinates>Z1130</coordinates>
+                     <date>2022-11-30</date>
+                     <cyear>2022</cyear>
+                     <month>11</month>
+                     <form>eo</form>
+                     <cycle>None</cycle>
+                     <i18n>
+                        <date lang="en">Wednesday, November 30, 2022</date>
+                        <date lang="fr">mercredi 30 novembre 2022</date>
+                        <date lang="nl">woensdag 30 november 2022</date>
+                     </i18n>
+                     <rss>Wed, 30 Nov 2022 00:00:00 +0000</rss>
+                     <title>Tweede Zondag van den Advent.</title>
+                     <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+                     <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+                     <day>
+                        <coordinates>A013</coordinates>
+                        <date>2022-11-29</date>
+                        <cyear>2022</cyear>
+                        <month>11</month>
+                        <form>eo</form>
+                        <cycle>None</cycle>
+                        <i18n>
+                           <date lang="en">Tuesday, November 29, 2022</date>
+                           <date lang="fr">mardi 29 novembre 2022</date>
+                           <date lang="nl">dinsdag 29 november 2022</date>
+                        </i18n>
+                        <rss>Tue, 29 Nov 2022 00:00:00 +0000</rss>
+                        <title>Tweede Zondag van den Advent.</title>
+                        <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+                        <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+                        <day>
+                           <coordinates>A012</coordinates>
+                           <date>2022-11-28</date>
+                           <cyear>2022</cyear>
+                           <month>11</month>
+                           <form>eo</form>
+                           <cycle>None</cycle>
+                           <i18n>
+                              <date lang="en">Monday, November 28, 2022</date>
+                              <date lang="fr">lundi 28 novembre 2022</date>
+                              <date lang="nl">maandag 28 november 2022</date>
+                           </i18n>
+                           <rss>Mon, 28 Nov 2022 00:00:00 +0000</rss>
+                           <title>Tweede Zondag van den Advent.</title>
+                           <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+                           <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+                        </day>
+                     </day>
+                  </day>
+               </day>
+            </day>
+         </day>
+      </day>
+        
+        
+        
+        
+        
+        
+        <day>
+            <coordinates>A031</coordinates>
+            <date>2022-12-11</date>
+            <cyear>2022</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 11, 2022</date>
+                <date lang="fr">dimanche 11 décembre 2022</date>
+                <date lang="nl">zondag 11 december 2022</date>
+            </i18n>
+            <rss>Sun, 11 Dec 2022 00:00:00 +0000</rss>
+        <title>Derde Zondag van den Advent.</title>
+         <text>
+            <ul>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Hij bekende zonder ontveinzen…</strong>
+                     </em> Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. <a href="/docs/5-derde-deel/2-geboden/#heeft-christus-de-eed-verboden-">Wanneer de eed verboden is</a>.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Waarom doopt gij dan, als gij de Christus niet zijt…</strong>
+                     </em> Hier kunnen we handelen over <a href="/docs/4-tweede-deel/1-sacramenten/#wie-mag-het-doopsel-toedienen-">den bedienaar van het Doopsel</a>, en over <a href="/docs/4-tweede-deel/0-sacramenten/#de-bedienaar-kan-door-zijn-eigen-onwaardigheid-geen-beletsel-zijn-voor-de-kracht-van-de-sacramentele-genade">den invloed van den bedienaar op het uitwerksel van het sacrament</a>.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Wiens schoenriem ik niet waardig ben los te maken.</strong>
+                     </em> De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, <a href="/docs/4-tweede-deel/6-sacramenten/#dubbel-priesterschap-zowel-in-het-oud-als-het-nieuw-testament">over de voorbereiding tot de Heilige Communie</a>.</p>
+               </li>
+            </ul>
+         </text>
+         <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+         <day>
+            <coordinates>A027</coordinates>
+            <date>2022-12-10</date>
+            <cyear>2022</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Saturday, December 10, 2022</date>
+                <date lang="fr">samedi 10 décembre 2022</date>
+                <date lang="nl">zaterdag 10 december 2022</date>
+            </i18n>
+            <rss>Sat, 10 Dec 2022 00:00:00 +0000</rss>
+            <title>Derde Zondag van den Advent.</title>
+            <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+            <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+            <day>
+               <coordinates>A026</coordinates>
+               <date>2022-12-09</date>
+               <cyear>2022</cyear>
+               <month>12</month>
+               <form>eo</form>
+               <cycle>None</cycle>
+               <i18n>
+                  <date lang="en">Friday, December 9, 2022</date>
+                  <date lang="fr">vendredi 9 décembre 2022</date>
+                  <date lang="nl">vrijdag 9 december 2022</date>
+               </i18n>
+               <rss>Fri, 09 Dec 2022 00:00:00 +0000</rss>
+               <title>Derde Zondag van den Advent.</title>
+               <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+               <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+               <day>
+                  <coordinates>Z1208</coordinates>
+                  <date>2022-12-08</date>
+                  <cyear>2022</cyear>
+                  <month>12</month>
+                  <form>eo</form>
+                  <cycle>None</cycle>
+                  <i18n>
+                     <date lang="en">Thursday, December 8, 2022</date>
+                     <date lang="fr">jeudi 8 décembre 2022</date>
+                     <date lang="nl">donderdag 8 december 2022</date>
+                  </i18n>
+                  <rss>Thu, 08 Dec 2022 00:00:00 +0000</rss>
+                  <title>Derde Zondag van den Advent.</title>
+                  <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+                  <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+                  <day>
+                     <coordinates>A024</coordinates>
+                     <date>2022-12-07</date>
+                     <cyear>2022</cyear>
+                     <month>12</month>
+                     <form>eo</form>
+                     <cycle>None</cycle>
+                     <i18n>
+                        <date lang="en">Wednesday, December 7, 2022</date>
+                        <date lang="fr">mercredi 7 décembre 2022</date>
+                        <date lang="nl">woensdag 7 december 2022</date>
+                     </i18n>
+                     <rss>Wed, 07 Dec 2022 00:00:00 +0000</rss>
+                     <title>Derde Zondag van den Advent.</title>
+                     <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+                     <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+                     <day>
+                        <coordinates>A023</coordinates>
+                        <date>2022-12-06</date>
+                        <cyear>2022</cyear>
+                        <month>12</month>
+                        <form>eo</form>
+                        <cycle>None</cycle>
+                        <i18n>
+                           <date lang="en">Tuesday, December 6, 2022</date>
+                           <date lang="fr">mardi 6 décembre 2022</date>
+                           <date lang="nl">dinsdag 6 december 2022</date>
+                        </i18n>
+                        <rss>Tue, 06 Dec 2022 00:00:00 +0000</rss>
+                        <title>Derde Zondag van den Advent.</title>
+                        <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+                        <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+                        <day>
+                           <coordinates>A022</coordinates>
+                           <date>2022-12-05</date>
+                           <cyear>2022</cyear>
+                           <month>12</month>
+                           <form>eo</form>
+                           <cycle>None</cycle>
+                           <i18n>
+                              <date lang="en">Monday, December 5, 2022</date>
+                              <date lang="fr">lundi 5 décembre 2022</date>
+                              <date lang="nl">maandag 5 december 2022</date>
+                           </i18n>
+                           <rss>Mon, 05 Dec 2022 00:00:00 +0000</rss>
+                           <title>Derde Zondag van den Advent.</title>
+                           <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+                           <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+                        </day>
+                     </day>
+                  </day>
+               </day>
+            </day>
+         </day>
+      </day>
+        
+        
+        
+        
+        
+        
+        <day>
+            <coordinates>A041</coordinates>
+            <date>2022-12-18</date>
+            <cyear>2022</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 18, 2022</date>
+                <date lang="fr">dimanche 18 décembre 2022</date>
+                <date lang="nl">zondag 18 december 2022</date>
+            </i18n>
+            <rss>Sun, 18 Dec 2022 00:00:00 +0000</rss>
+        <title>Vierde Zondag van den Advent.</title>
+         <text>
+            <ul>
+               <li>
+                  <p>
+                     <em>
+                        <strong>In het vijftiende jaar der regeering van keizer Tiberius…</strong>
+                     </em> Luc. III, 1. Voor de vermelding van deze vorsten kan men denzelfden uitleg geven als voor <a href="/docs/3-eerste-deel/4-symbolum/#waarom-wordt-de-landvoogd-van-judea-in-het-symbolum-vermeld-">de vermelding van Pontius Pilatus in het vierde artikel van het Symbolum</a>.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Kwam het Woord van God over Joannes…</strong>
+                     </em> Joannes werd door God geroepen om te prediken. Daarom kan men hier handelen over de <a href="/docs/4-tweede-deel/6-sacramenten/#wie-wordt-er-door-god-tot-het-priesterschap-en-de-kerkelijke-bediening-geroepen-">wettige roeping van de bedienaars van de Kerk</a>. <a href="/docs/2-inleiding/inleiding/#de-oorsprong-der-uitmuntende-gave-van-het-geloof">Wie geen zending heeft, kan geen wettige bedienaar zijn</a>.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>
+                        <strong>In de woestijn.</strong>
+                     </em> De bedienaars van het woord (de priesters) <a href="/docs/4-tweede-deel/6-sacramenten/#de-wijdeling-moet-onberispelijk-zijn-in-zijn-leven-en-zeden">moeten onberispelijk zijn</a> ; hier kan gesproken worden over de belofte van zuiverheid die gevergd wordt voor de <a href="/docs/4-tweede-deel/6-sacramenten/#bediening-van-de-subdiaken">wijding tot Subdiaken</a>.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Hij predikte een Doopsel van boetvaardigheid.</strong>
+                     </em> 
+                     <a href="/docs/4-tweede-deel/1-sacramenten/#hoe-moeten-de-dopelingen-gesteld-zijn-">Welke gesteltenissen vereischt zijn</a> voor het Doopsel van volwassenen.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Bereidt den weg van den Heer, maakt zijn paden recht.</strong>
+                     </em> Voorbereiding tot de Heilige Communie, waarover reeds gesproken werd den vorigen Zondag. <a href="/docs/5-derde-deel/0-geboden/">Onderhouden van de geboden van God</a>.</p>
+               </li>
+            </ul>
+         </text>
+         <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A041</url>
+         <day>
+            <coordinates>A037</coordinates>
+            <date>2022-12-17</date>
+            <cyear>2022</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Saturday, December 17, 2022</date>
+                <date lang="fr">samedi 17 décembre 2022</date>
+                <date lang="nl">zaterdag 17 december 2022</date>
+            </i18n>
+            <rss>Sat, 17 Dec 2022 00:00:00 +0000</rss>
+            <title>Vierde Zondag van den Advent.</title>
+            <text>
+
+In het vijftiende jaar der regeering van keizer Tiberius… Luc. III, 1. Voor de vermelding van deze vorsten kan men denzelfden uitleg geven als voor de vermelding van Pontius Pilatus in het vierde artikel van het Symbolum.
+
+
+Kwam het Woord van God over Joannes… Joannes werd door God geroepen om te prediken. Daarom kan men hier handelen over de wettige roeping van de bedienaars van de Kerk. Wie geen zending heeft, kan geen wettige bedienaar zijn.
+
+
+In de woestijn. De bedienaars van het woord (de priesters) moeten onberispelijk zijn ; hier kan gesproken worden over de belofte van zuiverheid die gevergd wordt voor de wijding tot Subdiaken.
+
+
+Hij predikte een Doopsel van boetvaardigheid. Welke gesteltenissen vereischt zijn voor het Doopsel van volwassenen.
+
+
+Bereidt den weg van den Heer, maakt zijn paden recht. Voorbereiding tot de Heilige Communie, waarover reeds gesproken werd den vorigen Zondag. Onderhouden van de geboden van God.
+
+</text>
+            <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A041</url>
+            <day>
+               <coordinates>A036</coordinates>
+               <date>2022-12-16</date>
+               <cyear>2022</cyear>
+               <month>12</month>
+               <form>eo</form>
+               <cycle>None</cycle>
+               <i18n>
+                  <date lang="en">Friday, December 16, 2022</date>
+                  <date lang="fr">vendredi 16 décembre 2022</date>
+                  <date lang="nl">vrijdag 16 december 2022</date>
+               </i18n>
+               <rss>Fri, 16 Dec 2022 00:00:00 +0000</rss>
+               <title>Vierde Zondag van den Advent.</title>
+               <text>
+
+In het vijftiende jaar der regeering van keizer Tiberius… Luc. III, 1. Voor de vermelding van deze vorsten kan men denzelfden uitleg geven als voor de vermelding van Pontius Pilatus in het vierde artikel van het Symbolum.
+
+
+Kwam het Woord van God over Joannes… Joannes werd door God geroepen om te prediken. Daarom kan men hier handelen over de wettige roeping van de bedienaars van de Kerk. Wie geen zending heeft, kan geen wettige bedienaar zijn.
+
+
+In de woestijn. De bedienaars van het woord (de priesters) moeten onberispelijk zijn ; hier kan gesproken worden over de belofte van zuiverheid die gevergd wordt voor de wijding tot Subdiaken.
+
+
+Hij predikte een Doopsel van boetvaardigheid. Welke gesteltenissen vereischt zijn voor het Doopsel van volwassenen.
+
+
+Bereidt den weg van den Heer, maakt zijn paden recht. Voorbereiding tot de Heilige Communie, waarover reeds gesproken werd den vorigen Zondag. Onderhouden van de geboden van God.
+
+</text>
+               <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A041</url>
+               <day>
+                  <coordinates>A035</coordinates>
+                  <date>2022-12-15</date>
+                  <cyear>2022</cyear>
+                  <month>12</month>
+                  <form>eo</form>
+                  <cycle>None</cycle>
+                  <i18n>
+                     <date lang="en">Thursday, December 15, 2022</date>
+                     <date lang="fr">jeudi 15 décembre 2022</date>
+                     <date lang="nl">donderdag 15 december 2022</date>
+                  </i18n>
+                  <rss>Thu, 15 Dec 2022 00:00:00 +0000</rss>
+                  <title>Vierde Zondag van den Advent.</title>
+                  <text>
+
+In het vijftiende jaar der regeering van keizer Tiberius… Luc. III, 1. Voor de vermelding van deze vorsten kan men denzelfden uitleg geven als voor de vermelding van Pontius Pilatus in het vierde artikel van het Symbolum.
+
+
+Kwam het Woord van God over Joannes… Joannes werd door God geroepen om te prediken. Daarom kan men hier handelen over de wettige roeping van de bedienaars van de Kerk. Wie geen zending heeft, kan geen wettige bedienaar zijn.
+
+
+In de woestijn. De bedienaars van het woord (de priesters) moeten onberispelijk zijn ; hier kan gesproken worden over de belofte van zuiverheid die gevergd wordt voor de wijding tot Subdiaken.
+
+
+Hij predikte een Doopsel van boetvaardigheid. Welke gesteltenissen vereischt zijn voor het Doopsel van volwassenen.
+
+
+Bereidt den weg van den Heer, maakt zijn paden recht. Voorbereiding tot de Heilige Communie, waarover reeds gesproken werd den vorigen Zondag. Onderhouden van de geboden van God.
+
+</text>
+                  <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A041</url>
+                  <day>
+                     <coordinates>A034</coordinates>
+                     <date>2022-12-14</date>
+                     <cyear>2022</cyear>
+                     <month>12</month>
+                     <form>eo</form>
+                     <cycle>None</cycle>
+                     <i18n>
+                        <date lang="en">Wednesday, December 14, 2022</date>
+                        <date lang="fr">mercredi 14 décembre 2022</date>
+                        <date lang="nl">woensdag 14 december 2022</date>
+                     </i18n>
+                     <rss>Wed, 14 Dec 2022 00:00:00 +0000</rss>
+                     <title>Vierde Zondag van den Advent.</title>
+                     <text>
+
+In het vijftiende jaar der regeering van keizer Tiberius… Luc. III, 1. Voor de vermelding van deze vorsten kan men denzelfden uitleg geven als voor de vermelding van Pontius Pilatus in het vierde artikel van het Symbolum.
+
+
+Kwam het Woord van God over Joannes… Joannes werd door God geroepen om te prediken. Daarom kan men hier handelen over de wettige roeping van de bedienaars van de Kerk. Wie geen zending heeft, kan geen wettige bedienaar zijn.
+
+
+In de woestijn. De bedienaars van het woord (de priesters) moeten onberispelijk zijn ; hier kan gesproken worden over de belofte van zuiverheid die gevergd wordt voor de wijding tot Subdiaken.
+
+
+Hij predikte een Doopsel van boetvaardigheid. Welke gesteltenissen vereischt zijn voor het Doopsel van volwassenen.
+
+
+Bereidt den weg van den Heer, maakt zijn paden recht. Voorbereiding tot de Heilige Communie, waarover reeds gesproken werd den vorigen Zondag. Onderhouden van de geboden van God.
+
+</text>
+                     <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A041</url>
+                     <day>
+                        <coordinates>A033</coordinates>
+                        <date>2022-12-13</date>
+                        <cyear>2022</cyear>
+                        <month>12</month>
+                        <form>eo</form>
+                        <cycle>None</cycle>
+                        <i18n>
+                           <date lang="en">Tuesday, December 13, 2022</date>
+                           <date lang="fr">mardi 13 décembre 2022</date>
+                           <date lang="nl">dinsdag 13 december 2022</date>
+                        </i18n>
+                        <rss>Tue, 13 Dec 2022 00:00:00 +0000</rss>
+                        <title>Vierde Zondag van den Advent.</title>
+                        <text>
+
+In het vijftiende jaar der regeering van keizer Tiberius… Luc. III, 1. Voor de vermelding van deze vorsten kan men denzelfden uitleg geven als voor de vermelding van Pontius Pilatus in het vierde artikel van het Symbolum.
+
+
+Kwam het Woord van God over Joannes… Joannes werd door God geroepen om te prediken. Daarom kan men hier handelen over de wettige roeping van de bedienaars van de Kerk. Wie geen zending heeft, kan geen wettige bedienaar zijn.
+
+
+In de woestijn. De bedienaars van het woord (de priesters) moeten onberispelijk zijn ; hier kan gesproken worden over de belofte van zuiverheid die gevergd wordt voor de wijding tot Subdiaken.
+
+
+Hij predikte een Doopsel van boetvaardigheid. Welke gesteltenissen vereischt zijn voor het Doopsel van volwassenen.
+
+
+Bereidt den weg van den Heer, maakt zijn paden recht. Voorbereiding tot de Heilige Communie, waarover reeds gesproken werd den vorigen Zondag. Onderhouden van de geboden van God.
+
+</text>
+                        <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A041</url>
+                        <day>
+                           <coordinates>A032</coordinates>
+                           <date>2022-12-12</date>
+                           <cyear>2022</cyear>
+                           <month>12</month>
+                           <form>eo</form>
+                           <cycle>None</cycle>
+                           <i18n>
+                              <date lang="en">Monday, December 12, 2022</date>
+                              <date lang="fr">lundi 12 décembre 2022</date>
+                              <date lang="nl">maandag 12 december 2022</date>
+                           </i18n>
+                           <rss>Mon, 12 Dec 2022 00:00:00 +0000</rss>
+                           <title>Vierde Zondag van den Advent.</title>
+                           <text>
+
+In het vijftiende jaar der regeering van keizer Tiberius… Luc. III, 1. Voor de vermelding van deze vorsten kan men denzelfden uitleg geven als voor de vermelding van Pontius Pilatus in het vierde artikel van het Symbolum.
+
+
+Kwam het Woord van God over Joannes… Joannes werd door God geroepen om te prediken. Daarom kan men hier handelen over de wettige roeping van de bedienaars van de Kerk. Wie geen zending heeft, kan geen wettige bedienaar zijn.
+
+
+In de woestijn. De bedienaars van het woord (de priesters) moeten onberispelijk zijn ; hier kan gesproken worden over de belofte van zuiverheid die gevergd wordt voor de wijding tot Subdiaken.
+
+
+Hij predikte een Doopsel van boetvaardigheid. Welke gesteltenissen vereischt zijn voor het Doopsel van volwassenen.
+
+
+Bereidt den weg van den Heer, maakt zijn paden recht. Voorbereiding tot de Heilige Communie, waarover reeds gesproken werd den vorigen Zondag. Onderhouden van de geboden van God.
+
+</text>
+                           <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A041</url>
+                        </day>
+                     </day>
+                  </day>
+               </day>
+            </day>
+         </day>
+      </day>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </year>
+    <year value="2024">
+        <day>
+            <coordinates>A011</coordinates>
+            <date>2023-12-03</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 3, 2023</date>
+                <date lang="fr">dimanche 3 décembre 2023</date>
+                <date lang="nl">zondag 3 december 2023</date>
+            </i18n>
+            <rss>Sun, 03 Dec 2023 00:00:00 +0000</rss>
+        <title>Eerste Zondag van den Advent.</title>
+         <text>
+            <ul>
+               <li>
+                  <em>
+                     <strong>Er zullen teekenen zijn in zon en maan, enz.</strong>
+                  </em> Luc. XXI, 25 en volg.  Dit Evangelie moet behandeld worden in verband met het algemeen oordeel, Daarom zal de pastoor hier gebruiken hetgeen gezegd werd over het <a href="/docs/3-eerste-deel/7-symbolum/">zevende artikel van het Symbolum</a> : « Vandaar zal Hij komen oordeelen de levenden en de dooden ».</li>
+            </ul>
+         </text>
+         <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A011</url>
+      </day>
+        
+        
+        
+        
+        
+        
+        <day>
+            <coordinates>A021</coordinates>
+            <date>2023-12-10</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 10, 2023</date>
+                <date lang="fr">dimanche 10 décembre 2023</date>
+                <date lang="nl">zondag 10 december 2023</date>
+            </i18n>
+            <rss>Sun, 10 Dec 2023 00:00:00 +0000</rss>
+        <title>Tweede Zondag van den Advent.</title>
+         <text>
+            <ul>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt…</strong>
+                     </em> Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het <a href="/docs/3-eerste-deel/0-symbolum/">eerste hoofdstuk van den catechismus</a>.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>
+                        <strong>In de gevangenis.</strong>
+                     </em> We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, <a href="/docs/3-eerste-deel/1-symbolum/#het-geloof-is-niet-voldoende-voor-de-zaligheid-we-moeten-het-ook-belijden">we moeten het ook belijden</a>.</p>
+               </li>
+            </ul>
+         </text>
+         <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+         <day>
+            <coordinates>A017</coordinates>
+            <date>2023-12-09</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Saturday, December 9, 2023</date>
+                <date lang="fr">samedi 9 décembre 2023</date>
+                <date lang="nl">zaterdag 9 december 2023</date>
+            </i18n>
+            <rss>Sat, 09 Dec 2023 00:00:00 +0000</rss>
+            <title>Tweede Zondag van den Advent.</title>
+            <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+            <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+            <day>
+               <coordinates>Z1208</coordinates>
+               <date>2023-12-08</date>
+               <cyear>2023</cyear>
+               <month>12</month>
+               <form>eo</form>
+               <cycle>None</cycle>
+               <i18n>
+                  <date lang="en">Friday, December 8, 2023</date>
+                  <date lang="fr">vendredi 8 décembre 2023</date>
+                  <date lang="nl">vrijdag 8 december 2023</date>
+               </i18n>
+               <rss>Fri, 08 Dec 2023 00:00:00 +0000</rss>
+               <title>Tweede Zondag van den Advent.</title>
+               <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+               <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+               <day>
+                  <coordinates>A015</coordinates>
+                  <date>2023-12-07</date>
+                  <cyear>2023</cyear>
+                  <month>12</month>
+                  <form>eo</form>
+                  <cycle>None</cycle>
+                  <i18n>
+                     <date lang="en">Thursday, December 7, 2023</date>
+                     <date lang="fr">jeudi 7 décembre 2023</date>
+                     <date lang="nl">donderdag 7 december 2023</date>
+                  </i18n>
+                  <rss>Thu, 07 Dec 2023 00:00:00 +0000</rss>
+                  <title>Tweede Zondag van den Advent.</title>
+                  <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+                  <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+                  <day>
+                     <coordinates>A014</coordinates>
+                     <date>2023-12-06</date>
+                     <cyear>2023</cyear>
+                     <month>12</month>
+                     <form>eo</form>
+                     <cycle>None</cycle>
+                     <i18n>
+                        <date lang="en">Wednesday, December 6, 2023</date>
+                        <date lang="fr">mercredi 6 décembre 2023</date>
+                        <date lang="nl">woensdag 6 december 2023</date>
+                     </i18n>
+                     <rss>Wed, 06 Dec 2023 00:00:00 +0000</rss>
+                     <title>Tweede Zondag van den Advent.</title>
+                     <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+                     <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+                     <day>
+                        <coordinates>A013</coordinates>
+                        <date>2023-12-05</date>
+                        <cyear>2023</cyear>
+                        <month>12</month>
+                        <form>eo</form>
+                        <cycle>None</cycle>
+                        <i18n>
+                           <date lang="en">Tuesday, December 5, 2023</date>
+                           <date lang="fr">mardi 5 décembre 2023</date>
+                           <date lang="nl">dinsdag 5 december 2023</date>
+                        </i18n>
+                        <rss>Tue, 05 Dec 2023 00:00:00 +0000</rss>
+                        <title>Tweede Zondag van den Advent.</title>
+                        <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+                        <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+                        <day>
+                           <coordinates>A012</coordinates>
+                           <date>2023-12-04</date>
+                           <cyear>2023</cyear>
+                           <month>12</month>
+                           <form>eo</form>
+                           <cycle>None</cycle>
+                           <i18n>
+                              <date lang="en">Monday, December 4, 2023</date>
+                              <date lang="fr">lundi 4 décembre 2023</date>
+                              <date lang="nl">maandag 4 december 2023</date>
+                           </i18n>
+                           <rss>Mon, 04 Dec 2023 00:00:00 +0000</rss>
+                           <title>Tweede Zondag van den Advent.</title>
+                           <text>
+
+Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt… Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het eerste hoofdstuk van den catechismus.
+
+
+In de gevangenis. We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, we moeten het ook belijden.
+
+</text>
+                           <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A021</url>
+                        </day>
+                     </day>
+                  </day>
+               </day>
+            </day>
+         </day>
+      </day>
+        
+        
+        
+        
+        
+        
+        <day>
+            <coordinates>A031</coordinates>
+            <date>2023-12-17</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Sunday, December 17, 2023</date>
+                <date lang="fr">dimanche 17 décembre 2023</date>
+                <date lang="nl">zondag 17 december 2023</date>
+            </i18n>
+            <rss>Sun, 17 Dec 2023 00:00:00 +0000</rss>
+        <title>Derde Zondag van den Advent.</title>
+         <text>
+            <ul>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Hij bekende zonder ontveinzen…</strong>
+                     </em> Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. <a href="/docs/5-derde-deel/2-geboden/#heeft-christus-de-eed-verboden-">Wanneer de eed verboden is</a>.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Waarom doopt gij dan, als gij de Christus niet zijt…</strong>
+                     </em> Hier kunnen we handelen over <a href="/docs/4-tweede-deel/1-sacramenten/#wie-mag-het-doopsel-toedienen-">den bedienaar van het Doopsel</a>, en over <a href="/docs/4-tweede-deel/0-sacramenten/#de-bedienaar-kan-door-zijn-eigen-onwaardigheid-geen-beletsel-zijn-voor-de-kracht-van-de-sacramentele-genade">den invloed van den bedienaar op het uitwerksel van het sacrament</a>.</p>
+               </li>
+               <li>
+                  <p>
+                     <em>
+                        <strong>Wiens schoenriem ik niet waardig ben los te maken.</strong>
+                     </em> De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, <a href="/docs/4-tweede-deel/6-sacramenten/#dubbel-priesterschap-zowel-in-het-oud-als-het-nieuw-testament">over de voorbereiding tot de Heilige Communie</a>.</p>
+               </li>
+            </ul>
+         </text>
+         <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+         <day>
+            <coordinates>A027</coordinates>
+            <date>2023-12-16</date>
+            <cyear>2023</cyear>
+            <month>12</month>
+            <form>eo</form>
+            <cycle>None</cycle>
+            <i18n>
+                <date lang="en">Saturday, December 16, 2023</date>
+                <date lang="fr">samedi 16 décembre 2023</date>
+                <date lang="nl">zaterdag 16 december 2023</date>
+            </i18n>
+            <rss>Sat, 16 Dec 2023 00:00:00 +0000</rss>
+            <title>Derde Zondag van den Advent.</title>
+            <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+            <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+            <day>
+               <coordinates>A026</coordinates>
+               <date>2023-12-15</date>
+               <cyear>2023</cyear>
+               <month>12</month>
+               <form>eo</form>
+               <cycle>None</cycle>
+               <i18n>
+                  <date lang="en">Friday, December 15, 2023</date>
+                  <date lang="fr">vendredi 15 décembre 2023</date>
+                  <date lang="nl">vrijdag 15 december 2023</date>
+               </i18n>
+               <rss>Fri, 15 Dec 2023 00:00:00 +0000</rss>
+               <title>Derde Zondag van den Advent.</title>
+               <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+               <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+               <day>
+                  <coordinates>A025</coordinates>
+                  <date>2023-12-14</date>
+                  <cyear>2023</cyear>
+                  <month>12</month>
+                  <form>eo</form>
+                  <cycle>None</cycle>
+                  <i18n>
+                     <date lang="en">Thursday, December 14, 2023</date>
+                     <date lang="fr">jeudi 14 décembre 2023</date>
+                     <date lang="nl">donderdag 14 december 2023</date>
+                  </i18n>
+                  <rss>Thu, 14 Dec 2023 00:00:00 +0000</rss>
+                  <title>Derde Zondag van den Advent.</title>
+                  <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+                  <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+                  <day>
+                     <coordinates>A024</coordinates>
+                     <date>2023-12-13</date>
+                     <cyear>2023</cyear>
+                     <month>12</month>
+                     <form>eo</form>
+                     <cycle>None</cycle>
+                     <i18n>
+                        <date lang="en">Wednesday, December 13, 2023</date>
+                        <date lang="fr">mercredi 13 décembre 2023</date>
+                        <date lang="nl">woensdag 13 december 2023</date>
+                     </i18n>
+                     <rss>Wed, 13 Dec 2023 00:00:00 +0000</rss>
+                     <title>Derde Zondag van den Advent.</title>
+                     <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+                     <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+                     <day>
+                        <coordinates>A023</coordinates>
+                        <date>2023-12-12</date>
+                        <cyear>2023</cyear>
+                        <month>12</month>
+                        <form>eo</form>
+                        <cycle>None</cycle>
+                        <i18n>
+                           <date lang="en">Tuesday, December 12, 2023</date>
+                           <date lang="fr">mardi 12 décembre 2023</date>
+                           <date lang="nl">dinsdag 12 december 2023</date>
+                        </i18n>
+                        <rss>Tue, 12 Dec 2023 00:00:00 +0000</rss>
+                        <title>Derde Zondag van den Advent.</title>
+                        <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+                        <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+                        <day>
+                           <coordinates>A022</coordinates>
+                           <date>2023-12-11</date>
+                           <cyear>2023</cyear>
+                           <month>12</month>
+                           <form>eo</form>
+                           <cycle>None</cycle>
+                           <i18n>
+                              <date lang="en">Monday, December 11, 2023</date>
+                              <date lang="fr">lundi 11 décembre 2023</date>
+                              <date lang="nl">maandag 11 december 2023</date>
+                           </i18n>
+                           <rss>Mon, 11 Dec 2023 00:00:00 +0000</rss>
+                           <title>Derde Zondag van den Advent.</title>
+                           <text>
+
+Hij bekende zonder ontveinzen… Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. Wanneer de eed verboden is.
+
+
+Waarom doopt gij dan, als gij de Christus niet zijt… Hier kunnen we handelen over den bedienaar van het Doopsel, en over den invloed van den bedienaar op het uitwerksel van het sacrament.
+
+
+Wiens schoenriem ik niet waardig ben los te maken. De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, over de voorbereiding tot de Heilige Communie.
+
+</text>
+                           <url>https://trente.gelovenleren.net/docs/7-kalender/kalender/#eo.A031</url>
+                        </day>
+                     </day>
+                  </day>
+               </day>
+            </day>
+         </day>
+      </day>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </year>
+</calendar>

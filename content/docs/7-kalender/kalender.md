@@ -5,17 +5,17 @@ title: "Liturgische kalender"
 
 # Gebruik van den Catechismus aangepast aan de Zondagen van het jaar.
 
-## Eerste Zondag van den Advent.
+## Eerste Zondag van den Advent. {#eo.A011}
 
 - ***Er zullen teekenen zijn in zon en maan, enz.*** Luc. XXI, 25 en volg.  Dit Evangelie moet behandeld worden in verband met het algemeen oordeel, Daarom zal de pastoor hier gebruiken hetgeen gezegd werd over het [zevende artikel van het Symbolum](/docs/3-eerste-deel/7-symbolum/) : « Vandaar zal Hij komen oordeelen de levenden en de dooden ».
 
-## Tweede Zondag van den Advent.
+## Tweede Zondag van den Advent. {#eo.A021}
 
 - ***Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt…*** Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het [eerste hoofdstuk van den catechismus](/docs/3-eerste-deel/0-symbolum/).
 
 - ***In de gevangenis.*** We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, [we moeten het ook belijden](/docs/3-eerste-deel/1-symbolum/#het-geloof-is-niet-voldoende-voor-de-zaligheid-we-moeten-het-ook-belijden).
 
-## Derde Zondag van den Advent.
+## Derde Zondag van den Advent. {#eo.A031}
 
 - ***Hij bekende zonder ontveinzen…*** Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. [Wanneer de eed verboden is](/docs/5-derde-deel/2-geboden/#heeft-christus-de-eed-verboden-).
 
@@ -23,7 +23,7 @@ title: "Liturgische kalender"
 
 - ***Wiens schoenriem ik niet waardig ben los te maken.*** De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, [over de voorbereiding tot de Heilige Communie](/docs/4-tweede-deel/6-sacramenten/#dubbel-priesterschap-zowel-in-het-oud-als-het-nieuw-testament).
 
-## Vierde Zondag van den Advent.
+## Vierde Zondag van den Advent. {#eo.A041}
 
 - ***In het vijftiende jaar der regeering van keizer Tiberius…*** Luc. III, 1. Voor de vermelding van deze vorsten kan men denzelfden uitleg geven als voor [de vermelding van Pontius Pilatus in het vierde artikel van het Symbolum](/docs/3-eerste-deel/4-symbolum/#waarom-wordt-de-landvoogd-van-judea-in-het-symbolum-vermeld-).
 
@@ -276,52 +276,54 @@ title: "Liturgische kalender"
 ## Zesde Zondag na Sinksen.
 
 - ***Ik heb deernis met de menigte, want het is reeds drie dagen dat zij bij mij blijven.*** Marc. VIII, 2. Zie vierde Zondag van de vasten. Verder kan men hier spreken [over de vaderlijke zorg van God voor de menschen](/docs/6-vierde-deel/9-gebed/#eerste-reden-waarom-god-door-de-mensen-vader-genoemd-wordt).  
-- Zoo ik hen nuchter naar huis zend, zullen zij onderwer bezwijken. Zwakheid van de menschen, die onbekwaam zijneenig goed werk te doen zonder de hulp van God L. 638.
+- ***Zoo ik hen nuchter naar huis zend, zullen zij onderweg bezwijken.*** Zwakheid van de menschen, die [onbekwaam zijn eenig goed werk te doen zonder de hulp van God](/docs/6-vierde-deel/12-gebed/#we-zijn-onbekwaam-om-iets-goed-te-doen).
 
 ## Zevende Zondag na Sinksen.
 
-- Wacht u voor de walsche profeten.  Matth. VII, 15. We moeten op onze hoede zijn voor de ketters — bl. 113.  De ketters behooren niet tot de Kerk — bl. rig ; ze kan hen nochtans straffen — bl. 120. Welke middelen gebruiken die valsche profeten om hun dwaalleer te verspreiden ? — bl. 4.  
-- … wordt èn het vuur geworpen, Het eeuwig vuur — bl. 100, Wie den Wil doet van wijn Vader. Dit woord wijst ons den korsten weg naar den hemel ; daarom moeten wij het altijd voor oogen hebben. Zie de derde vraag van het Onze Vader — bl. 636.
+- ***Wacht u voor de valsche profeten.***  Matth. VII, 15. We moeten [op onze hoede zijn voor de ketters](/docs/3-eerste-deel/9-symbolum/#dit-artikel-moet-meest-van-al-onderwezen-worden).  De ketters [behooren niet tot de Kerk](/docs/3-eerste-deel/9-symbolum/#wie-niet-tot-de-strijdende-kerk-behoort) ; ze kan hen nochtans straffen. [Welke middelen gebruiken die valsche profeten](/docs/2-inleiding/inleiding/#de-ketters-hebben-vooral-hun-catechismus-gebruikt-om-de-geest-der-christenen-te-misleiden) om hun dwaalleer te verspreiden ?  
+- ***… wordt èn het vuur geworpen.*** [Het eeuwig vuur](/docs/3-eerste-deel/7-symbolum/#de-pijn-van-gevoelen-en-het-gezelschap-der-verdoemden). 
+- ***Wie den Wil doet van wijn Vader.*** Dit woord wijst ons den korsten weg naar den hemel ; daarom moeten wij het altijd voor oogen hebben. Zie de [derde vraag van het Onze Vader](/docs/6-vierde-deel/12-gebed/).
 
 ## Achtste Zondag na Sinksen.
 
-- Geef rekenschap van uw beheer. Luc. XVI, 2. ledereen moet rekenschap geven onmiddellijk na den dood — bl. 94.
-- Alaakt u vrienden met het onrechtvaardig geld. Over de aalmoes, zie bl. 540. Voorspraak van de heiligen — bl. 449.
+- ***Geef rekenschap van uw beheer.*** Luc. XVI, 2. Iedereen moet [rekenschap geven onmiddellijk na den dood](/docs/3-eerste-deel/7-symbolum/#hoe-dikwijls-ieder-mens-het-oordeel-van-christus-zal-ondergaan).
+- ***Maakt u vrienden met het onrechtvaardig geld.*** [Over de aalmoes](/docs/5-derde-deel/7-geboden/#de-aalmoes-wordt-door-dit-gebod-voorgeschreven). [Voorspraak van de heiligen](/docs/5-derde-deel/1-geboden/#de-eredienst-van-de-heiligen-is-niet-in-strijd-met-dit-gebod).
 
 ## Negende Zondag na Sinksen.
 
-- Mij weende over haar. Luc. XIX, 41. Jezus weent om ons te leeren weenen. Berouw — bl. 332.
-- „Ils ook gij op dezen dag erkend hadt. De mensch is niet bewust van zijn ellende — bl. 637.
-- Dagen zullen er over u komen. Jeruzalem wordt als voorbeeld gesteld voor nen die misbruik maken van de weldaden van God — bl. 69o.
+- ***Hij weende over haar.*** Luc. XIX, 41. Jezus weent om ons te leeren weenen. [Berouw](/docs/4-tweede-deel/4-sacramenten/#wat-is-het-berouw-).
+- ***Als ook gij op dezen dag erkend hadt.*** [De mensch is niet bewust van zijn ellende](/docs/6-vierde-deel/12-gebed/#de-mens-is-niet-bewust-van-zijn-ellende).
+- ***Dagen zullen er over u komen.*** Jeruzalem wordt als voorbeeld gesteld voor hen die [misbruik maken van de weldaden van God](/docs/6-vierde-deel/15-gebed/#ook-de-weldaden-van-god-kunnen-ons-in-bekoring-leiden).
 
 ## Tiende Zondag na Sinksen.
 
-- De Farizeër bad zoo bij zich zelven. Luc. XVIII, 11.  Welke eigenschappen moet het gebed bezitten om aan God te behagen en om verhoord te worden ? — bl. 598.  
-- God, wees mij, zondaar, genadig. Voorbeeld van boetvaar- digheid — bl. 680. Nederigheid is noodig om goed te bidden — bl. 593.
-- Wie zich verheft, sal vernederd worden. Het voorbeeld van de nederigheid van Christus is best geschikt om onzen hoogmoed te beschamen — bl, 70, 71.
+- ***De Farizeër bad zoo bij zich zelven.*** Luc. XVIII, 11.  [Welke eigenschappen moet het gebed bezitten](/docs/6-vierde-deel/8-gebed/#we-moeten-bidden-in-geest-en-in-waarheid) om aan God te behagen en om verhoord te worden ?  
+- ***God, wees mij, zondaar, genadig.*** [Voorbeeld van boetvaardigheid](/docs/6-vierde-deel/14-gebed/#wat-is-er-nodig-om-dit-gebed-vruchtbaar-te-maken-). [Nederigheid is noodig](/docs/6-vierde-deel/7-gebed/#gesteltenissen-die-nodig-zijn-om-goed-te-bidden) om goed te bidden.
+- ***Wie zich verheft, zal vernederd worden.*** Het [voorbeeld van de nederigheid van Christus](/docs/3-eerste-deel/4-symbolum/#hoe-kon-het-lijden-van-christus-ons-zo-grote-voordelen-verdienen-) is best geschikt om onzen hoogmoed te beschamen.
 
 ## Elfde Zondag na Sinksen.
 
-- Ze smeeken Hem om hem de hand op te leggen. Marc. VII, 32.  Deze menschen die voor cen doofstomme van Jezus de genezing afsmeeken, leeren ons dat we voor andercn moeten bidden. Voor wie moeten we bidden en hoe ? — bl. 587.  
-- 1lij stak zijn wingeren in gijn ooren. Naar het voorbeeld van Christus, teekenen wij, in het Doopsel, de oogen, de ooren, de borst en de schouders van het kind met het heilig kruisteeken. Zie de ceremoniën van het Doopsel — bl, 235.  
-- Opztende naar den hemel zuchtte Hij. Waarom zeggen wij dat God in den hemel woont, als Hij toch overal tegenwoordig is ? — bl, 615. De Heilige Schriftuur zegt dat wij doof en stom en blind zijn door de zonde ; zie de gevolgen van de zonde — bl. 66g.
+- ***Ze smeeken Hem om hem de hand op te leggen.*** Marc. VII, 32.  Deze menschen die voor een doofstomme van Jezus de genezing afsmeeken, leeren ons dat we voor anderen moeten bidden. [Voor wie moeten we bidden en hoe](/docs/6-vierde-deel/5-gebed/#voor-wie-moet-men-vooral-bidden-) ?  
+- ***Hij stak zijn vingeren in zijn ooren.*** Naar het voorbeeld van Christus, teekenen wij, in het Doopsel, de oogen, de ooren, de borst en de schouders van het kind met het heilig kruisteeken. Zie de [ceremoniën van het Doopsel](/docs/4-tweede-deel/1-sacramenten/#indeling-van-de-ceremoni%C3%ABn-van-het-doopsel).  
+- ***Opziende naar den hemel zuchtte Hij.*** [Waarom zeggen wij dat God in den hemel woont](/docs/6-vierde-deel/9-gebed/#-die-in-de-hemelen-zijt---waarom-zeggen-we-dat-god-in-de-hemel-woont-als-hij-toch-overal-tegenwoordig-is-), als Hij toch overal tegenwoordig is ? De Heilige Schriftuur zegt dat wij doof en stom en blind zijn door de zonde ; zie [de gevolgen van de zonde](/docs/6-vierde-deel/14-gebed/#gevolgen-van-de-zonde).
 
 ## Twaalfde Zondag na Sinksen.
 
-- Gij zult den leer uw God beminnen uit geheel uw hart.  Luc. X, 27. Eerste gebod — bl. 443. Omdat het eerste deel van dit Evangelie overeenkomt met dat van den zeventienden Zondag, kan men vandaag het tweede deel uitleggen: 
-- Zeker mensch daalde van Jeruzalem af naar Jericho. Deze mensch, die in handen van roovers valt, stelt de mensche- lijke natuur voor zooals ze is na den zondeval — bl. 36, 627.
-- De Samaritaan goot olie en wijn in zijn wonden. Christus is de barmhartige Samaritaan, die ons de sacramenten gaf als geneesmiddel voor onze geestelijke kwalen — bl. 150.  
-- Zorg voor hem, De zorg voor heel het menschdom en voor heel de Kerk werd door Christus aan één mensch toevertrouwd — bl, 122, 403.  
-- Wie van deze drie is de naaste geweest. Wie is onze naaste ? bl. 549.
+- ***Gij zult den Heer uw God beminnen uit geheel uw hart.***  Luc. X, 27. [Eerste gebod](/docs/5-derde-deel/1-geboden/). Omdat het eerste deel van dit Evangelie overeenkomt met dat van den zeventienden Zondag, kan men vandaag het tweede deel uitleggen: 
+- ***Zeker mensch daalde van Jeruzalem af naar Jericho.*** Deze mensch, die in handen van roovers valt, stelt [de menschelijke natuur voor zooals ze is na den zondeval](/docs/6-vierde-deel/11-gebed/#door-vergelijking-met-andere-schepselen-begrijpen-we-nog-beter-de-ellende-van-de-mens).
+- ***De Samaritaan goot olie en wijn in zijn wonden.*** Christus is de barmhartige Samaritaan, die ons [de sacramenten gaf als geneesmiddel voor onze geestelijke kwalen](/docs/4-tweede-deel/0-sacramenten/#waarom-heeft-christus-de-sacramenten-ingesteld-).  
+- ***Zorg voor hem.*** De zorg voor heel het menschdom en voor heel de Kerk werd door Christus [aan één mensch toevertrouwd](/docs/3-eerste-deel/9-symbolum/#wat-we-moeten-denken-over-de-paus-van-rome-zichtbaar-hoofd-der-kerk-van-christus).  
+- ***Wie van deze drie is de naaste geweest...*** [Wie is onze naaste](/docs/5-derde-deel/8-geboden/#wie-wordt-hier-bedoeld-door-het-woord-naaste-) ?
 
 ## Dertiende Zondag na Sinksen.
 
-- Jesus, Meester, erbarm u onzer, De naam Jezus — bl. 39.  Gaat «u aan de priesters laten zien, Zie derde Zondag na Driekoningen, en ook bl. 345. Het berouw vergeeft de zonden — bl. 340, maar de biecht blijft noodig — bl. 343.
+- ***Jezus, Meester, erbarm u over ons.*** [De naam Jezus](/docs/3-eerste-deel/2-symbolum/#de-naam-jezus-komt-aan-christus-toe).
+- ***Gaat u aan de priesters laten zien.*** Zie derde Zondag na Driekoningen, en ook [dat de biecht door Christus in gesteld werd](/docs/4-tweede-deel/4-sacramenten/#verscheidene-teksten-van-de-heilige-schriftuur-tonen-aan-dat-de-biecht-door-christus-ingesteld-werd). [Het berouw vergeeft de zonden](/docs/4-tweede-deel/4-sacramenten/#kracht-en-nut-van-het-berouw), maar [de biecht blijft noodig](/docs/4-tweede-deel/4-sacramenten/#de-biecht-volmaakt-het-berouw).
 
 ## Veertiende Zondag na Sinksen.
 
-- Weest niet bekommerd voor uw leven. Matth. VI, 25. Overdreven zorg voor tijdelijke belangen is nadeclig voor het godsdienstig leven — bl. 566. — Middelen tegen de begeerlijkheid — bl. 571.  
-- Uw hemelsche Vader weet dat gij dit alles noodig hebt.  God kent onze noodwendigheden en verlangens, en toch wil Hij dat wij onze gebeden tot Hem sturen — bl, 579.
+- ***Weest niet bekommerd voor uw leven.*** Matth. VI, 25. [Overdreven zorg voor tijdelijke belangen](/docs/5-derde-deel/9-geboden/#de-slechte-begeerte-is-zonde) is nadelig voor het godsdienstig leven. Middelen [tegen de begeerlijkheid](/docs/5-derde-deel/9-geboden/#beschouwingen-die-helpen-om-de-begeerlijkheid-te-onderdrukken).  
+- ***Uw hemelsche Vader weet dat gij dit alles noodig hebt.***  God kent onze noodwendigheden en verlangens, en toch wil Hij dat wij onze gebeden tot Hem sturen — bl, 579.
 - Zoekt eerst het rijk van God. Wat moet men vragen in het gebed ? — bl, 585. Welke orde moeten we volgen in het gebed ? — bl. 617. Hier kan heel de tweede vraag van het Onze Vader uitgelegd worden — bl. 624.
 - Dit alles zal er u Bijgegeven worden. Mogen we tijdelijke gunsten vragen ? Zie zevende vraag van het Onze Vader — bl. 697.
 
