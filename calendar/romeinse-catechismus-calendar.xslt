@@ -4,7 +4,13 @@
 
   <xsl:output method="xml" indent="yes"/>
 
-  <xsl:variable name="romeinse-catechismus" select="doc('romeinse-catechismus-xhtml.html')//article/h2"/>
+    <!-- stdin = the calendar-{eo,of}.xml file
+         param "romeinse-catechismus-html" = kalender-{eo,of}.html filename -->
+
+  <xsl:param name="romeinse-catechismus-html"/>
+  <xsl:param name="romeinse-catechismus-url"/>
+
+  <xsl:variable name="romeinse-catechismus" select="doc($romeinse-catechismus-html)//article/h2"/>
 
   <xsl:template match="@*|node()">
     <xsl:copy>
@@ -23,8 +29,7 @@
             <xsl:copy-of select="$section/following-sibling::ul[1]"/>
           </text>
           <url>
-            <xsl:text>https://trente.gelovenleren.net/docs/7-kalender/kalender/</xsl:text>
-            <xsl:value-of select="$section/a/@href"/>
+            <xsl:value-of select="concat($romeinse-catechismus-url,$section/a/@href)"/>
           </url>
           <xsl:apply-templates select="preceding-sibling::day[1]" mode="preceding-days">
             <xsl:with-param name="next-section" select="$section"/>
@@ -49,8 +54,7 @@
             <xsl:copy-of select="$next-section/following-sibling::ul[1]"/>
           </text>
           <url>
-            <xsl:text>https://trente.gelovenleren.net/docs/7-kalender/kalender/</xsl:text>
-            <xsl:value-of select="$next-section/a/@href"/>
+            <xsl:value-of select="concat($romeinse-catechismus-url,$next-section/a/@href)"/>
           </url>
           <xsl:apply-templates select="preceding-sibling::day[1]" mode="preceding-days">
             <xsl:with-param name="next-section" select="$next-section"/>

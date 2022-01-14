@@ -1,21 +1,23 @@
 ---
 weight: 80
-title: "Liturgische kalender"
+title: "Gewone vorm"
 ---
 
 # Gebruik van den Catechismus aangepast aan de Zondagen van het jaar.
 
-## Eerste Zondag van den Advent. {#eo.A011}
+> Deze pagina geeft een overzicht van de zondagen volgens de liturgische kalender volgens het lectionarium voor de eucharistievieringen in de **vernieuwde Latijnse ritus**, die tot stand kwam na het tweede Vaticaans concilie ("de gewone vorm van de Latijnse ritus"). De inhoud is grotendeels gebaseerd op de [kalender voor de tridentijnse mis](../kalender-eo/), met aanpassingen in functie van de afwijkingen in het lectionarium.
+
+## Eerste Zondag van den Advent.{#of.A01}
 
 - ***Er zullen teekenen zijn in zon en maan, enz.*** Luc. XXI, 25 en volg.  Dit Evangelie moet behandeld worden in verband met het algemeen oordeel, Daarom zal de pastoor hier gebruiken hetgeen gezegd werd over het [zevende artikel van het Symbolum](/docs/3-eerste-deel/7-symbolum/) : « Vandaar zal Hij komen oordeelen de levenden en de dooden ».
 
-## Tweede Zondag van den Advent. {#eo.A021}
+## Tweede Zondag van den Advent.{#of.A021}
 
 - ***Joannes, die in de gevangenis de daden van den Christus vernomen had… Zijt gij het die komt…*** Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het [eerste hoofdstuk van den catechismus](/docs/3-eerste-deel/0-symbolum/).
 
 - ***In de gevangenis.*** We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, [we moeten het ook belijden](/docs/3-eerste-deel/1-symbolum/#het-geloof-is-niet-voldoende-voor-de-zaligheid-we-moeten-het-ook-belijden).
 
-## Derde Zondag van den Advent. {#eo.A031}
+## Derde Zondag van den Advent.{#of.A031}
 
 - ***Hij bekende zonder ontveinzen…*** Jo. I, 20 en volg. We moeten de waarheid eenvoudig bekennen, en er geen eed bijvoegen om gemakkelijker geloofd te worden. [Wanneer de eed verboden is](/docs/5-derde-deel/2-geboden/#heeft-christus-de-eed-verboden-).
 
@@ -23,7 +25,7 @@ title: "Liturgische kalender"
 
 - ***Wiens schoenriem ik niet waardig ben los te maken.*** De pastoor zal hier aan de geloovigen leeren dat zij zich moeten voorbereiden om, op het Kerstfeest, de Heilige Communie te ontvangen ; zie, [over de voorbereiding tot de Heilige Communie](/docs/4-tweede-deel/6-sacramenten/#dubbel-priesterschap-zowel-in-het-oud-als-het-nieuw-testament).
 
-## Vierde Zondag van den Advent. {#eo.A041}
+## Vierde Zondag van den Advent.{#of.A041}
 
 - ***In het vijftiende jaar der regeering van keizer Tiberius…*** Luc. III, 1. Voor de vermelding van deze vorsten kan men denzelfden uitleg geven als voor [de vermelding van Pontius Pilatus in het vierde artikel van het Symbolum](/docs/3-eerste-deel/4-symbolum/#waarom-wordt-de-landvoogd-van-judea-in-het-symbolum-vermeld-).
 
