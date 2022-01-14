@@ -2,6 +2,10 @@
 title: "De Catechismus van het Concilie van Trente"
 ---
 
+# Homiletische Suggesties voor komende Zondag
+
+{{< romeinse-catechismus-calendar >}}
+
 # De Catechismus van het Concilie van Trente
 
 *De Romeinse Catechismus*

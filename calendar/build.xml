@@ -1,4 +1,4 @@
-<project name="calendar" default="xml" basedir=".">
+<project name="calendar" default="json" basedir=".">
   <target name="xhtml">
     <!-- two files are processed:
       ../public/docs/7-kalender/kalender-eo/index.html => ./kalender-eo.html
@@ -18,16 +18,24 @@
   </target>
   <target name="xml" depends="xhtml">
     <!-- two files are processed:
-      ./kalender-eo.html => ../static/kalender-eo.xml
-      ./kalender-of.html => ../static/kalender-of.xml
+      ./kalender-eo.html => ./kalender-eo.xml
+      ./kalender-of.html => ./kalender-of.xml
     -->
-    <xslt in="./calendar-eo.xml" out="../static/kalender-eo.xml" style="romeinse-catechismus-calendar.xslt">
+    <xslt in="./calendar-eo.xml" out="./kalender-eo.xml" style="romeinse-catechismus-calendar.xslt">
       <param name="romeinse-catechismus-html" expression="./kalender-eo.html"/>
       <param name="romeinse-catechismus-url" expression="https://trente.gelovenleren.net/docs/7-kalender/kalender-eo/index.html"/>
     </xslt>
-    <xslt in="./calendar-of.xml" out="../static/kalender-of.xml" style="romeinse-catechismus-calendar.xslt">
+    <xslt in="./calendar-of.xml" out="./kalender-of.xml" style="romeinse-catechismus-calendar.xslt">
       <param name="romeinse-catechismus-html" expression="./kalender-of.html"/>
       <param name="romeinse-catechismus-url" expression="https://trente.gelovenleren.net/docs/7-kalender/kalender-of/index.html"/>
     </xslt>
+  </target>
+  <target name="json" depends="xml">
+    <!-- two files are processed:
+      ./kalender-eo.xml => ../static/kalender-eo.json
+      ./kalender-of.xml => ../static/kalender-of.json
+    -->
+    <xslt in="./kalender-eo.xml" out="../static/kalender-eo.json" style="xml2json.xslt"/>
+    <xslt in="./kalender-of.xml" out="../static/kalender-of.json" style="xml2json.xslt"/>
   </target>
 </project>

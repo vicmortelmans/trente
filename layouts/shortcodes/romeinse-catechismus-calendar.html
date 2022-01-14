@@ -1,0 +1,10 @@
+<div id="romeinse-catechismus-calendar">
+  <script type="text/javascript">
+    fetch("/kalender-eo.json")
+      .then(response => {
+        kalender = response.json();
+        document.write(kalender["calendar"][3]["text"]);
+      })
+      .then(data => console.log(data));
+  </script>
+</div>
