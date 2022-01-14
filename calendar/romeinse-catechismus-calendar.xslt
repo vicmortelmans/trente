@@ -30,9 +30,12 @@
       <xsl:if test="$section">
         <xsl:copy>
           <xsl:apply-templates select="@*|node()"/>
-          <title><xsl:value-of select="normalize-space($section/text()[1])"/></title>
+          <xsl:variable name="html">
+            <h3><xsl:value-of select="normalize-space($section/text()[1])"/></h3>
+            <xsl:copy-of select="$section/following-sibling::ul[1]"/>
+          </xsl:variable>
           <text>
-            <xsl:copy-of select="serialize($section/following-sibling::ul[1])"/>
+            <xsl:copy-of select="serialize($html)"/>
           </text>
           <url>
             <xsl:value-of select="concat($romeinse-catechismus-url,$section/a/@href)"/>
@@ -55,9 +58,12 @@
       <xsl:if test="not($section)">
         <xsl:copy>
           <xsl:apply-templates select="@*|node()"/>
-          <title><xsl:value-of select="normalize-space($next-section/text()[1])"/></title>
+          <xsl:variable name="html">
+            <h3><xsl:value-of select="normalize-space($next-section/text()[1])"/></h3>
+            <xsl:copy-of select="$next-section/following-sibling::ul[1]"/>
+          </xsl:variable>
           <text>
-            <xsl:copy-of select="serialize($next-section/following-sibling::ul[1])"/>
+            <xsl:copy-of select="serialize($html)"/>
           </text>
           <url>
             <xsl:value-of select="concat($romeinse-catechismus-url,$next-section/a/@href)"/>

@@ -1,0 +1,15 @@
+<div id="kalender-eo">
+  <script type="text/javascript">
+    fetch("/kalender-eo.json")
+      .then(response => response.json())
+      .then(data => {
+        let yourDate = new Date()
+        let formattedDate = yourDate.toISOString().split('T')[0]
+        for (const day of data['calendar']) {
+          if (day['date'] == day)
+            document.getElementById('kalender-eo').innerHTML = day['text'];
+            break;
+        }
+      });
+  </script>
+</div>

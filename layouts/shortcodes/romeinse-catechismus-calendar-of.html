@@ -1,0 +1,15 @@
+<div id="kalender-of">
+  <script type="text/javascript">
+    fetch("/kalender-of.json")
+      .then(response => response.json())
+      .then(data => {
+        let yourDate = new Date()
+        let formattedDate = yourDate.toISOString().split('T')[0]
+        for (const day of data['calendar']) {
+          if (day['date'] == day)
+            document.getElementById('kalender-of').innerHTML = day['text'];
+            break;
+        }
+      });
+  </script>
+</div>

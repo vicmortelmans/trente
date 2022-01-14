@@ -4,7 +4,17 @@ title: "De Catechismus van het Concilie van Trente"
 
 # Homiletische Suggesties voor komende Zondag
 
-{{< romeinse-catechismus-calendar >}}
+## Buitengewone vorm
+
+{{< romeinse-catechismus-calendar-eo >}}
+
+[Volledige kalender](/docs/7-kalender/kalender-eo/)
+
+## Gewone vorm
+
+{{< romeinse-catechismus-calendar-of >}}
+
+[Volledige kalender](/docs/7-kalender/kalender-of/)
 
 # De Catechismus van het Concilie van Trente
 
