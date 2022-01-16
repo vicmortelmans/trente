@@ -2,23 +2,9 @@
 title: "De Catechismus van het Concilie van Trente"
 ---
 
-# Homiletische Suggesties voor komende Zondag
-
-## Buitengewone vorm
-
-{{< romeinse-catechismus-calendar-eo >}}
-
-[Volledige kalender](/docs/7-kalender/kalender-eo/)
-
-## Gewone vorm
-
-{{< romeinse-catechismus-calendar-of >}}
-
-[Volledige kalender](/docs/7-kalender/kalender-of/)
-
 # De Catechismus van het Concilie van Trente
 
-*De Romeinse Catechismus*
+*De Romeinse Catechismus - Catechismus Romanus ex decreto SS. Concilii Tridentini*
 
 CATECHISMUS VAN HET CONCILIE VAN TRENTE (1566)
 
@@ -34,7 +20,10 @@ IMPRIMATUR
 
 Mechlinie, die 25 Martii 1935
 
-\+ J. E. CARD. VAN ROEY,  
+᛭ J. E. CARD. VAN ROEY,  
 Archiep. Mechlinien.
 
-Gedigitaliseerd door [Geloven Leren](https://gelovenleren.net)
+{{< button href="/docs/7-kalender/suggesties/" >}}**Homiletische suggesties voor komende zondag**{{< /button >}}
+
+*Gedigitaliseerd door [Geloven Leren](https://gelovenleren.net)*
+

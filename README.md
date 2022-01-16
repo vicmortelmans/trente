@@ -1,4 +1,7 @@
-# trente
+# Trente
+
+Nota: some modifications have been made to hugo-book theme, so don't just drop in an update!
+
 Nederlandse vertaling van de Catechismus van Trente
 
 Correcties:

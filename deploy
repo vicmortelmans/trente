@@ -1,5 +1,8 @@
 #!/bin/bash
-./hugo
+#./hugo
+cd calendar
+ant
+cd ..
 cd public
 if [ ! -f "404.html" ]; then
   echo "This doesn't seem to be a valid public folder; exiting"

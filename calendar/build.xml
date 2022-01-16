@@ -1,5 +1,8 @@
 <project name="calendar" default="json" basedir=".">
-  <target name="xhtml">
+  <target name="hugo">
+    <exec executable="./hugo" dir=".."/>
+  </target>
+  <target name="xhtml" depends="hugo">
     <!-- two files are processed:
       ../public/docs/7-kalender/kalender-eo/index.html => ./kalender-eo.html
       ../public/docs/7-kalender/kalender-of/index.html => ./kalender-of.html
@@ -21,6 +24,8 @@
       ./kalender-eo.html => ./kalender-eo.xml
       ./kalender-of.html => ./kalender-of.xml
     -->
+    <delete file="./kalender-eo.xml"/>
+    <delete file="./kalender-of.xml"/>
     <xslt in="./calendar-eo.xml" out="./kalender-eo.xml" style="romeinse-catechismus-calendar.xslt">
       <param name="romeinse-catechismus-html" expression="./kalender-eo.html"/>
       <param name="romeinse-catechismus-url" expression="https://trente.gelovenleren.net/docs/7-kalender/kalender-eo/index.html"/>
