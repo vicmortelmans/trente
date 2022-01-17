@@ -1265,5 +1265,30 @@ Het hoogfeest van de hemelvaart van de Heer
 - CKK [678-679](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=678-679), [1001](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=1001), [1038-1041](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=1038-1041): Christus als Rechter
 - CKK [2816-2821](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2816-2821): "Uw koninkrijk kome"
 
+# ANDERE HEILIGE DAGEN
 
+## 19 maart: Hoogfeest van Sint-Jozef.{#Z0319.ABC}
 
+- CKK [437](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=437), [497](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=497), [532-534](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=532-534), [1014](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=1014), [1846](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=1846), [2177](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2177): Sint-Jozef
+- CKK [2214-2220](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2214-2220): plichten van kinderen jegens hun ouders
+
+## 29 juni: Hoogfeest van de apostelen Petrus en Paulus.{#Z0629.ABC}
+
+- CKK [153](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=153), [424](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=424), [440](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=440), [442](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=442), [552](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=552), [765](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=765), [880-881](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=880-881): Sint-Pieter
+- CKK [442](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=442), [601](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=601), [639](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=639), [642](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=642), [1508](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=1508), [2632-2633](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2632-2633), [2636](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2636), [2638](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2638): Sint-Paulus
+
+## 15 augustus: Hoogfeest van de Hemelvaart van de Heilige Maagd Maria.{#Z0815.ABC}
+
+- CKK [411](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=411), [966-971](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=966-971), [974-975](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=974-975), [2853](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2853): Maria, de Nieuwe Eva, opgenomen in de hemel
+- CKK [773](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=773), [829](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=829), [967](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=967), [972](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=972): Maria, eschatologisch icoon van de Kerk
+- CKK [2673-2679](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2673-2679): in gebed met Maria
+
+## 1 november: Hoogfeest van Allerheiligen.{#Z1101.ABC}
+
+- CKK [61](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=61), [946-962](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=946-962), [1090](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=1090), [1137-1139](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=1137-1139), [1370](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=1370): de Kerk, een gemeenschap van heiligen
+- CKK [956](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=956), [2683](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2683): de voorspraak van de heiligen
+- CKK [828](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=828), [867](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=867), [1173](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=1173), [2030](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2030), [2683-2684](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2683-2684): de heiligen, voorbeelden van heiligheid
+
+## 8 december: Hoogfeest van de Onbevlekte Ontvangenis van de Heilige Maagd Maria.{#Z1208.ABC}
+
+- CKK [411](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=411), [489-493](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=489-493), [722](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=722), [2001](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2001), [2853](https://rkdocumenten.nl/rkdocs/index.php?mi=600&doc=1&al=2853): Gods voorbereiding; de Onbevlekte Ontvangenis
