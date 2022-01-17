@@ -26,24 +26,43 @@
 
   <xsl:template match="day">
     <xsl:if test="date &gt; '2022-01-13'">
-      <xsl:variable name="section" select="$romeinse-catechismus[contains(@id,current()/coordinates)]"/>
+      <xsl:variable name="section" select="if (form = 'eo') then $romeinse-catechismus[contains(@id,current()/coordinates)] else $romeinse-catechismus[contains(substring-before(@id,'.'),current()/coordinates)][contains(substring-after(@id,'.'),current()/cycle)]"/>
       <xsl:if test="$section">
-        <xsl:apply-templates select="preceding-sibling::day[1]" mode="preceding-days">
-          <xsl:with-param name="date" select="date"/>
-        </xsl:apply-templates>
-        <xsl:copy>
-          <xsl:apply-templates select="@*|node()"/>
-          <xsl:variable name="html">
-            <h3><xsl:value-of select="normalize-space($section/text()[1])"/></h3>
-            <xsl:copy-of select="$section/following-sibling::ul[1]"/>
-          </xsl:variable>
-          <text>
-            <xsl:copy-of select="serialize($html)"/>
-          </text>
-          <url>
-            <xsl:value-of select="concat($romeinse-catechismus-url,$section/a/@href)"/>
-          </url>
-        </xsl:copy>
+        <xsl:variable name="repetition" select="(../following-sibling::year/day[coordinates = current()/coordinates][cycle = current()/cycle])[last()]"/>
+        <xsl:message>repetition: <xsl:copy-of select="$repetition"/></xsl:message>
+        <xsl:choose>
+          <xsl:when test="$repetition">
+            <xsl:variable name="date" select="$repetition/date"/>
+            <xsl:apply-templates select="preceding-sibling::day[1]" mode="preceding-days">
+              <xsl:with-param name="date" select="$date"/>
+            </xsl:apply-templates>
+            <xsl:copy>
+              <xsl:apply-templates select="@*|node()"/>
+              <ref><xsl:value-of select="$date"/></ref>
+            </xsl:copy>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:apply-templates select="preceding-sibling::day[1]" mode="preceding-days">
+              <xsl:with-param name="date" select="date"/>
+            </xsl:apply-templates>
+            <xsl:copy>
+              <xsl:apply-templates select="@*|node()"/>
+              <xsl:variable name="html">
+                <h3><xsl:value-of select="normalize-space($section/text()[1])"/></h3>
+                <xsl:copy-of select="$section/following-sibling::ul[1]"/>
+              </xsl:variable>
+              <text>
+                <xsl:copy-of select="serialize($html)"/>
+              </text>
+              <url>
+                <xsl:value-of select="concat($romeinse-catechismus-url,$section/a/@href)"/>
+              </url>
+              <id>
+                <xsl:value-of select="$section/@id"/>
+              </id>
+            </xsl:copy>
+          </xsl:otherwise>
+        </xsl:choose>
       </xsl:if>
       <!--xsl:if test="not($section)">
         <xsl:message>No match in innerlijk-leven-html5.html for <xsl:value-of select="coordinates"/> on <xsl:value-of select="date"/></xsl:message>
