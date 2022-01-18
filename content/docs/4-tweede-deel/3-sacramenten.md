@@ -353,7 +353,7 @@ Deze wonderbare verandering wordt, zeer gepast, door de heilige Katholieke Kerk 
 
 ## De manier waarop die verandering gebeurt, mag niet met nieuwsgierigheid onderzocht worden.
 
-Men moet hier de gelovigen vermanen, zoals de heilige Vaders herhaaldelijk aanbevolen hebben, dat ze miet al te nieuwsgierig mogen onderzoeken, op welke manier die verandering kan gebeuren : we kunnen ze immers toch niet begrijpen, en we vinden er ook geen voorbeelden van, zomin in de natuurlijke veranderingen als in de schepping der dingen. Wat hier gebeurt, weten we door het geloof ; hoe het gebeurt moeten we niet nieuwsgierig onderzoeken.
+Men moet hier de gelovigen vermanen, zoals de heilige Vaders herhaaldelijk aanbevolen hebben, dat ze niet al te nieuwsgierig mogen onderzoeken, op welke manier die verandering kan gebeuren : we kunnen ze immers toch niet begrijpen, en we vinden er ook geen voorbeelden van, zomin in de natuurlijke veranderingen als in de schepping der dingen. Wat hier gebeurt, weten we door het geloof ; hoe het gebeurt moeten we niet nieuwsgierig onderzoeken.
 
 Niet minder voorzichtigheid is vereist om uit te leggen hoe het Lichaam van Christus volledig bevat is in elk deeltje van de Heilige Hostie. Best zal men daarover zo weinig mogelijk redetwisten ; doch als de christelijke liefde het vraagt, dan zal men eerst de geest der gelovigen wapenen met dit woord : “Bij God is niets onmogelijk„ [^291.1].
 

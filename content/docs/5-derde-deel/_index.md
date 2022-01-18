@@ -8,3 +8,4 @@ bookCollapseSection: "true"
 
 {{< figure src="/img/geboden.jpg" >}}
 
+{{< partial-toc >}}

@@ -8,3 +8,4 @@ bookCollapseSection: "true"
 
 {{< figure src="/img/sacramenten.jpg" >}}
 
+{{< partial-toc >}}

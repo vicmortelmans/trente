@@ -10,3 +10,4 @@ bookCollapseSection: "true"
 
 {{< figure src="/img/kalender.jpg" >}}
 
+{{< partial-toc >}}

@@ -23,7 +23,7 @@ Evenals de voorgaande, is ook dit gebod in twee delen verdeeld: het eerste, dat 
 
 ## Wat betekent het woord *stelen* ?
 
-Eerst moet men bemerken dat het woord stelen niet alleen betekent heimelijk iets wegnemen tegen de wil van de eigenaar, maar ook iets behouden dat aan een ander toebehoort, met kennis van de eigenaar doch tegen zijn wil. Men mag immers miet veronderstellen dat God, die de diefstal verbiedt, de roof, die met geweld en belediging begaan wordt, niet zou afkeuren; de Apostel zegt ook : “Roovers zullen het rijk van God niet bezitten„ [^532.1], en voegt er bij dat we allen omgang en gemeenschap met hen moeten vluchten. De roof is een grotere zonde dan de diefstal, omdat men daardoor niet alleen iets ontvreemdt, maar daarbij ook de eigenaar geweld aandoet en hem beledigt.
+Eerst moet men bemerken dat het woord stelen niet alleen betekent heimelijk iets wegnemen tegen de wil van de eigenaar, maar ook iets behouden dat aan een ander toebehoort, met kennis van de eigenaar doch tegen zijn wil. Men mag immers niet veronderstellen dat God, die de diefstal verbiedt, de roof, die met geweld en belediging begaan wordt, niet zou afkeuren; de Apostel zegt ook : “Roovers zullen het rijk van God niet bezitten„ [^532.1], en voegt er bij dat we allen omgang en gemeenschap met hen moeten vluchten. De roof is een grotere zonde dan de diefstal, omdat men daardoor niet alleen iets ontvreemdt, maar daarbij ook de eigenaar geweld aandoet en hem beledigt.
 
 [^532.1]: I Cor. VI, 10.
 

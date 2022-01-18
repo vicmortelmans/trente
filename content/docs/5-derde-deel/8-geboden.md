@@ -173,7 +173,7 @@ De pastoor zal ook leren dat men moet vermijden veel te spreken ; daardoor vermi
 
 De pastoor moet de dwaling uitroeien van degenen die hun ijdele praat verontschuldigen en de leugen willen verdedigen door het voorbeeld van voorzichtige mensen, aan wie het eigen is, zo beweren ze, op tijd te liegen. Hij zal hun zeggen — en dat is de waarheid — dat “de voorzichtigheid van het vlees de dood is„ [^559.1].  Hij zal zijn toehoorders aanzetten, om in moeilijkheden en nood betrouwen te stellen op God, en hun toevlucht niet te nemen tot de leugen ; want zij die dat middel gebruiken, bewijzen daardoor dat ze meer verwachten van hun eigen voorzichtigheid dan van de Voorzienigheid van God.
 
-Er zijn er die de schuld van hun leugen werpen op degenen die hen ook belogen hebben ; men zal hun antwoorden dat de mens zichzelf niet mag wreken, en het kwaad niet met kwaad mag vergelden [^559.2], maar eerder het kwaad moet overwinnen door het goed [^559.3]. Zelfs als de wraak toegelaten was, dan zou het nog miet nuttig zijn zich te wreken tot zijn eigen nadeel ; en wie liegt, doet zichzelf groot nadeel aan.
+Er zijn er die de schuld van hun leugen werpen op degenen die hen ook belogen hebben ; men zal hun antwoorden dat de mens zichzelf niet mag wreken, en het kwaad niet met kwaad mag vergelden [^559.2], maar eerder het kwaad moet overwinnen door het goed [^559.3]. Zelfs als de wraak toegelaten was, dan zou het nog niet nuttig zijn zich te wreken tot zijn eigen nadeel ; en wie liegt, doet zichzelf groot nadeel aan.
 
 Zijn er die een verontschuldiging zoeken in de menselijke zwakheid en krankheid, dan zal men hun herinneren dat God gebiedt zijn hulp af te smeken en niet toe te geven aan de zwakheid van de menselijke natuur.
 

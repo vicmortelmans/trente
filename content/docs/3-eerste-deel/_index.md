@@ -8,3 +8,4 @@ bookCollapseSection: "true"
 
 {{< figure src="/img/geloofsbelijdenis.jpg" >}}
 
+{{< partial-toc >}}

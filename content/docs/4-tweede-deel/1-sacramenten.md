@@ -402,7 +402,7 @@ Het is daarom dat de Kerk openlijk belijdt dat zij in één Doopsel gelooft: dat
 
 ## Het Doopsel onder voorwaarde is geen tweede Doopsel.
 
-Men mene niet dat de Kerk het Doopsel herhaalt, als ze, met bijvoeging van een bepaalde formule, iemand doopt van wie men niet zeker weet of hij reeds vroeger gedoopt werd : “Zo gij gedoopt zijt, doop ik u niet opnieuw; zo gij echter nog miet gedoopt zijt, dan doop ik u in de naam van de Vader en van de Zoon en van de Heilige Geest„ In dit geval is er geen ongeoorloofd herhalen van het Doopsel, maar een heilig toedienen onder voorwaarde.
+Men mene niet dat de Kerk het Doopsel herhaalt, als ze, met bijvoeging van een bepaalde formule, iemand doopt van wie men niet zeker weet of hij reeds vroeger gedoopt werd : “Zo gij gedoopt zijt, doop ik u niet opnieuw; zo gij echter nog niet gedoopt zijt, dan doop ik u in de naam van de Vader en van de Zoon en van de Heilige Geest„ In dit geval is er geen ongeoorloofd herhalen van het Doopsel, maar een heilig toedienen onder voorwaarde.
 
 [^232.1]: Eph. IV, 5.
 

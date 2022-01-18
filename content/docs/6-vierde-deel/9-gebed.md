@@ -23,7 +23,7 @@ Het bestuur van de wereld geeft ons een tweede bewijs. God waakt over het welzij
 
 ## God heeft engelen aangesteld om over de mensen te waken.
 
-De goddelijke Voorzienigheid heeft aan de engelen als taak gegeven, het mensdom te beschermen en iedere mens in ’t bijzonder ter zijde te staan om hem van alle onheil te behoeden. Evenals de ouders hun kinderen doen vergezellen door bewakers en helpers in de nood, als ze een moeilijke en gevaarlijke reis moeten ondernemen, zo heeft ook de hemelse Vader, op de weg die ons naar het hemels vaderland moet leiden, aan elk van ons een engel gegeven, die ons beschut met zijn hulp en waakzaamheid, die ons helpt om de verborgen strikken van de vijand te ontwijken en aan zijn geweldige aanvallen te weerstaan, en die ons voortdurend op de rechte weg houdt, opdat we ons door het bedrog van de vijand miet laten misleiden en de weg niet verlaten die naar de hemel voert.
+De goddelijke Voorzienigheid heeft aan de engelen als taak gegeven, het mensdom te beschermen en iedere mens in ’t bijzonder ter zijde te staan om hem van alle onheil te behoeden. Evenals de ouders hun kinderen doen vergezellen door bewakers en helpers in de nood, als ze een moeilijke en gevaarlijke reis moeten ondernemen, zo heeft ook de hemelse Vader, op de weg die ons naar het hemels vaderland moet leiden, aan elk van ons een engel gegeven, die ons beschut met zijn hulp en waakzaamheid, die ons helpt om de verborgen strikken van de vijand te ontwijken en aan zijn geweldige aanvallen te weerstaan, en die ons voortdurend op de rechte weg houdt, opdat we ons door het bedrog van de vijand niet laten misleiden en de weg niet verlaten die naar de hemel voert.
 
 ## De bewaking van de engelen is voor ons een grote weldaad.
 
