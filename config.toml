@@ -2,6 +2,7 @@ baseURL = 'https://trente.gelovenleren.net/'
 languageCode = 'nl'
 title = 'Catechismus van het Concilie van Trente'
 theme = 'hugo-book'
+googleAnalytics = 'G-PN0L113EB0'
 
 [menu]
   # [before] []

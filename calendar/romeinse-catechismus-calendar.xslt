@@ -29,7 +29,6 @@
       <xsl:variable name="section" select="if (form = 'eo') then $romeinse-catechismus[contains(@id,current()/coordinates)] else $romeinse-catechismus[contains(substring-before(@id,'.'),current()/coordinates)][contains(substring-after(@id,'.'),current()/cycle)]"/>
       <xsl:if test="$section">
         <xsl:variable name="repetition" select="(../following-sibling::year/day[coordinates = current()/coordinates][cycle = current()/cycle])[last()]"/>
-        <xsl:message>repetition: <xsl:copy-of select="$repetition"/></xsl:message>
         <xsl:choose>
           <xsl:when test="$repetition">
             <xsl:variable name="date" select="$repetition/date"/>
