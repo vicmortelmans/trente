@@ -9,10 +9,10 @@ title: "Homiletische Suggesties voor komende Zondag"
 
 {{< romeinse-catechismus-calendar-of >}}
 
-{{< button href="/docs/7-kalender/kalender-of/" >}}**Volledige kalender**{{< /button >}}
+{{< button href="/7-kalender/kalender-of/" >}}**Volledige kalender**{{< /button >}}
 
 ## Buitengewone vorm
 
 {{< romeinse-catechismus-calendar-eo >}}
 
-{{< button href="/docs/7-kalender/kalender-eo/" >}}**Volledige kalender**{{< /button >}}
+{{< button href="/7-kalender/kalender-eo/" >}}**Volledige kalender**{{< /button >}}

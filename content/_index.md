@@ -16,7 +16,9 @@ Mechlinie, die 25 Martii 1935
 
 ᛭ J. E. CARD. VAN ROEY,  Archiep. Mechlinien.
 
-{{< button href="/docs/7-kalender/suggesties/" >}}**Homiletische suggesties voor komende zondag**{{< /button >}}
+{{< button href="/7-kalender/suggesties/" >}}**Homiletische suggesties voor komende zondag**{{< /button >}}
+
+{{< partial-toc >}}
 
 *Gedigitaliseerd door [Geloven Leren](https://gelovenleren.net)*
 

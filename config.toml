@@ -13,3 +13,4 @@ googleAnalytics = 'G-PN0L113EB0'
 
 [params]
   BookSearch = true
+  BookSection = "*"
