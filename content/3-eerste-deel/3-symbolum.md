@@ -13,7 +13,7 @@ Met de uitleg van dit derde artikel zal de pastoor beginnen aan te tonen de groo
 
 Dat die woorden zo moeten verstaan worden, blijkt duidelijk uit de belijdenis van het Concilie van Constantinopel, dat zegt: “Die voor ons, mensen, en omwille van onze verlossing, uit de hemel nedergedaald is ; en door de werking van de H. Geest heeft Hij een lichaam aangenomen uit de Maagd Maria, en is Hij mens geworden„.
 
-En ook de heilige Evangelist Joannes heeft hetzelfde te kennen gegeven, hij die de kennis van dit allerhoogste geheim geput had uit het Hart van de Zaligmaker zelf. Want nadat hij de natuur van het Goddelijke Woord verklaard heeft door deze woorden : In het begin was het Woord, en het Woord was bij God, en het Woord was God, besluit hij op het einde: En het Woord is vlees geworden, en het heeft onder ons gewoond [^49.1].
+En ook de heilige Evangelist Johannes heeft hetzelfde te kennen gegeven, hij die de kennis van dit allerhoogste geheim geput had uit het Hart van de Zaligmaker zelf. Want nadat hij de natuur van het Goddelijke Woord verklaard heeft door deze woorden : In het begin was het Woord, en het Woord was bij God, en het Woord was God, besluit hij op het einde: En het Woord is vlees geworden, en het heeft onder ons gewoond [^49.1].
 
 ## De geboorte van Christus als mens bracht geen versmelting van naturen teweeg.
 
@@ -44,7 +44,7 @@ Dat werd haar ook door de engel te kennen gegeven, als hij zegde: “Gij zult in
 
 [^51.3]: Is. VII, 14.
 
-En evenals het lichaam van Christus zonder enige tussenkomst van een man, en alleen door de kracht van de Heilige Geest, gevormd werd uit het allerzuiverste bloed ener ongeschonden maagd ; zo ontving ook zijn ziel, van af het ogenblik zijner ontvangenis, al de volheid van de Geest van God en al de overvloed van alle genadegiften. Aan Hem gaf God zijn Geest niet met maat, volgens het woord van de heilige Joannes, evenals aan andere mensen die met heiligheid en genade verrijkt worden ; in zijn ziel stortte God al zijn genade zo overvloedig uit, dat wij allen van zijn overvloed ontvangen hebben [^52.2].
+En evenals het lichaam van Christus zonder enige tussenkomst van een man, en alleen door de kracht van de Heilige Geest, gevormd werd uit het allerzuiverste bloed ener ongeschonden maagd ; zo ontving ook zijn ziel, van af het ogenblik zijner ontvangenis, al de volheid van de Geest van God en al de overvloed van alle genadegiften. Aan Hem gaf God zijn Geest niet met maat, volgens het woord van de heilige Johannes, evenals aan andere mensen die met heiligheid en genade verrijkt worden ; in zijn ziel stortte God al zijn genade zo overvloedig uit, dat wij allen van zijn overvloed ontvangen hebben [^52.2].
 
 ## Christus mag niet de aangenomen Zoon van God genoemd worden.
 

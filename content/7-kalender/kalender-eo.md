@@ -17,7 +17,7 @@ Deze pagina geeft een overzicht van de zondagen volgens de liturgische kalender 
 
 ## Tweede Zondag van de Advent.{#A021}
 
-- ***Joannes, die in de gevangenis de daden van de Christus vernomen had… Zijt gij het die komt…*** Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het [eerste hoofdstuk van de catechismus](/3-eerste-deel/0-symbolum/).
+- ***Johannes, die in de gevangenis de daden van de Christus vernomen had… Zijt gij het die komt…*** Matth. XI, 2 en volg. Deze ondervraging leert ons met hoeveel ijver wij moeten zorgen dat wij, en degenen die van ons afhangen, onderricht worden in al wat het geloof aangaat. Gegevens daarover vindt men in het [eerste hoofdstuk van de catechismus](/3-eerste-deel/0-symbolum/).
 
 - ***In de gevangenis.*** We moeten bereid zijn gevangenis en dood te onderstaan voor het geloof ; en het is niet genoeg het geloof te bewaren in het hart, [we moeten het ook belijden](/3-eerste-deel/1-symbolum/#het-geloof-is-niet-voldoende-voor-de-zaligheid-we-moeten-het-ook-belijden).
 
@@ -33,7 +33,7 @@ Deze pagina geeft een overzicht van de zondagen volgens de liturgische kalender 
 
 - ***In het vijftiende jaar der regering van keizer Tiberius…*** Luc. III, 1. Voor de vermelding van deze vorsten kan men dezelfde uitleg geven als voor [de vermelding van Pontius Pilatus in het vierde artikel van het Symbolum](/3-eerste-deel/4-symbolum/#waarom-wordt-de-landvoogd-van-judea-in-het-symbolum-vermeld-).
 
-- ***Kwam het Woord van God over Joannes…*** Joannes werd door God geroepen om te prediken. Daarom kan men hier handelen over de [wettige roeping van de bedienaars van de Kerk](/4-tweede-deel/6-sacramenten/#wie-wordt-er-door-god-tot-het-priesterschap-en-de-kerkelijke-bediening-geroepen-). [Wie geen zending heeft, kan geen wettige bedienaar zijn](/2-inleiding/inleiding/#de-oorsprong-der-uitmuntende-gave-van-het-geloof).
+- ***Kwam het Woord van God over Johannes…*** Johannes werd door God geroepen om te prediken. Daarom kan men hier handelen over de [wettige roeping van de bedienaars van de Kerk](/4-tweede-deel/6-sacramenten/#wie-wordt-er-door-god-tot-het-priesterschap-en-de-kerkelijke-bediening-geroepen-). [Wie geen zending heeft, kan geen wettige bedienaar zijn](/2-inleiding/inleiding/#de-oorsprong-der-uitmuntende-gave-van-het-geloof).
 
 - ***In de woestijn.*** De bedienaars van het woord (de priesters) [moeten onberispelijk zijn](/4-tweede-deel/6-sacramenten/#de-wijdeling-moet-onberispelijk-zijn-in-zijn-leven-en-zeden) ; hier kan gesproken worden over de belofte van zuiverheid die gevergd wordt voor de [wijding tot Subdiaken](/4-tweede-deel/6-sacramenten/#bediening-van-de-subdiaken).
 
@@ -130,7 +130,7 @@ Deze pagina geeft een overzicht van de zondagen volgens de liturgische kalender 
 
 ## Tweede Zondag van de vasten.{#L021}
 
-- ***Jezus neemt afzonderlijk Petrus en Jacobus en Joannes en brengt hen…*** Matth. XVII, 1… [Waar en wanneer kan men best bidden ?](/5-derde-deel/0-geboden/#plaats-en-tijd-waarop-de-wet-gegeven-werd).
+- ***Jezus neemt afzonderlijk Petrus en Jacobus en Johannes en brengt hen…*** Matth. XVII, 1… [Waar en wanneer kan men best bidden ?](/5-derde-deel/0-geboden/#plaats-en-tijd-waarop-de-wet-gegeven-werd).
 - ***Goed is het hier te zijn.*** Men kan hier spreken over [het geluk van de heilige mensen](/6-vierde-deel/13-gebed/#christus-ons-waar-geestelijk-voedsel), en ook over [het twaalfde artikel van bet symbolum](/3-eerste-deel/12-symbolum/#waarom-dit-artikel-het-laatste-komt-en-met-hoeveel-zorg-het-moet-uitgelegd-worden).
 - ***Deze is mijn welbeminde Zoon.*** Prachtige gelegenheid om te handelen over [het eeuwig voortbrengen van de Zoon](/3-eerste-deel/2-symbolum/#hoe-moeten-we-geloven-en-belijden-dat-jezus-christus-de-enige-zoon-van-god-is-).
 

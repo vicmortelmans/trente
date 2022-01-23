@@ -21,7 +21,7 @@ We aanroepen God en de heiligen niet op dezelfde manier : we vragen aan God dat 
 
 ## Hoe kunnen we ook aan de heiligen vragen dat zij zich over ons ontfermen ?
 
-Toch kunnen we in zekeren zin ook aan de heiligen vragen dat zij zich over ons ontfermen : zij zijn immers allerbarmhartigst. Bijgevolg kunnen we hun vragen dat zij medelijden hebben met onze ellendige toestand en ons helpen door hun macht en hun voorspraak bij God.  Doch hier moet iedereen zich wel wachten aan iemand toe te kennen wat aan God alleen eigen is. Als we dus vóór het beeld van een heilige een vaderons bidden, dan moeten we hieraan deze betekenis hechten : we vragen aan de heilige dat hij zou meebidden, voor ons zou afsmeken hetgeen in de vaderons gevraagd wordt, en onze voorspreker en bemiddelaar zou zijn bij God. De heilige Joannes leert ons. in het Boek der Openbaring, dat de heiligen werkelijk die rol vervullen [^592.1].
+Toch kunnen we in zekeren zin ook aan de heiligen vragen dat zij zich over ons ontfermen : zij zijn immers allerbarmhartigst. Bijgevolg kunnen we hun vragen dat zij medelijden hebben met onze ellendige toestand en ons helpen door hun macht en hun voorspraak bij God.  Doch hier moet iedereen zich wel wachten aan iemand toe te kennen wat aan God alleen eigen is. Als we dus vóór het beeld van een heilige een vaderons bidden, dan moeten we hieraan deze betekenis hechten : we vragen aan de heilige dat hij zou meebidden, voor ons zou afsmeken hetgeen in de vaderons gevraagd wordt, en onze voorspreker en bemiddelaar zou zijn bij God. De heilige Johannes leert ons. in het Boek der Openbaring, dat de heiligen werkelijk die rol vervullen [^592.1].
 
 [^592.1]: Apoc. VIII, 3.
 

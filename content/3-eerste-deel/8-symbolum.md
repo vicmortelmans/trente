@@ -17,7 +17,7 @@ Men zal best de verklaring van dit artikel beginnen, met de betekenis van de naa
 
 Men moet dan leren dat in dit artikel door het woord “Heilige Geest„ de derde Persoon van de Heilige Drievuldigheid verstaan wordt; in de Heilige Boeken zowel van het Oud als van het Nieuw Testament, komt die naam dikwijls met deze betekenis voor ; David smeekt : “Neem uw Heilige Geest niet van mij weg„ [^104.1] ; in het boek van de wijsheid lezen we : “Wie zal uw gedachten kennen, zo gij uw wijsheid niet geeft, en uw Heilige Geest niet zendt uit de hemel ?„ [^104.2] ; en elders : “Hij zelf heeft haar (de wijsheid) voortgebracht in de Heilige Geest„ [^104.3].
 
-In het Nieuw Testament wordt ons opgelegd te dopen in de naam van de Vader, de Zoon en de Heilige Geest [^104.4] ; daar lezen we dat de allerheiligste Maagd ontvangen heeft van de Heilige Geest [^104.5] ; en de Heilige Joannes zendt ons tot Christus, die ons doopt in de Heilige Geest [^104.6].  Op vele andere plaatsen nog vindt men dezelfde uitdrukking.
+In het Nieuw Testament wordt ons opgelegd te dopen in de naam van de Vader, de Zoon en de Heilige Geest [^104.4] ; daar lezen we dat de allerheiligste Maagd ontvangen heeft van de Heilige Geest [^104.5] ; en de Heilige Johannes zendt ons tot Christus, die ons doopt in de Heilige Geest [^104.6].  Op vele andere plaatsen nog vindt men dezelfde uitdrukking.
 
 [^104.1]: Ps. L, 13.
 
@@ -53,7 +53,7 @@ Verder verenigt de Heilige Schriftuur de Persoon van de Heilige Geest met de Vad
 
 Voeg er nog bij, dat degene die in de naam van enig schepsel gedoopt wordt, daaruit niet de minste vrucht te verwachten heeft : “of werdt gij in de naam van Paulus gedoopt ?„ [^107.3] zo zegt de Apostel, om te tonen dat zulk doopsel hun niets zou baten om de zaligheid te verwerven. Bijgevolg, als we gedoopt worden in de naam van de Heilige Geest, moeten wij belijden dat Hij God is.
 
-Diezelfde orde der drie goddelijke Personen, die een bewijs is van de godheid van de Heilige Geest, vinden we nog in de brief van Joannes: “Drie zijn er die getuigen in de hemel, de Vader, het Woord en de Heilige Geest : en deze drie zijn één„ [^107.4], en in de heerlijke lof der Heilige Drievuldigheid, waarmede de Kerk al haar lofzangen en psalmen eindigt : “Glorie zij de Vader, de Zoon en de Heilige Geest„
+Diezelfde orde der drie goddelijke Personen, die een bewijs is van de godheid van de Heilige Geest, vinden we nog in de brief van Johannes: “Drie zijn er die getuigen in de hemel, de Vader, het Woord en de Heilige Geest : en deze drie zijn één„ [^107.4], en in de heerlijke lof der Heilige Drievuldigheid, waarmede de Kerk al haar lofzangen en psalmen eindigt : “Glorie zij de Vader, de Zoon en de Heilige Geest„
 
 Eindelijk, het klaarste bewijs van deze waarheid is, dat de Heilige Schriftuur aan de Heilige Geest toeschrijft al wat we geloven aan God eigen te zijn.  Daarom wordt aan de Heilige Geest de eer der tempels toegekend : “Weet gij niet, zo zegt de Apostel, dat uw lichaam een tempel is van de Heilige Geest?„[^108.1] Zo ook wordt Hem de macht toegekend van te heiligen, levend te maken, de geheimen van God te doorgronden, door de profeten te spreken, alom tegenwoordig te zijn: en al die eigenschappen horen alleen aan God toe.
 

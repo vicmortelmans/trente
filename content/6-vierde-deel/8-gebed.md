@@ -53,7 +53,7 @@ Het gebed moet ook volhardend zijn. De kracht van de volharding leert Christus o
 
 ## Christus beveelt ons in zijn Naam te bidden.
 
-De Zoon van God wil ook dat ons gebed zijn Vader bereikt in zijn Naam ; door de verdienste en de genade van onze Middelaar zal het gebed krachtig genoeg worden om door de hemelse Vader verhoord te worden. We lezen bij de heilige Joannes: “Voorwaar, voorwaar ik zeg u: wat ge de Vader vragen moogt in mijn Naam, dat zal Hij u geven. Tot nog toe hebt gij niets in mijn Naam gevraagd. Vraagt, en gij zult verkrijgen, opdat uw blijdschap volkomen zij„ [^601.2] ; en elders: “Al wat ge in mijn Naam zult vragen, dat zal ik doen„ [^601.3].
+De Zoon van God wil ook dat ons gebed zijn Vader bereikt in zijn Naam ; door de verdienste en de genade van onze Middelaar zal het gebed krachtig genoeg worden om door de hemelse Vader verhoord te worden. We lezen bij de heilige Johannes: “Voorwaar, voorwaar ik zeg u: wat ge de Vader vragen moogt in mijn Naam, dat zal Hij u geven. Tot nog toe hebt gij niets in mijn Naam gevraagd. Vraagt, en gij zult verkrijgen, opdat uw blijdschap volkomen zij„ [^601.2] ; en elders: “Al wat ge in mijn Naam zult vragen, dat zal ik doen„ [^601.3].
 
 [^601.1]: Luc. XVIII, 2-5.
 

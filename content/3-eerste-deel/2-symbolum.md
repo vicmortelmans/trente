@@ -7,7 +7,7 @@ title: "En in Jezus Christus, zijn enige Zoon, onze Heer"
 
 ## Nut van dit artikel.
 
-Uit het geloven en belijden van dit artikel is een wonderbaar en overvloedig voordeel naar het mensdom toegestroomd. Daarvan vinden we het bewijs bij de heilige Joannes: “Alwie belijden zal dat Jezus de Zoon van God is, verblijft in God en God in hem„ [^36.1].  Om wille van dat geloof heeft de Heer Jezus ook de prins der apostelen zalig genoemd : “Zalig zijt gij, Simon Bar Jonas, want vlees en bloed hebben u dit niet geopenbaard, maar mijn Vader die in de hemelen is„ [^36.2]. Dit geloof is immers de stevigste grondslag van ons heil en onze verlossing.
+Uit het geloven en belijden van dit artikel is een wonderbaar en overvloedig voordeel naar het mensdom toegestroomd. Daarvan vinden we het bewijs bij de heilige Johannes: “Alwie belijden zal dat Jezus de Zoon van God is, verblijft in God en God in hem„ [^36.1].  Om wille van dat geloof heeft de Heer Jezus ook de prins der apostelen zalig genoemd : “Zalig zijt gij, Simon Bar Jonas, want vlees en bloed hebben u dit niet geopenbaard, maar mijn Vader die in de hemelen is„ [^36.2]. Dit geloof is immers de stevigste grondslag van ons heil en onze verlossing.
 
 [^36.1]: I Jo. IV, 15.
 
@@ -85,13 +85,13 @@ Het was niet door erfenis of een ander menselijk recht dat Christus Koning werd,
 ## Hoe moeten we geloven en belijden dat Jezus Christus de enige Zoon van God is ?
 
 *Zijn enige Zoon*. Door die woorden worden verheven geheimenissen over Jezus voorgehouden, die de gelovigen te aanvaarden en te beschouwen hebben, namelijk dat Hij de Zoon van God is en waarlijk God, zoals de Vader die Hem van alle eeuwigheid voortgebracht heeft. Verder belijden wij dat Hij de tweede Persoon is van de goddelijke Drievuldigheid, in alles gelijk aan de andere twee Personen. Er kan immers in de goddelijke Personen niets ongelijk of verschillend zijn, of zelfs niet ingebeeld worden, vermits we erkennen dat Zij allen eenzelfde wezen, wil en macht bezitten.  Dat blijkt uit vele schriftuurteksten, en is vooral klaar
-bewezen door dit woord van de heilige Joannes: “In het begin was het Woord, en het Woord was bij God, en het Woord was God„ [^44.1].
+bewezen door dit woord van de heilige Johannes: “In het begin was het Woord, en het Woord was bij God, en het Woord was God„ [^44.1].
 
 Doch, als er gezegd wordt dat Jezus de Zoon van God is, mogen we ons zijn ontstaan niet als iets aards of sterfelijk voorstellen. De daad waardoor de Vader van alle eeuwigheid zijn Zoon voortgebracht heeft is onbegrijpelijk en overtreft ons verstand : daarom moeten wij in die waarheid. vast geloven, met diepe vroomheid dit geheim vereren, en in bewondering met de profeet uitroepen : Wie zal zijn oorsprong beschrijven ? [^44.2] We moeten dus geloven dat de Zoon dezelfde natuur, dezelfde macht en wijsheid bezit als de Vader, gelijk we in het Symbolum van Nicea uitdrukkelijker belijden : daar wordt immers gezegd : En in één Heer Jezus Christus, eeniggeboren Zoon van God, die voor alle eeuwen uit de Vader geboren is; God van God, licht van licht, waren God van de ware God ; die voortgebracht is maar niet gemaakt, een in zelfstandigheid met de Vader, door wie alles gemaakt is.
 
 ## Vergelijking van de eeuwige geboorte van het Woord met de geschapen wezens.  Dubbele geboorte van Christus.
 
-Onder al de gelijkenissen die men gebruikt om het eeuwige voortbrengen van God de Zoon enigszins begrijpelijk te maken, schijnt wel de vergelijking met het voortbrengen van een gedacht in onze geest de meest geschikte ; het is ook daarom dat de heilige Joannes Hem het Woord noemt. Immers, evenals onze geest in zekere mate zichzelf kent, en daardoor een beeld van zichzelf vormt dat de godgeleerden Woord noemen ; zo ook — voor zover men het goddelijke aan het menselijke mag vergelijken — kent God zichzelf en brengt Hij het eeuwige Woord voort.
+Onder al de gelijkenissen die men gebruikt om het eeuwige voortbrengen van God de Zoon enigszins begrijpelijk te maken, schijnt wel de vergelijking met het voortbrengen van een gedacht in onze geest de meest geschikte ; het is ook daarom dat de heilige Johannes Hem het Woord noemt. Immers, evenals onze geest in zekere mate zichzelf kent, en daardoor een beeld van zichzelf vormt dat de godgeleerden Woord noemen ; zo ook — voor zover men het goddelijke aan het menselijke mag vergelijken — kent God zichzelf en brengt Hij het eeuwige Woord voort.
 
 [^44.1]: Jo. I, 1.
 

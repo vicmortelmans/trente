@@ -45,7 +45,7 @@ Dit gebod komt met de andere overeen, niet door riten en plechtigheden, maar omd
 
 ## De apostelen hebben geboden de Zondag te eren in plaats van de Sabbat.
 
-Daarom hebben de apostelen besloten de eerste van de zeven dagen aan de dienst van God te wijden, en die dag hebben ze dag van de Heer genoemd. De heilige Joannes vermeldt de dag van de Heer in het Boek der Openbaringen [^483.1], en de heilige Paulus beveelt een geldinzameling te doen “daags na elke Sabbat„ [^483.2], dit is, volgens de verklaring van de heilige Chrysostomus, op de dag van de Heer.  Daardoor begrijpen we dat reeds toen de Zondag in de Kerk geheiligd werd.
+Daarom hebben de apostelen besloten de eerste van de zeven dagen aan de dienst van God te wijden, en die dag hebben ze dag van de Heer genoemd. De heilige Johannes vermeldt de dag van de Heer in het Boek der Openbaringen [^483.1], en de heilige Paulus beveelt een geldinzameling te doen “daags na elke Sabbat„ [^483.2], dit is, volgens de verklaring van de heilige Chrysostomus, op de dag van de Heer.  Daardoor begrijpen we dat reeds toen de Zondag in de Kerk geheiligd werd.
 
 [^483.1]: Apoc. 1, 10.
 
@@ -152,7 +152,7 @@ Nochtans zijn de werken en handelingen, die tot de eredienst behoren, niet verbo
 
 ## Andere slafelijke werken zijn toegelaten omdat ze noodzakelijk zijn.
 
-Deze wet verbiedt ook niet, op de feestdag te werken aan zaken die anders zouden verloren gaan ; dit wordt uitdrukkelijk gezegd in het kerkelijk recht. De Heer heeft in het Evangelie verklaard dat vele andere werken toegelaten zijn op de feestdagen ; de pastoor kan die gemakkelijk vinden bij de heilige Mattheus en de heilige Joannes [^491.1].
+Deze wet verbiedt ook niet, op de feestdag te werken aan zaken die anders zouden verloren gaan ; dit wordt uitdrukkelijk gezegd in het kerkelijk recht. De Heer heeft in het Evangelie verklaard dat vele andere werken toegelaten zijn op de feestdagen ; de pastoor kan die gemakkelijk vinden bij de heilige Mattheus en de heilige Johannes [^491.1].
 
 [^491.1]: Matth. XII, 3-5 ; Jo. V, 8.
 

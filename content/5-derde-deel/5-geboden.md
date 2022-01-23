@@ -159,7 +159,7 @@ Eindelijk moet men de nadelen uitleggen die ons overkomen als wij het onrecht ni
 
 ## Uit de haat komen vele zonden voort.
 
-Verder zijn er nog vele zonden en slechte gevolgen, die als met een band aaneengesnoerd zijn door die ééne zonde van haat. Daarom mocht de heilige Joannes zeggen : “Wie zijn broeder haat, die is in de duisternis en wandelt in de duisternis en weet niet waarheen hij gaat, omdat de duisternis zijn ogen verblind heeft„ [^520.1]. Zulk een mens moet noodzakelijk dikwijls vallen. Immers, hoe zou men de woorden of werken kunnen goedkeuren van iemand die men haat?  Vandaar komt vermetel en onrechtvaardig oordeel, gramschap, nijd, laster, en andere zonden van die aard, die zelfs vrienden en bloedverwanten niet sparen.  Zo gebeurt het dikwijls dat uit één zonde veel andere voortkomen.
+Verder zijn er nog vele zonden en slechte gevolgen, die als met een band aaneengesnoerd zijn door die ééne zonde van haat. Daarom mocht de heilige Johannes zeggen : “Wie zijn broeder haat, die is in de duisternis en wandelt in de duisternis en weet niet waarheen hij gaat, omdat de duisternis zijn ogen verblind heeft„ [^520.1]. Zulk een mens moet noodzakelijk dikwijls vallen. Immers, hoe zou men de woorden of werken kunnen goedkeuren van iemand die men haat?  Vandaar komt vermetel en onrechtvaardig oordeel, gramschap, nijd, laster, en andere zonden van die aard, die zelfs vrienden en bloedverwanten niet sparen.  Zo gebeurt het dikwijls dat uit één zonde veel andere voortkomen.
 
 [^520.1]: I Jo. II, 11.
 

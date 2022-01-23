@@ -147,7 +147,7 @@ Om de gloed van de begeerlijkheid uit te doven, is het ook nuttig de onheilen vo
 
 Een eerste gevolg is, dat de zonde met volle kracht en macht in onze ziel heerst als wij dé begeerlijkheid involgen ; daarom zegt de Apostel : “Laat de zonde niet in uw sterfelijk lichaam heersen, zodat gij aan zijn begeerlijkheden zoudt gehoorzamen„ [^571.1]. Als wij aan de begeerlijkheid weerstaan, dan nemen ook de krachten van de zonde af ; doch als we er aan toegeven, dan verjagen we God, uit zijn rijk en leiden er de zonde binnen.
 
-Een tweede nadeel is, dat uit de begeerlijkheid, als uit een bron, alle zonden voortvloeien, zoals de heilige Jacobus leert [^571.2]. En ook de heilige Joannes zegt : “Al wat in de wereld is, is begeerlijkheid van het vlees en begeerlijkheid van de ogen en hovaardij van het leven„ [^571.3].
+Een tweede nadeel is, dat uit de begeerlijkheid, als uit een bron, alle zonden voortvloeien, zoals de heilige Jacobus leert [^571.2]. En ook de heilige Johannes zegt : “Al wat in de wereld is, is begeerlijkheid van het vlees en begeerlijkheid van de ogen en hovaardij van het leven„ [^571.3].
 
 En een derde gevolg is, dat het juiste oordeel van het verstand beneveld wordt door de begeerlijkheid. Door de duisternis van die begeerten worden de mensen verblind, en beginnen ze te denken, dat al wat zij verlangen, eerlijk en schoon is.
 

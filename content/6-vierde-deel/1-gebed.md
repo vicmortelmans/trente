@@ -19,7 +19,7 @@ Eerst en vooral moet men leren hoe noodzakelijk het gebed is ; het gebod van te 
 
 [^574.1]: Luc. XVIII, 1.
 
-Omdat het gebed nodig is voor de christelijke mensen, en zijn leerlingen Hem vroegen : “Heer, leer ons bidden„ [^575.1], heeft de Zoon van God hun een gebedsvorm voorgeschreven, en hun de hoop gegeven dat ze zouden verhoord worden als ze zo bidden. Hij zelf was een voorbeeld van gebed, want niet alleen bad Hij voortdurend, maar Hij bracht zelfs de nacht door in gebed. En de apostelen hebben onophoudelijk die verplichting voorgehouden aan degenen die zich tot het geloof van Jezus Christus bekeerd hadden. Petrus [^575.2] en Joannes [^575.3] zetten de gelovigen met nadruk aan tot het gebed, en de Apostel wijst, op verscheidene plaatsen, op de heilzame noodzakelijkheid van te bidden [^575.4].
+Omdat het gebed nodig is voor de christelijke mensen, en zijn leerlingen Hem vroegen : “Heer, leer ons bidden„ [^575.1], heeft de Zoon van God hun een gebedsvorm voorgeschreven, en hun de hoop gegeven dat ze zouden verhoord worden als ze zo bidden. Hij zelf was een voorbeeld van gebed, want niet alleen bad Hij voortdurend, maar Hij bracht zelfs de nacht door in gebed. En de apostelen hebben onophoudelijk die verplichting voorgehouden aan degenen die zich tot het geloof van Jezus Christus bekeerd hadden. Petrus [^575.2] en Johannes [^575.3] zetten de gelovigen met nadruk aan tot het gebed, en de Apostel wijst, op verscheidene plaatsen, op de heilzame noodzakelijkheid van te bidden [^575.4].
 
 ## Hoe kunnen we aan de gelovigen de noodzakelijkheid van het gebed doen begrijpen ?
 
