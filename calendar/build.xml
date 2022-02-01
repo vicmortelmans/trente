@@ -4,16 +4,18 @@
   </target>
   <target name="xhtml" depends="hugo">
     <!-- two files are processed:
-      ../public/docs/7-kalender/kalender-eo/index.html => ./kalender-eo.html
-      ../public/docs/7-kalender/kalender-of/index.html => ./kalender-of.html
+      ../public/7-kalender/kalender-eo/index.html => ./kalender-eo.html
+      ../public/7-kalender/kalender-of/index.html => ./kalender-of.html
     -->
+    <delete file="./kalender-eo.html"/>
+    <delete file="./kalender-of.html"/>
     <apply executable="xmllint">
       <arg value="--html"/>
       <arg value="--xmlout"/>
       <arg value="--output"/>
       <targetfile/>
       <srcfile/>
-      <fileset dir="../public/docs/7-kalender">
+      <fileset dir="../public/7-kalender">
         <include name="**/index.html"/>
       </fileset>
       <mapper type="regexp" from="^.*(kalender-..).*$" to="./\1.html"/>
@@ -28,11 +30,11 @@
     <delete file="./kalender-of.xml"/>
     <xslt in="./calendar-eo.xml" out="./kalender-eo.xml" style="romeinse-catechismus-calendar.xslt">
       <param name="romeinse-catechismus-html" expression="./kalender-eo.html"/>
-      <param name="romeinse-catechismus-url" expression="https://trente.gelovenleren.net/docs/7-kalender/kalender-eo/index.html"/>
+      <param name="romeinse-catechismus-url" expression="https://trente.gelovenleren.net/7-kalender/kalender-eo/index.html"/>
     </xslt>
     <xslt in="./calendar-of.xml" out="./kalender-of.xml" style="romeinse-catechismus-calendar.xslt">
       <param name="romeinse-catechismus-html" expression="./kalender-of.html"/>
-      <param name="romeinse-catechismus-url" expression="https://trente.gelovenleren.net/docs/7-kalender/kalender-of/index.html"/>
+      <param name="romeinse-catechismus-url" expression="https://trente.gelovenleren.net/7-kalender/kalender-of/index.html"/>
     </xslt>
   </target>
   <target name="json" depends="xml">

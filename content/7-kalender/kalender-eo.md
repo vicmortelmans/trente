@@ -267,7 +267,7 @@ Deze pagina geeft een overzicht van de zondagen volgens de liturgische kalender 
 ## Vierde Zondag na Pinksteren.{#Y041}
 
 - ***Toen de menigte eens op Jezus aandrong en naar het woord van God luisterde…*** Luc. V‚ 1. Opwekking om het Woord van God [aandachtig te aanhoren](/2-inleiding/inleiding/#de-oorsprong-der-uitmuntende-gave-van-het-geloof). De prediking moet [aangepast zijn aan de toehoorders](/2-inleiding/inleiding/#het-is-niet-voldoende-dat-de-herders-bij-hun-onderwijs-dat-dubbel-doel-voor-ogen-hebben-ze-moeten-zich-ook-aanpassen-aan-hun-toehoorders). Vooral [op de feestdagen moeten wij het woord van God aanhoren](/5-derde-deel/3-geboden/#waarom-was-het-nodig-bepaalde-dagen-aan-de-eredienst-toe-te-wijden-). 
-- ***Hij stapte in een der booten, die van Simon was.*** Jezus stapt in de boot van Simon, en niet in die van een anderen apostel, om aan te tonen dat [Petrus het hoofd is van de Kerk](/3-eerste-deel/9-symbolum/#wat-we-moeten-denken-over-de-paus-van-rome-zichtbaar-hoofd-der-kerk-van-christus).  
+- ***Hij stapte in een der boten, die van Simon was.*** Jezus stapt in de boot van Simon, en niet in die van een anderen apostel, om aan te tonen dat [Petrus het hoofd is van de Kerk](/3-eerste-deel/9-symbolum/#wat-we-moeten-denken-over-de-paus-van-rome-zichtbaar-hoofd-der-kerk-van-christus).  
 - ***Ga weg van mij, Heer.*** Wanneer we de Heilige Communie moeten ontvangen, moeten wij, zoals Petrus, en zoals de honderdman waarover gesproken wordt bij Mattheus, VIII, erkennen dat wij de tegenwoordigheid van zulk een Gast niet waardig zijn. Zie, [over de voorbereiding tot de Heilige Communie](/4-tweede-deel/3-sacramenten/#men-moet-zich-voorbereiden-tot-de-heilige-communie).
 
 ## Vijfde Zondag na Pinksteren.{#Y051}
