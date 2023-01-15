@@ -1,0 +1,74 @@
+baseURL = ""
+DefaultContentLanguage = "nl"
+languageCode = "nl-nl"
+title = "Catechismus van het Concilie van Trente"
+theme = "epub"
+
+disableKinds = ["RSS", "robotsTXT", "404", "taxonomy", "section", "term", "sitemap"]
+
+uglyurls = true
+relativeURLs = true
+disablePathToLower = true
+
+[permalinks]
+# add your section name(s) here. Default is "blog"
+  blog = "/OEBPS/chapter/:filename"
+  "/" = "/OEBPS/:filename"
+  
+[mediaTypes]
+  [mediaTypes."application/xhtml+xml"]
+    suffixes = ["xhtml"]
+  [mediaTypes."application/opf+xml"]
+    suffixes = ["opf"]
+  [mediaTypes."application/x-dtbncx+xml"]
+    suffixes = ["ncx"]
+    
+[outputFormats]
+  [outputFormats.XHTML]
+    mediaType = "application/xhtml+xml"
+    isHTML = true
+    permalinkable = true
+  [outputFormats.OPF]
+    mediaType = "application/opf+xml"
+    isHTML = true
+    permalinkable = true
+    path = "OEBPS"
+    baseName = "content"
+  [outputFormats.NCX]
+    mediaType = "application/x-dtbncx+xml"
+    isHTML = true
+    permalinkable = true
+    path = "OEBPS"
+    baseName = "toc"
+    
+[outputs]
+  page = ["XHTML"]
+  home = ["OPF","NCX"]
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = false
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = false
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = true
+      
+[params]
+  imgsize = "1200x q70" 
+# imgsize = "800x png" # png works better with older ebook reader
+  bookid = "" # if empty the unix timestamp is taken
+# metadata of your ebook
+  title = "Catechismus van het Concilie van Trente"
+  subtitle = "De Romeinse Catechismus - Catechismus Romanus ex decreto SS. Concilii Tridentini" # (optional)
+  description = "CATECHISMUS VAN HET CONCILIE VAN TRENTE (1566) UIT HET LATIJN VERTAALD DOOR F. VERMUYTEN, PR." # (optional)
+  publisher = "gelovenleren.net"

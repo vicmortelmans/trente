@@ -1,0 +1,1 @@
+../../../../content/3-eerste-deel/10-symbolum.md

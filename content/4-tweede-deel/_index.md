@@ -1,5 +1,5 @@
 ---
-weight: 50
+weight: 2000
 title: "Tweede Deel: De Sacramenten"
 bookCollapseSection: "true"
 ---

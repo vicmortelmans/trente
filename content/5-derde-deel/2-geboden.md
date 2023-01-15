@@ -1,5 +1,5 @@
 ---
-weight: 510
+weight: 3020
 title: "Tweede Gebod"
 ---
 

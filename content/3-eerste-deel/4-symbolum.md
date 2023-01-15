@@ -1,5 +1,5 @@
 ---
-weight: 80
+weight: 1040
 title: "Die geleden heeft onder Pontius Pilatus, gekruisigd is, gestorven en begraven"
 ---
 

@@ -22,3 +22,4 @@ Mechlinie, die 25 Martii 1935
 
 *Gedigitaliseerd door [Geloven Leren](https://gelovenleren.net)*
 
+De volledige tekst is ook beschikbaar als [EPUB-bestand voor e-readers](/Romeinse-Catechismus.epub).

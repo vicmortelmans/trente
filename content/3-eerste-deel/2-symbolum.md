@@ -1,5 +1,5 @@
 ---
-weight: 60
+weight: 1020
 title: "En in Jezus Christus, zijn enige Zoon, onze Heer"
 ---
 

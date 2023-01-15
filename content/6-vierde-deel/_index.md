@@ -1,5 +1,5 @@
 ---
-weight: 70
+weight: 4000
 title: "Vierde Deel: Het Gebed"
 bookCollapseSection: "true"
 ---

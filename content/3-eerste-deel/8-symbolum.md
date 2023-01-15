@@ -1,5 +1,5 @@
 ---
-weight: 120
+weight: 1080
 title: "Ik geloof in de Heilige Geest"
 ---
 

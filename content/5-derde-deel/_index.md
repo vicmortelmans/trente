@@ -1,5 +1,5 @@
 ---
-weight: 60
+weight: 3000
 title: "Derde Deel: De tien Geboden van God"
 bookCollapseSection: "true"
 ---

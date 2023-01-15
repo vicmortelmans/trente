@@ -1,5 +1,5 @@
 ---
-weight: 1210
+weight: 3090
 title: "Negende en Tiende Gebod"
 ---
 

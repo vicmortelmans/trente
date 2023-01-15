@@ -1,5 +1,5 @@
 ---
-weight: 50
+weight: 1010
 title: "Ik geloof in God, de Vader almachtig, schepper van hemel en aarde"
 ---
 

@@ -1,5 +1,5 @@
 ---
-weight: 100
+weight: 1060
 title: "Die opgeklommen is ten hemel, en zit aan de rechterhand van God, Zijn almachtige Vader"
 ---
 

@@ -1,5 +1,5 @@
 ---
-weight: 40
+weight: 1000
 title: "Eerste Deel: Het Symbolum des Geloofs"
 bookCollapseSection: "true"
 ---

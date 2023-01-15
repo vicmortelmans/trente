@@ -1,5 +1,5 @@
 ---
-weight: 130
+weight: 1090
 title: "Ik geloof in de heilige katholieke Kerk, en in de gemeenschap der heiligen"
 ---
 

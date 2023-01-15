@@ -1,5 +1,5 @@
 ---
-weight: 910
+weight: 3060
 title: "Zesde Gebod"
 ---
 

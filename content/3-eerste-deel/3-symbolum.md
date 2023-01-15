@@ -1,5 +1,5 @@
 ---
-weight: 70
+weight: 1030
 title: "Die ontvangen is van de Heilige Geest, geboren uit de Maagd Maria"
 ---
 

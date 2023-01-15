@@ -1,5 +1,5 @@
 ---
-weight: 1010
+weight: 3070
 title: "Zevende Gebod"
 ---
 

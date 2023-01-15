@@ -10,5 +10,9 @@ Building the website to public/: ./hugo
 
 Deploying the website: ./deploy
 
-Building an EPUB file:  pandoc _index.md verantwoording.md inleiding.md acerbo.md */*.md -o ../result.pdf
+Creating EPUB file:
 
+1. cd epub
+2. ./deploy
+
+The EPUB is then available in /static and will be uploaded to the website on the next ./deploy.

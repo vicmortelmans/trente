@@ -1,5 +1,5 @@
 ---
-weight: 110
+weight: 1070
 title: "Vandaar zal Hij komen oordelen de levenden en de doden"
 ---
 

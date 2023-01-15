@@ -1,5 +1,5 @@
 ---
-weight: 310
+weight: 3001
 title: "De tien geboden in het algemeen"
 ---
 

@@ -1,5 +1,5 @@
 ---
-weight: 410
+weight: 3010
 title: "Eerste Gebod"
 ---
 

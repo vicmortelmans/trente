@@ -1,5 +1,5 @@
 ---
-weight: 810
+weight: 3050
 title: "Vijfde Gebod"
 ---
 

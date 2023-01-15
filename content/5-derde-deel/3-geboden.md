@@ -1,5 +1,5 @@
 ---
-weight: 610
+weight: 3030
 title: "Derde Gebod"
 ---
 

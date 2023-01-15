@@ -1,5 +1,5 @@
 ---
-weight: 1110
+weight: 3080
 title: "Achtste Gebod"
 ---
 
