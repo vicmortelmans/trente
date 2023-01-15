@@ -39,7 +39,7 @@
 {{- $n := 0 }}
 {{- $size := .Site.Params.imgsize -}}
 {{- $beginning := "" -}}
-{{- range ( where .Site.RegularPages "Section" "ne" "" ).Reverse }}
+{{- range ( sort ( where .Site.RegularPages "Section" "ne" "" ) ".Params.weight" "desc" ).Reverse }}
    <item href="{{ replace .Permalink "/OEBPS/" "" }}" id="chapter_{{ $i }}" media-type="application/xhtml+xml" />
 	{{- if eq $i 0 }}{{ $beginning = .Permalink }}{{ end -}}
 	{{- with  .Resources.ByType "image" -}}
@@ -59,7 +59,7 @@
    <itemref idref="titelseite" />
    <itemref idref="inhaltsverzeichnis" />
 {{ $i = 0 }}
-{{- range ( where .Site.RegularPages "Section" "ne" "" ).Reverse }}
+{{- range ( sort ( where .Site.RegularPages "Section" "ne" "" ) ".Params.weight" "desc" ).Reverse }}
   <itemref idref="chapter_{{ $i }}" />   
 {{- $i = add $i 1 }}
 {{- end }}

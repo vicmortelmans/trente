@@ -22,7 +22,7 @@
       <ol>
         <li><a href="titelseite.xhtml">Voorpagina</a></li>
 {{- $i := 0 }}
-{{- range ( sort ( where .Site.RegularPages "Section" "ne" "" ) ".Params.weight" "desc" ) }}
+{{- range ( sort ( where .Site.RegularPages "Section" "ne" "" ) ".Params.weight" "desc" ).Reverse }}
         <li><a href="{{ replace .Permalink "/OEBPS/" "" }}">{{ .Title  }}</a></li>
 {{- $i = add $i 1 }}
 {{- end }}

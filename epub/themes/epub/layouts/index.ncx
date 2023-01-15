@@ -30,7 +30,7 @@
     </navPoint>
 
 {{ $i := 0 -}}
-{{- range ( where .Site.RegularPages "Section" "ne" "" ).Reverse }}
+{{- range ( sort ( where .Site.RegularPages "Section" "ne" "" ) ".Params.weight" "desc" ).Reverse }}
     <navPoint id="chapter_{{ $i }}"
               playOrder="{{ add $i 3 }}">
       <navLabel>
